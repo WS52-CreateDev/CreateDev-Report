@@ -21,7 +21,7 @@
         <tr>
             <!-- DATOS del integrante 1-->
             <td > 
-            <img src=""> 
+            <img src="/assets/img/ale.jpg"> 
             <br>María  Alejandra Díaz Villacrez u202118315 
             </td>
             <!-- DESCRIPCIÓN del integrante 1-->
