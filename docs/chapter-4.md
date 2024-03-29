@@ -1,11 +1,31 @@
 # Capítulo IV: Product Design.
 
-## 4.1. Style Guidelines. Josten
+## 4.1. Style Guidelines.
 
-Contenido
+El estilo de un producto es fundamental para crear una experiencia visual coherente y atractiva para los usuarios. Las pautas de estilo proporcionan un marco para garantizar que todos los aspectos del diseño, desde el tipo de tipografía hasta los colores que presenta, se mantengan consistentes en todas las plataformas y dispositivos. A continuación, se detallarán las pautas de estilo de nuestro proyecto.
+
 ### 4.1.1. General Style Guidelines.
 
-Contenido
+Consistencia Visual: Mantener una apariencia coherente en todo el producto, desde el diseño de la interfaz de usuario hasta los elementos visuales. Esto abarca la elección de colores, el tipo de tipografía, estilos y la usabilidad de nuestra página web.
+
+Simplicidad: Priorizar la simplicidad en el diseño para una experiencia de usuario agradable, intuitiva y sin complicaciones. Evitar el exceso de elementos decorativos o innecesarios que puedan distraer a los usuarios y dificultar la compresión del contenido.
+
+Legibilidad: Utilizar fuentes legibles y un tamaño adecuado para garantizar que el contenido sea fácilmente legible en todas las plataformas y dispositivos. Mantener un alto contraste entre el texto y el fondo para mejorar la legibilidad, especialmente para las personas que presentan dificultades visuales.
+
+Identidad de Marca: Reflejar la esencia de la marca en el diseño del producto, utilizando colores, tipografías, y estilos visuales que sea consistentes con la personalidad de la marca. Esto nos ayuda a fortalecer la identidad visual de la marca y a conectar con los usuarios.
+
+Branding:
+
+Typography:
+
+Colors y Spacing:
+
+Relleno:
+
+Dimensiones:
+
+Alineación:
+
 ### 4.1.2. Web Style Guidelines.
 
 Contenido
