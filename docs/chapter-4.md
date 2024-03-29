@@ -16,9 +16,15 @@ Identidad de Marca: Reflejar la esencia de la marca en el diseño del producto, 
 
 Branding:
 
+<p align = "center"> <img src="/assets/img/makilogo.svg" width="250"></img> </p>
+
 Typography:
 
+<p align = "center"> <img src="/assets/img/typography.png" width="250"></img> </p>
+
 Colors y Spacing:
+
+<p align = "center"> <img src="/assets/img/Maki-palette.png" width="250"></img> </p>
 
 Relleno:
 
