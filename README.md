@@ -19,7 +19,7 @@
 
 * **Estudiante 1   codigo**
 * **Maria Alejandra Díaz Villacrez  U202118315**
-* **Estudiante 3   codigo**
+* **Antonella Frida Gonzales Gomez   U20211C403**
 * **Estudiante 4   codigo** 
 * **Estudiante 5   codigo** 
 
@@ -38,6 +38,7 @@
 | Versión | Fecha      | Autor    | Descripción de modificación           |
 |---------|------------|----------|---------------------------------------|
 | 1.0     | 29/03/2024 | Alejandra Díaz | Se creo la ramificación del repositorio y adicionó los documentos en su versión inicial previa a la investigacón |
+| 1.0     | 1/04/2024 | Antonella Gonzales |Se creo los capitulos en el repositorio y tambien se completo el capitulo 3 |
 
 
 
