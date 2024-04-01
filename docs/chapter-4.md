@@ -200,7 +200,11 @@ Contenido
 
 ## 4.8. Database Design.
 
-Contenido
+En esta sección el equipo desarolla el diagrama de entidades que estarán presentes en la base de datos. 
+
 ### 4.8.1. Database Diagram.
 
-Contenido
+Tomando en cuenta los user stories y product backlog previamente realizados, se elaboró el diagrama de base de datos.
+
+<p align = "center"> <img src="/assets/img/Db diagram.png" width="900"></img> </p>
+
