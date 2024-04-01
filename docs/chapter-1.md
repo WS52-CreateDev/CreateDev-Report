@@ -32,13 +32,12 @@
         <tr>
             <!-- DATOS del integrante 2-->
             <td>
-            <img src="" height="">
-            <br> Nombres y Apellidos
-            </td>
-            <!-- DESCRIPCIÓN del integrante 2-->
-            <td> </td>
+           <img src="/assets/img/Anto.jpg" width="100" height="100">
+            <br> Antonella Frida Gonzales Gomez u20211c403
+            </td> 
+            <td> Soy estudiante de 5to ciclo de la carrera de  de Ingeniería de Software. Tengo el interes de aprender sobre el desarrollo de aplicaciones web.  </td>
             <!-- CONOCIMIENTOS del integrante 2-->
-            <td> </td>
+            <td>    Tengo conocimientos en los siguientes lenguajes de programacion: C++,Python,JavaScript y typeScript. me gusta trabajar en equipo y soy responsable con las actividades del trabajo. </td>
         </tr>
         <tr>
             <!-- DATOS del integrante 3-->
