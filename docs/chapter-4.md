@@ -173,18 +173,31 @@ Contenido
 
 ## 4.6. Domain-Driven Software Architecture. 
 
-Contenido
+La arquitectura de software basada en Domain-Driven Design (DDD) es un enfoque que se centra en modelar el dominio de la aplicación para reflejar con precisión las reglas de negocio y los conceptos clave. En el contexto de nuestra aplicación de arte peruano, hemos adoptado principios de DDD para diseñar una arquitectura que sea flexible, escalable y centrada en el negocio.
+
 ### 4.6.1. Software Architecture Context Diagram.
 
-Contenido
+El diagrama de contexto de la arquitectura de software muestra el entorno general en el que opera nuestra aplicación de arte peruano. En este contexto, los actores externos incluyen a los usuarios finales interesados en el arte peruano, así como los artesanos que producen las obras de arte. Además, nuestra aplicación interactúa con otros sistemas externos, como servicios de autenticación para gestionar el acceso de los usuarios, sistemas de pago para procesar transacciones de compra, y servicios de gestión de contenido para administrar el contenido mostrado en la aplicación.
+
+Diagrama realizado en Structurizr:
+
+<p align = "center"> <img src="/assets/img/Diagrama Contexto.png" width="600"></img> </p>
 
 ### 4.6.2. Software Architecture Container Diagrams.
 
-Contenido
+El diagrama de contenedores de la arquitectura de software proporciona una visión de alto nivel de los principales componentes de nuestra aplicación y cómo se comunican entre sí. Nuestra aplicación de arte peruano se compone de varios contenedores, incluyendo la aplicación misma, la base de datos que almacena información sobre artesanos, reseñas, pedidos, etc., y otros sistemas de soporte como el sistema de autenticación, el sistema de gestión de usuarios, el sistema de gestión de inventarios, entre otros.
+
+Diagrama realizado en Structurizr:
+
+<p align = "center"> <img src="/assets/img/Diagrama Contenedores.png" width="600"></img> </p>
 
 ### 4.6.3. Software Architecture Components Diagrams.
 
-Contenido
+El diagrama de componentes de la arquitectura de software se centra en los componentes internos de cada contenedor y cómo se relacionan entre sí para cumplir con las funciones específicas de nuestra aplicación. Dentro de la aplicación de arte peruano, los componentes incluyen la interfaz de usuario web, los controladores que gestionan las solicitudes del usuario, los servicios que implementan la lógica de negocio, y los modelos de datos que representan la información almacenada en la base de datos. Además, otros componentes como el gestor de calificaciones, el gestor de pedidos, el servicio de pagos, entre otros, interactúan dentro de sus respectivos contenedores para proporcionar funcionalidades adicionales a nuestra aplicación.
+
+Diagrama realizado en Structurizr:
+
+<p align = "center"> <img src="/assets/img/Diagrama Componentes.png" width="600"></img> </p>
 
 ## 4.7. Software Object-Oriented Design.
 
