@@ -17,7 +17,7 @@
 
  </center> 
 
-* **Estudiante 1   codigo**
+* **Carlo Patricio Ramirez Escalante   U202210787**
 * **Maria Alejandra Díaz Villacrez  U202118315**
 * **Antonella Frida Gonzales Gomez   U20211C403**
 * **Estudiante 4   codigo** 
@@ -39,7 +39,7 @@
 |---------|------------|----------|---------------------------------------|
 | 1.0     | 29/03/2024 | Alejandra Díaz | Se creo la ramificación del repositorio y adicionó los documentos en su versión inicial previa a la investigacón |
 | 1.0     | 1/04/2024 | Antonella Gonzales |Se creo los capitulos en el repositorio y tambien se completo el capitulo 3 |
-
+| 1.0     | 2/04/2024 | Carlo Ramirez |Se completo el punto 4.6 del capitulo 4 y el punto 5.1 del capitulo 5 |
 
 
 
