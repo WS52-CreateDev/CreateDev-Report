@@ -2,20 +2,23 @@
 
 ## 5.1. Software Configuration Management. 
 
-Contenido
+La gestión de la configuración de software es fundamental para garantizar un desarrollo de software eficiente y controlado. Incluye la administración de la configuración del entorno de desarrollo, la gestión del código fuente, las guías de estilo y convenciones, así como la configuración del despliegue de software.
+
 ### 5.1.1. Software Development Environment Configuration.
 
-Contenido
+Configuramos un entorno de desarrollo completo para facilitar la creación, compilación y prueba de nuestro software. Este entorno incluye IDEs como Visual Studio Code, junto con las dependencias necesarias para el lenguaje de programación utilizado, como Node.js para JavaScript.
 
 ### 5.1.2. Source Code Management.
-Contenido
+
+Gestionamos nuestro código fuente utilizando sistemas de control de versiones como Git, alojando nuestro repositorio en plataformas como GitHub o GitLab. Esto nos permite mantener un registro de los cambios realizados en el código, colaborar eficazmente con otros miembros del equipo y revertir a versiones anteriores según sea necesario.
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
-Contenido
+Adoptamos una guía de estilo y convenciones de código para asegurar la coherencia y legibilidad del mismo. Esta guía se basa en estándares reconocidos por la comunidad de desarrollo de software y abarca aspectos como la nomenclatura, el formato, la gestión de errores y los comentarios, con el objetivo de mejorar la mantenibilidad del código.
+
 ### 5.1.4. Software Deployment Configuration.
 
-Contenido
+El despliegue del software implica la preparación y configuración del entorno de producción. Para nuestra landing page, utilizamos GitHub Pages para publicarla. Este servicio nos permite alojar nuestro sitio web estático directamente desde nuestro repositorio de GitHub, simplificando el proceso de despliegue y asegurando una implementación rápida y eficiente sin la necesidad de un backend complejo.
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 
