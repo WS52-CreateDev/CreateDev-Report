@@ -157,9 +157,12 @@ A continuación, se muestra y explica los Wireframes de nuestra aplicación Web.
 Podemos notar elementos como el space para separar las imágenes y los textos, los shapes para encerrar o enmarcar grupos de texto, íconos y/o Imágenes. Además, la Información que se le solicita al usuario, al momento de crear una cuenta, registrarse o Ingresar a la aplicación, es clara y concisa. 
 
 - •	Inicio de la Aplicación: Menú principal al momento de abrir la pagina
+<p align = "center"> <img src="/assets/img/inicioweb.jpg" width="500"></img> </p>
 
-<p align = "center"> <img src="/assets/img/inicioweb.jpg" width="300"></img> </p>
 - Inicio de Sesión: Un usuario recurrente tendrá acceso a la validación de su cuenta para el ingreso a su cuenta.
+<p align = "center"> <img src="/assets/img/iniciosesion.jpg" width="500"></img> </p>
+- Registro de Cuenta: Si el usuario no esta con una cuenta, en este lugar podra crearlo, donde se tendrá que validar el registro de un nombre de usuario, correo y contraseña.
+<p align = "center"> <img src="/assets/img/registrocuenta.jpg" width="500"></img> </p>
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
