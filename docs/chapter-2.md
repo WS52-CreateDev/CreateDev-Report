@@ -18,9 +18,10 @@ En este apartado se realizará el análisis de 3 competidores, directos o indire
 </tr>
 <tr>
   <td colspan="2" valign="top"></td>
-  <td valign="top"><b>CraftArtApp</b></td><td valign="top">
+  <td valign="top"><b>CraftArtApp
+  ![Imagen](https://cdn.discordapp.com/attachments/754867305468395543/1224097560529207406/image.png?ex=661c40b1&is=6609cbb1&hm=3e8e861e8cc76a72f18c21b7b9a19c3d6663788ff15208e5d46efa515d4a0803&)
+  </b></td><td valign="top">
   <b>Artesanía. App</b>
-    ![Imagen](https://cdn.discordapp.com/attachments/754867305468395543/1224097560529207406/image.png?ex=661c40b1&is=6609cbb1&hm=3e8e861e8cc76a72f18c21b7b9a19c3d6663788ff15208e5d46efa515d4a0803&)
   </td>
   <td valign="top">
     <p>
