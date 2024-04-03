@@ -18,8 +18,7 @@ En este apartado se realizará el análisis de 3 competidores, directos o indire
 </tr>
 <tr>
   <td colspan="2" valign="top"></td>
-  <td valign="top"><b>CraftArtApp<br><br><br>![Patrón de fondo
-Descripción generada automáticamente](Aspose.Words.a1e5b4f9-353d-4717-97e3-2cf2f6790235.001.png)</b></td><td valign="top">
+  <td valign="top"><b>CraftArtApp<br><br><br></b></td><td valign="top">
   <b>Artesanía. App<br><br><br>![Texto, Logotipo
 Descripción generada automáticamente con confianza media](Aspose.Words.a1e5b4f9-353d-4717-97e3-2cf2f6790235.002.png)</b></td>
   <td valign="top"><p><b>Dédalo, arte y artesanía</b></p><p><br><b>![Texto
