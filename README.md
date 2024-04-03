@@ -41,6 +41,7 @@
 | 1.0     | 1/04/2024 | Antonella Gonzales |Se creo los capitulos en el repositorio y tambien se completo el capitulo 3 |
 | 1.0     | 2/04/2024 | Carlo Ramirez |Se completo el punto 4.6 del capitulo 4 y el punto 5.1 del capitulo 5 |
 | 1.0     | 2/04/2024 | Braulio Torrejon |Se completo el punto 4.4 del capitulo 4 |
+| 1.0     | 2/04/2024 | Jair Coraje | Se completo el capitulo 2 |
 
 
 
