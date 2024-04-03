@@ -100,9 +100,97 @@ En este apartado se realizará el análisis de 3 competidores, directos o indire
 </table>
 
 
-### 2.1.2. Estrategias y tácticas frente a competidores.
+### <a name="_toc106465562"></a>2.1.2 Estrategias y tácticas frente a competidores.
+A continuación, se mencionan las estrategias y tácticas que aplicaremos para aprovechar nuestras fortalezas y afrontar nuestras debilidades, de la misma forma con las oportunidades y amenazas en relación con nuestros competidores. Para la generación de estrategias elaboramos la siguiente matriz foda (DAFO).
 
-Contenido
+<table>
+  <tr>
+    <th colspan="2" rowspan="2" valign="top">
+      <p>
+        <b>MATRIZ FODA (DAFO)</b>
+      </p>
+      <p></p>
+      <p>
+        <b>GENERACIÓN DE ESTRATEGIAS</b>
+      </p>
+    </th>
+    <th colspan="2" valign="top">
+      <b>Análisis del entorno
+      </b>
+    </th>
+  </tr>
+<tr>
+  <td valign="top">
+    <p>
+      <b>Principales Oportunidades:</b>
+      <br>-Pocas aplicaciones en el mercado con un objetivo similar al nuestro.
+    </p>
+    <p>-Aumento de la comercialización virtual.</p>
+    <p>-Impulso de los artesanos por la comercialización de sus productos.</p>
+  </td>
+  <td valign="top">
+  <p>
+    <b>Principales Amenazas:</b>
+  </p>
+    <p>
+      -Presencia de grandes competidores.
+    </p>
+    <p>
+      -Inestabilidad política y social.
+    </p>
+    <p>
+      -Problemas de conectividad en zonas alejadas de las ciudades.
+    </p>
+  </td>
+</tr>
+<tr>
+  <td rowspan="2" valign="top">
+    <b>Análisis interno</b>
+  </td>
+  <td valign="top">
+    <p>
+      <b>Principales Fortalezas:
+      </b>
+    </p>
+    <p>
+      -Producción de artesanías de calidad y a detalle.</p><p>-Proceso de fabricación rápida.
+    </p>
+    <p>-Control de calidad y existencia de productos.
+    </p>
+  </td>
+  <td valign="top">
+    <p>
+      <b>Estrategias FO:</b></p><p>-Ofrecer un servicio de calidad aprovechando que hay pocas aplicaciones como la nuestra. -Ofrecer productos de artesanía de calidad, elaborada de forma rápida por expertos en el área.
+      </p>
+  </td>
+  <td valign="top">
+    <p>
+      <b>Estrategias FA:
+      </b>
+    </p>
+    <p>
+      -Mejorar continuamente la aplicación y escuchar las recomendaciones de los usuarios.
+    </p>
+    <p>
+      -Aprovechar los problemas de conectividad brindando número telefónicos para comunicar a los usuarios sin la necesidad de internet.
+    </p>
+  </td>
+</tr>
+<tr>
+  <td valign="top"><p><b>Principales Debilidades:
+  </b>
+  </p>
+    <p>
+      -Aplicación nueva, poco conocida.
+    </p>
+    <p>-Falta de financiamiento.</p><p>-Poca experiencia en el aspecto empresarial.</p>
+  </td>
+  <td valign="top"><p><b>Estrategias DO:</b></p><p>-Realizar alianzas estratégicas con las comunidades artesanas y con empresas que vendan la materia prima para la artesanía.</p><p>-Conseguir asesoramiento para mejorar en el aspecto empresarial y la gestión de esta misma.</p>
+  </td>
+  <td valign="top"><p><b>Estrategias DA:</b></p><p>-Posicionar la marca y hacerla más conocida a través de redes sociales.</p><p>-Aprovechar la presencia de los competidores grandes para aprender de sus estrategias y métodos.</p>
+  </td>
+</tr>
+</table>
 
 ## 2.2. Entrevistas.
 
