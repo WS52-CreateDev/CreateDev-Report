@@ -21,7 +21,7 @@
 * **Maria Alejandra Díaz Villacrez  U202118315**
 * **Antonella Frida Gonzales Gomez   U20211C403**
 * **Braulio Rodrigo Torrejon Navarro   U201711728** 
-* **Estudiante 5   codigo** 
+* **Jair Andreé Coraje Bayona   U202118775**  
 
 <center>
 
