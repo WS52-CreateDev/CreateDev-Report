@@ -18,14 +18,14 @@ En este apartado se realizará el análisis de 3 competidores, directos o indire
 </tr>
   <tr>
     <td colspan="2" valign="top"></td>
-    <td valign="top"><b>CraftArtApp</b></td>
+    <td valign="top"><b>CreateDev</b></td>
     <td valign="top"><b>Artesanía. App</b></td>
     <td valign="top"><b>Dédalo, arte y artesanía</b></td>
     <td valign="top"><b>Tienda Virtual Ruraqmaki</b></td>
   </tr>
   <tr>
     <td colspan="2" valign="top"></td>
-    <td valign="top">![Logo de CraftArtApp](URL_del_logo_de_CraftArtApp)</td>
+    <td valign="top">![Logo de CreateDev](URL_del_logo_de_CraftArtApp)</td>
     <td valign="top">![Imagen de Artesanía. App](URL_de_la_imagen_de_Artesanía_App)</td>
     <td valign="top">![Imagen de Dédalo, arte y artesanía](URL_de_la_imagen_de_Dédalo)</td>
     <td valign="top">![Imagen de Tienda Virtual Ruraqmaki](URL_de_la_imagen_de_Tienda_Virtual_Ruraqmaki)</td>
