@@ -21,8 +21,12 @@ En este apartado se realizará el análisis de 3 competidores, directos o indire
   <td valign="top"><b>CraftArtApp</b></td><td valign="top">
   <b>Artesanía. App</b>
   </td>
-  <td valign="top"><p><b>Dédalo, arte y artesanía</b></p><p><br><b>![Texto
-Descripción generada automáticamente con confianza media](Aspose.Words.a1e5b4f9-353d-4717-97e3-2cf2f6790235.003.png)</b></p></td>
+  <td valign="top">
+    <p>
+      <b>Dédalo, arte y artesanía
+      </b>
+    </p>
+  </td>
   <td valign="top"><p><b>Tienda Virtual Ruraqmaki</b></p><p></p><p>![Texto, Logotipo, nombre de la empresa
 Descripción generada automáticamente](Aspose.Words.a1e5b4f9-353d-4717-97e3-2cf2f6790235.004.png)</p>
   </td>
