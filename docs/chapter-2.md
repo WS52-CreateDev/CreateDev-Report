@@ -16,25 +16,20 @@ En este apartado se realizará el análisis de 3 competidores, directos o indire
   <td valign="top">¿Por qué llevar a cabo este análisis?</td><td colspan="5" valign="top">Realizamos un estudio exhaustivo de las empresas que compiten directa e indirectamente con nuestra aplicación, con el propósito de reconocer sus puntos fuertes, áreas de mejora, objetivos fundamentales, perspectivas a largo plazo, así como su público objetivo, entre otros elementos relevantes. Este análisis nos proporcionará una base sólida para la creación de ventajas competitivas y la optimización continua de nuestro producto.
   </td>
 </tr>
-<tr>
-  <td colspan="2" valign="top"></td>
-  <td valign="top"><b>CraftArtApp
-  ![Imagen](https://cdn.discordapp.com/attachments/754867305468395543/1224097560529207406/image.png?ex=661c40b1&is=6609cbb1&hm=3e8e861e8cc76a72f18c21b7b9a19c3d6663788ff15208e5d46efa515d4a0803&)
-  </b></td><td valign="top">
-  <b>Artesanía. App</b>
-  </td>
-  <td valign="top">
-    <p>
-      <b>Dédalo, arte y artesanía
-      </b>
-    </p>
-  </td>
-  <td valign="top"><p>
-    <b>Tienda Virtual Ruraqmaki
-    </b>
-  </p>
-  </td>
-</tr>
+  <tr>
+    <td colspan="2" valign="top"></td>
+    <td valign="top"><b>CraftArtApp</b></td>
+    <td valign="top"><b>Artesanía. App</b></td>
+    <td valign="top"><b>Dédalo, arte y artesanía</b></td>
+    <td valign="top"><b>Tienda Virtual Ruraqmaki</b></td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top"></td>
+    <td valign="top">![Logo de CraftArtApp](URL_del_logo_de_CraftArtApp)</td>
+    <td valign="top">![Imagen de Artesanía. App](URL_de_la_imagen_de_Artesanía_App)</td>
+    <td valign="top">![Imagen de Dédalo, arte y artesanía](URL_de_la_imagen_de_Dédalo)</td>
+    <td valign="top">![Imagen de Tienda Virtual Ruraqmaki](URL_de_la_imagen_de_Tienda_Virtual_Ruraqmaki)</td>
+  </tr>
 <tr>
   <td rowspan="2"><b>Perfil</b></td><td valign="top"><b>Overview</b>
   </td>
