@@ -210,7 +210,11 @@ Podemos notar elementos como el space para separar las imágenes y los textos, l
 En este apartado se muestran y explican los Wireflows de nuestro proyecto. Para esto tendremos en cuenta la elaboración de los Task Flows y los steps para cada User Goal.
 
 #### User Artesano:
-- 1. User Goal 1:
+- 1. User Goal 1: Iniciar sesión
+Como un artesano, quiero iniciar sesión dentro de la web application.
+  2. Task Flow: 
+| El usuario le da click a "Mi perfil" | -> | El usuario pulsa la opción de "Iniciar session"|  |El usuario visualiza la pantalla de inicio de sesión| 
+
 
 
 ### 4.4.2. Web Applications Mock-ups.
