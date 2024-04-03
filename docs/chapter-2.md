@@ -262,23 +262,25 @@ Comprar mates burilados, esta opción es importante porque con esto se realizar�
 Recomendar el aplicativo ayuda a darse a conocer por otros usuarios que estén interesados en artesanías. Así estos puedan conocer los productos y adquirirlos.
 
 ### 2.3.3. User Journey Mapping.
-
+Sector Artesanos:
 <p align = "center"> <img src="/asssets/images/UserJourningMap1.jpg"></img> </p>
+Sector Usuarios:
 <p align = "center"> <img src="/asssets/images/UserJourningMap2.jpg"></img> </p>
 
 ### 2.3.4. Empathy Mapping.
-
+Sector Artesanos:
 <p align = "center"> <img src="/asssets/images/EmphatyMap1.jpg"></img> </p>
+Sector Usuarios:
 <p align = "center"> <img src="/asssets/images/EmphatyMap2.jpg"></img> </p>
 
 ### 2.3.5 As-Is Scenario Mapping.
 El As-is Scenario Mapping sirve para mostrar la situación actual de nuestro proyecto, con sus errores y sus aciertos. Esto se realiza identificando las fases que realiza el usuario cuando usa nuestra aplicación, luego se evalúa que hace, piensa y siente durante estas fases. A continuación, se muestran los As-is Scenario Mapping de nuestros Users:
 
 1. **As-is Scenario Mapping User persona 1(Cliente):** ¿Qué hace, piensa y siente el cliente cuando utiliza una aplicación para la búsqueda y compra de artesanía clásica y personalidad?
-  <p align = "center"> <img src="/asssets/images/As-Is1.jpg"></img> </p>
+  <p align = "center"> <img src="/asssets/images/AsIs1.jpg"></img> </p>
    
 2. **As-is Scenario Mapping User persona 2 (Artesano):** ¿Qué hace, piensa y siente el artesano cuando utiliza una aplicación para la parte logística de la fabricación de sus productos y la comercialización de estos mismos?
-  <p align = "center"> <img src="/asssets/images/As-Is2.jpg"></img> </p>
+  <p align = "center"> <img src="/asssets/images/AsIs2.jpg"></img> </p>
 
 ## 2.4. Ubiquitous Language.
 
