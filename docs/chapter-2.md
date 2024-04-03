@@ -192,13 +192,34 @@ A continuación, se mencionan las estrategias y tácticas que aplicaremos para a
 </tr>
 </table>
 
-## 2.2. Entrevistas.
+## <a name="_toc106465563"></a>2.2 Entrevistas.
 
-Contenido
 
-### 2.2.1. Diseño de entrevistas.
+### <a name="_toc106465564"></a>2.2.1 Diseño de entrevistas.
+**User Cliente:**
+1. ¿Qué le parecen las piezas de arte producidas en mates, de madera huacos, etc.?
+2. ¿Qué pensaría de tener una de estas piezas de arte en su casa con un diseño personalizado?
+3. ¿Qué podría decirme de conocer un mercado digital con distintos vendedores (modelos) de este hermoso arte? ¿compraría o no? ¿que buscaría en particularidad?
+4. ¿Qué opina sobre la relación de comerciante (artesano) y comprador (consumidor o cliente) en donde abunde el respeto y la comunicación en ambas direcciones, para una buena compra y venta (comercialización) de estos modelos? ¿Le gustaría mantener relación (o en comunicación) con el productor por alguna otra novedad de estos productos (para estar informado de las novedades de estos productos)?
+5. ¿Está de acuerdo con que todas las microempresas del Perú deberían optar por una plataforma online para comercializar sus productos actualmente? Breve Opinión
+6. ¿Realiza alguna actividad artística en sus tiempos libres? ¿Diseñar, dibujar, pintar?
+7. ¿Cree que usted pueda realizar este arte? Si, por qué.
+8. ¿Cree usted que el mate burilado puede ser destacado como patrimonio del arte?
+9. ¿Cree usted que en los diseños que muestran los artesanos se muestra la cultura peruana?
+10. ¿Debido a los problemas actuales con el estado, estaría de acuerdo que se debería dar más énfasis a los artistas peruanos e impulsar sus proyectos? 
 
-Contenido
+**User Artesano:**
+1. ¿Qué piensa con la idea (Que opina de esta idea) de poder hacer más vistosos (atractivos o llamativos) sus productos? ¿Le gustaría contar con una herramienta para promocionar sus modelos (los modelos de sus productos)?
+2. ¿Ha pensado trabajar junto con la tecnología para incrementar sus ventas? ¿Quisiera darle una oportunidad?
+3. ¿Qué opina (piensa) de entrar en un mercado digital donde usted es dueño de una parte del sitio y pueda comercializar de manera rápida y segura todo tipo de modelos de artesanía de su propiedad? 
+4. ¿Qué comentario nos podría dejar si le decimos que, podríamos crear en conjunto un proyecto en el cual podamos incrementar sus ventas, ganar y comercializar todos sus trabajos de manera rápida y segura por medio de una aplicación y sitio web?
+5. ¿Qué opinión tiene de que su arte se quiera mostrar al público mediante una app?
+6. ¿Qué opina de una revolución tecnológica para todo el sector artesano como una ayuda de comercialización, producción y distribución de sus productos de una forma segura para su negocio y de toda la comunidad artística del Perú?
+7. ¿Cuál cree que es el principal problema del poco incremento de ventas de sus piezas artesanas y de las de toda la comunidad?
+8. Si tuviera la oportunidad de comercializar sus productos internacionalmente ¿Que países elegiría?
+9. ¿Qué opinión tendría si se pudiera comunicar con otros artesanos de distintas partes del país?
+10. ¿Cómo se debería impulsar las ventas de artesanías como el mate burilado?
+11. ¿Qué redes sociales más suele usar?
 
 ### 2.2.2. Registro de entrevistas.
 
