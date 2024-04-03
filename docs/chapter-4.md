@@ -166,7 +166,7 @@ Podemos notar elementos como el space para separar las imágenes y los textos, l
 <p align = "center"> <img src="/assets/img/registrocuenta.jpg" width="500"></img> </p>
 
 - Página Principal: Gracias a un previo inicio de sesión o registro, se tendrá acceso a la página principal donde se podrá visualizar los mates burilados y usuarios más destacados por la comunidad.
-<p align = "center"> <img src="/assets/img/paginapric.jpg" width="500"></img> </p>
+<p align = "center"> <img src="/assets/img/paginaprinc.jpg" width="500"></img> </p>
 
 - Mostrar Producto: En esta sección, se mostrará las características e información del producto seleccionado a visualizar, ademas de mostar al usuario del producto.
 <p align = "center"> <img src="/assets/img/mostrarprod.jpg" width="500"></img> </p>
