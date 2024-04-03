@@ -207,7 +207,11 @@ Podemos notar elementos como el space para separar las imágenes y los textos, l
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
-Contenido
+En este apartado se muestran y explican los Wireflows de nuestro proyecto. Para esto tendremos en cuenta la elaboración de los Task Flows y los steps para cada User Goal.
+
+#### User Artesano:
+- 1. User Goal 1:
+
 
 ### 4.4.2. Web Applications Mock-ups.
 
