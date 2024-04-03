@@ -235,8 +235,10 @@ Contenido
 
 ### 2.3.1. User Personas.
 
+UserPersona Artesanos:
 <p align = "center"> <img src="/asssets/images/UserPersona1.jpg"></img> </p>
-
+UserPersona Clientes:
+<p align = "center"> <img src="/asssets/images/UserPersona2.jpg"></img> </p>
 Contenido
 
 ### 2.3.2. User Task Matrix.
