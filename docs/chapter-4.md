@@ -153,7 +153,13 @@ Contenido
 
 ### 4.4.1. Web Applications Wireframes.
 
-Contenido
+A continuación, se muestra y explica los Wireframes de nuestra aplicación Web. Se mencionarán puntos como la aplicación de principios de diseño, elementos de diseño, diseño Inclusivo y arquitectura de Información.
+Podemos notar elementos como el space para separar las imágenes y los textos, los shapes para encerrar o enmarcar grupos de texto, íconos y/o Imágenes. Además, la Información que se le solicita al usuario, al momento de crear una cuenta, registrarse o Ingresar a la aplicación, es clara y concisa. 
+
+- •	Inicio de la Aplicación: Menú principal al momento de abrir la pagina
+
+<p align = "center"> <img src="/assets/img/inicioweb.jpg" width="300"></img> </p>
+- Inicio de Sesión: Un usuario recurrente tendrá acceso a la validación de su cuenta para el ingreso a su cuenta.
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
