@@ -235,7 +235,7 @@ Contenido
 
 ### 2.3.1. User Personas.
 
-<p align = "center"> <img src="/asssets/images/UserPersona1.jpg" width="250"></img> </p>
+<p align = "center"> <img src="/asssets/images/UserPersona1.jpg"></img> </p>
 
 Contenido
 
