@@ -9,13 +9,14 @@ Esta sección está dividida en 2 partes. En la primera parte se realizará el a
 En este apartado se realizará el análisis de 3 competidores, directos o indirectos, con un modelo de negocio similar o con ofertas parcialmente similares.
 <table>
   <tr>
-    <th colspan="6" valign="top"><b>Competitive Analysis Landscape</b></th></tr>
-  <tr>
-    <td valign="top">¿Por qué llevar a cabo este análisis?</td>
-    <td colspan="5" valign="top">Realizamos un estudio exhaustivo de las empresas que compiten directa e indirectamente con nuestra aplicación, con el propósito de reconocer sus puntos fuertes, áreas de mejora,     
+      <th colspan="6" valign="top"><b>Competitive Analysis Landscape</b></th></tr>
+    <tr>
+      <td valign="top">¿Por qué llevar a cabo este análisis?</td>
+      <td colspan="5" valign="top">Realizamos un estudio exhaustivo de las empresas que compiten directa e indirectamente con nuestra aplicación, con el propósito de reconocer sus puntos fuertes, áreas de mejora,     
     objetivos fundamentales, perspectivas a largo plazo, así como su público objetivo, entre otros elementos relevantes. Este análisis nos proporcionará una base sólida para la creación de ventajas competitivas y la 
     optimización continua de nuestro producto.</td>
-  </tr>
+    </tr>
+  </table>
 
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
