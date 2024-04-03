@@ -235,27 +235,50 @@ Contenido
 
 ### 2.3.1. User Personas.
 
-UserPersona Artesanos:
+User Persona Artesanos:
 <p align = "center"> <img src="/asssets/images/UserPersona1.jpg"></img> </p>
-UserPersona Clientes:
+User Persona Usuario:
 <p align = "center"> <img src="/asssets/images/UserPersona2.jpg"></img> </p>
 Contenido
 
 ### 2.3.2. User Task Matrix.
 
-Contenido
+En este apartado trabajamos la matriz de tareas (Task matrix) para cada segmento objetivo (artesano, usuario), esto nos ayudará a que cada segmento cumpla con el objetivo propuesto dentro de nuestra aplicación.
+<p align = "center"> <img src="/asssets/images/UserTaskMatrix1.jpg"></img> </p>
+En el caso de los artesanos el objetivo es poder dar a conocer las artesanías que realizan, venderlas y exportarlas a otros países. Las fases que hemos designado para este segmento son las siguientes:
+Crear la cuenta, eso es muy importante para que pueda quedar registrado
+Mostrar diseños, esto ayuda a que el artesano puedo exhibir los modelos y diseños de los mates burilados que realiza.
+Elaborar diseños personalizados para clientes que decidan elegir un diseño único.
+Mostrar nuevos modelos para que existan variedad de productos y que el cliente pueda estar interesado en comprar.
+Exportar mates al exterior es lo que buscan muchos de los artesanos registrados, para poder exponer el arte y la cultura peruana a través de su trabajo.
+Recomendar el aplicativo, ayuda a que otros artesanos puedan registrarse y mejorar sus ventas.
+<p align = "center"> <img src="/asssets/images/UserTaskMatrix2.jpg"></img> </p>
+En el caso de los usuarios el objetivo es que puedan comprar las artesanías, ver diferentes diseños y en algunos casos escoger o diseñar un diseño personalizado. Las fases que hemos designado para este segmento son las siguientes:
+Creación de cuenta esto permite que el usuario quede registrado.
+Buscar diseño permite que el usuario tenga la opción de observar los diferentes diseños de acuerdo con sus preferencias.
+Crear diseño personalizado con esta opción el usuario podrá diseñar o dar ideas para que su mate sea único.
+Ver ofertas y promociones; el usuario puede visualizar las ofertas y promociones que los artesanos ofrezcan en determinados productos y poder acceder a ellos.
+Comprar mates burilados, esta opción es importante porque con esto se realizaría la venta de las artesanías.
+Recomendar el aplicativo ayuda a darse a conocer por otros usuarios que estén interesados en artesanías. Así estos puedan conocer los productos y adquirirlos.
 
 ### 2.3.3. User Journey Mapping.
 
-Contenido
+<p align = "center"> <img src="/asssets/images/UserJourningMap1.jpg"></img> </p>
+<p align = "center"> <img src="/asssets/images/UserJourningMap2.jpg"></img> </p>
 
 ### 2.3.4. Empathy Mapping.
 
-Contenido
+<p align = "center"> <img src="/asssets/images/EmphatyMap1.jpg"></img> </p>
+<p align = "center"> <img src="/asssets/images/EmphatyMap2.jpg"></img> </p>
 
-### 2.3.5. As-is Scenario Mapping.
+### 2.3.5 As-Is Scenario Mapping.
+El As-is Scenario Mapping sirve para mostrar la situación actual de nuestro proyecto, con sus errores y sus aciertos. Esto se realiza identificando las fases que realiza el usuario cuando usa nuestra aplicación, luego se evalúa que hace, piensa y siente durante estas fases. A continuación, se muestran los As-is Scenario Mapping de nuestros Users:
 
-Contenido
+1. **As-is Scenario Mapping User persona 1(Cliente):** ¿Qué hace, piensa y siente el cliente cuando utiliza una aplicación para la búsqueda y compra de artesanía clásica y personalidad?
+  <p align = "center"> <img src="/asssets/images/As-Is1.jpg"></img> </p>
+   
+2. **As-is Scenario Mapping User persona 2 (Artesano):** ¿Qué hace, piensa y siente el artesano cuando utiliza una aplicación para la parte logística de la fabricación de sus productos y la comercialización de estos mismos?
+  <p align = "center"> <img src="/asssets/images/As-Is2.jpg"></img> </p>
 
 ## 2.4. Ubiquitous Language.
 
