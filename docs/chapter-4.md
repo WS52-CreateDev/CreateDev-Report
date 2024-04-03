@@ -218,6 +218,31 @@ Como un artesano, quiero iniciar sesión dentro de la web application.
 <p align = "center"> <img src="/assets/img/Wireframes1.JPG" width="800"></img> </p>
 
 
+- 1. User Goal 2: Visualización de productos
+Como un artesano, quiero visualizar mis productos dentro de la plataforma.
+  2. Task Flow:
+<p align = "center"> <img src="/assets/img/Usergoal2.JPG" width="800"></img> </p>
+  3. Wireflow:
+<p align = "center"> <img src="/assets/img/Wireframes2.JPG" width="800"></img> </p>
+
+#### User Cliente:
+
+- 1. User Goal 2: Comprar artesania
+Como un cliente quiero comprar artesanías dentro de la plataforma.
+  2. Task Flow:
+<p align = "center"> <img src="/assets/img/Usergoal3.JPG" width="800"></img> </p>
+  3. Wireflow:
+<p align = "center"> <img src="/assets/img/Wireframes2.JPG" width="800"></img> </p>
+
+- 1. User Goal 2: Enviar personalización
+Como un cliente quiero comprar enviar un diseño personalizado.
+  2. Task Flow:
+<p align = "center"> <img src="/assets/img/Usergoal4.JPG" width="800"></img> </p>
+  3. Wireflow:
+<p align = "center"> <img src="/assets/img/Wireframes2.JPG" width="800"></img> </p>
+
+
+
 ### 4.4.2. Web Applications Mock-ups.
 
 Contenido
