@@ -212,10 +212,8 @@ En este apartado se muestran y explican los Wireflows de nuestro proyecto. Para 
 #### User Artesano:
 - 1. User Goal 1: Iniciar sesión
 Como un artesano, quiero iniciar sesión dentro de la web application.
-  2. Task Flow: 
-| El usuario le da click a "Mi perfil" | El usuario pulsa la opción de "Iniciar session"|El usuario visualiza la pantalla de inicio de sesión| 
-|--------------------------------------|------------------------------------------------|----------------------------------------------------| 
-
+  2. Task Flow:
+<p align = "center"> <img src="/assets/img/Usergoal1.jpg" width="500"></img> </p>
 
 ### 4.4.2. Web Applications Mock-ups.
 
