@@ -27,8 +27,10 @@ En este apartado se realizará el análisis de 3 competidores, directos o indire
       </b>
     </p>
   </td>
-  <td valign="top"><p><b>Tienda Virtual Ruraqmaki</b></p><p></p><p>![Texto, Logotipo, nombre de la empresa
-Descripción generada automáticamente](Aspose.Words.a1e5b4f9-353d-4717-97e3-2cf2f6790235.004.png)</p>
+  <td valign="top"><p>
+    <b>Tienda Virtual Ruraqmaki
+    </b>
+  </p>
   </td>
 </tr>
 <tr>
