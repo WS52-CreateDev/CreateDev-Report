@@ -7,11 +7,20 @@ Esta sección está dividida en 2 partes. En la primera parte se realizará el a
 ### <a name="_toc106465561"></a>2.1.1 Análisis competitivo.
 
 En este apartado se realizará el análisis de 3 competidores, directos o indirectos, con un modelo de negocio similar o con ofertas parcialmente similares.
-<table><tr><th colspan="6" valign="top"><b>Competitive Analysis Landscape</b></th></tr>
-<tr><td valign="top">¿Por qué llevar a cabo este análisis?</td><td colspan="5" valign="top">Realizamos un estudio exhaustivo de las empresas que compiten directa e indirectamente con nuestra aplicación, con el propósito de reconocer sus puntos fuertes, áreas de mejora, objetivos fundamentales, perspectivas a largo plazo, así como su público objetivo, entre otros elementos relevantes. Este análisis nos proporcionará una base sólida para la creación de ventajas competitivas y la optimización continua de nuestro producto.</td></tr>
-<tr><td colspan="2" valign="top"></td><td valign="top"><b>CraftArtApp<br><br><br>![Patrón de fondo
-
-Descripción generada automáticamente](Aspose.Words.a1e5b4f9-353d-4717-97e3-2cf2f6790235.001.png)</b></td><td valign="top"><b>Artesanía. App<br><br><br>![Texto, Logotipo
+<table>
+  <tr>
+    <th colspan="6" valign="top"><b>Competitive Analysis Landscape</b>
+    </th>
+  </tr>
+<tr>
+  <td valign="top">¿Por qué llevar a cabo este análisis?</td><td colspan="5" valign="top">Realizamos un estudio exhaustivo de las empresas que compiten directa e indirectamente con nuestra aplicación, con el propósito de reconocer sus puntos fuertes, áreas de mejora, objetivos fundamentales, perspectivas a largo plazo, así como su público objetivo, entre otros elementos relevantes. Este análisis nos proporcionará una base sólida para la creación de ventajas competitivas y la optimización continua de nuestro producto.
+  </td>
+</tr>
+<tr>
+  <td colspan="2" valign="top">
+  </td>
+  <td valign="top"><b>CraftArtApp<br><br><br>
+  <b>Artesanía. App<br><br><br>![Texto, Logotipo
 
 Descripción generada automáticamente con confianza media](Aspose.Words.a1e5b4f9-353d-4717-97e3-2cf2f6790235.002.png)</b></td><td valign="top"><p><b>Dédalo, arte y artesanía</b></p><p><br><b>![Texto
 
