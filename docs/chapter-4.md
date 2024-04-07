@@ -218,6 +218,7 @@ Como un artesano, quiero iniciar sesión dentro de la web application.
 <p align = "center"> <img src="/assets/img/Wireframes1.JPG" width="800"></img> </p>
 
 
+
 - 1. User Goal 2: Visualización de productos
 Como un artesano, quiero visualizar mis productos dentro de la plataforma.
   2. Task Flow:
@@ -233,6 +234,7 @@ Como un cliente quiero comprar artesanías dentro de la plataforma.
 <p align = "center"> <img src="/assets/img/Usergoal3.JPG" width="800"></img> </p>
   3. Wireflow:
 <p align = "center"> <img src="/assets/img/Wireframes2.JPG" width="800"></img> </p>
+
 
 - 1. User Goal 2: Enviar personalización
 Como un cliente quiero comprar enviar un diseño personalizado.
@@ -308,7 +310,7 @@ iniciar sesión, como un artesano, quiero iniciar sesión dentro de la aplicaci�
 
 - User Goal 2:
 Visualizar inventario de productos,
-Como un artesano quiero visualizar mis productos dentro de la aplicación.
+Como un artesano quiero visualizar y añadir mis productos dentro de la aplicación.
 <p align = "center"> <img src="/assets/img/Wireframes12.jpg" width="1200"></img> </p>
 
 
