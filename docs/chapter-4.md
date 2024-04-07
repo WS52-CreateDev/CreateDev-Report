@@ -1,4 +1,4 @@
-![image](https://github.com/WS52-CreateDev/CreateDev-Report/assets/75049034/2e7d62cc-7c85-42df-9a95-d1ce143ae564)# Capítulo IV: Product Design.
+# Capítulo IV: Product Design.
 
 ## 4.1. Style Guidelines.
 
