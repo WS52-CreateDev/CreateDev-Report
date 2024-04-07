@@ -298,7 +298,31 @@ Los Mockups que se mostrará en esta sección corresponden a como se veria en un
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 
-Contenido
+En esta sección presentaremos los User Flows para cada User Goal, teniendo en cuenta los User Persona que tenemos en nuestro proyecto. Acompañaremos los User Flows con Mock-ups de la aplicación y diferentes rutas esperadas, happy y unhappy paths. 
+
+#### User Artesano:
+- User Goal 1:
+iniciar sesión, como un artesano, quiero iniciar sesión dentro de la aplicación
+<p align = "center"> <img src="/assets/img/Wireframes1.JPG" width="1200"></img> </p>
+
+- User Goal 2:
+Visualizar inventario de productos,
+Como un artesano quiero visualizar mis productos dentro de la aplicación.
+<p align = "center"> <img src="/assets/img/Wireframes1.JPG" width="1200"></img> </p>
+
+
+#### User Cliente:
+- User Goal 1:
+Visualizar artesanía,
+Como un cliente quiero visualizar los detalles de las artesanías que hay dentro de la aplicación.
+<p align = "center"> <img src="/assets/img/Wireframes1.JPG" width="1200"></img> </p>
+
+- User Goal 2:
+Comprar artesanía,
+Como un cliente quiero comprar artesanías dentro de la aplicación.
+<p align = "center"> <img src="/assets/img/Wireframes1.JPG" width="1200"></img> </p>
+
+
 
 ## 4.5. Web Applications Prototyping.
 
