@@ -303,24 +303,27 @@ En esta sección presentaremos los User Flows para cada User Goal, teniendo en c
 #### User Artesano:
 - User Goal 1:
 iniciar sesión, como un artesano, quiero iniciar sesión dentro de la aplicación
-<p align = "center"> <img src="/assets/img/Wireframes1.JPG" width="1200"></img> </p>
+<p align = "center"> <img src="/assets/img/Wireframes11.jpg" width="1200"></img> </p>
+
 
 - User Goal 2:
 Visualizar inventario de productos,
 Como un artesano quiero visualizar mis productos dentro de la aplicación.
-<p align = "center"> <img src="/assets/img/Wireframes1.JPG" width="1200"></img> </p>
+<p align = "center"> <img src="/assets/img/Wireframes12.jpg" width="1200"></img> </p>
+
 
 
 #### User Cliente:
 - User Goal 1:
 Visualizar artesanía,
 Como un cliente quiero visualizar los detalles de las artesanías que hay dentro de la aplicación.
-<p align = "center"> <img src="/assets/img/Wireframes1.JPG" width="1200"></img> </p>
+<p align = "center"> <img src="/assets/img/Wireframes13.jpg" width="1200"></img> </p>
+
 
 - User Goal 2:
 Comprar artesanía,
 Como un cliente quiero comprar artesanías dentro de la aplicación.
-<p align = "center"> <img src="/assets/img/Wireframes1.JPG" width="1200"></img> </p>
+<p align = "center"> <img src="/assets/img/Wireframes14.jpg" width="1200"></img> </p>
 
 
 
