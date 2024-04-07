@@ -1,4 +1,4 @@
-# Capítulo IV: Product Design.
+![image](https://github.com/WS52-CreateDev/CreateDev-Report/assets/75049034/2e7d62cc-7c85-42df-9a95-d1ce143ae564)# Capítulo IV: Product Design.
 
 ## 4.1. Style Guidelines.
 
@@ -251,49 +251,49 @@ Los Mockups que se mostrará en esta sección corresponden a como se veria en un
 <p align = "center"> <img src="/assets/img/inicioweb2.JPG" width="500"></img> </p>
 
 - Inicio de Sesión: Un usuario recurrente tendrá acceso a la validación de su cuenta para el ingreso a su cuenta.
-<p align = "center"> <img src="/assets/img/iniciosesion.jpg" width="500"></img> </p>
+<p align = "center"> <img src="/assets/img/iniciosesion2.JPG" width="500"></img> </p>
 
 - Registro de Cuenta: Si el usuario no esta con una cuenta, en este lugar podra crearlo, donde se tendrá que validar el registro de un nombre de usuario, correo y contraseña.
-<p align = "center"> <img src="/assets/img/registrocuenta.jpg" width="500"></img> </p>
+<p align = "center"> <img src="/assets/img/registrocuenta2.JPG" width="500"></img> </p>
 
 - Página Principal: Gracias a un previo inicio de sesión o registro, se tendrá acceso a la página principal donde se podrá visualizar los mates burilados y usuarios más destacados por la comunidad.
-<p align = "center"> <img src="/assets/img/paginaprinc.jpg" width="500"></img> </p>
+<p align = "center"> <img src="/assets/img/inicioweb2.JPG" width="500"></img> </p>
 
 - Mostrar Producto: En esta sección, se mostrará las características e información del producto seleccionado a visualizar, ademas de mostar al usuario del producto.
-<p align = "center"> <img src="/assets/img/mostrarprod.jpg" width="500"></img> </p>
+<p align = "center"> <img src="/assets/img/mostrarprod2.JPG" width="500"></img> </p>
 
 - Perfil de Usuario Ajeno: Se podrá visualizar los datos del usuario, productos que el publicó y tener la opción de “Solicitar un Diseño” en base a nuestro gusto personal.
-<p align = "center"> <img src="/assets/img/perfilusu.jpg" width="500"></img> </p>
+<p align = "center"> <img src="/assets/img/perfilusu2.JPG" width="500"></img> </p>
 
 - Solicitud de Diseño: En esta sección, se podrá subir una imagen referencial de un dibujo o diseño que tengamos en nuestra galería, para de ese modo, complementarlo con un nombre y breve información adicional para solicitar el diseño.
-<p align = "center"> <img src="/assets/img/solicituddis.jpg" width="500"></img> </p>
+<p align = "center"> <img src="/assets/img/solicituddis2.JPG" width="500"></img> </p>
 
 - Diseño Solicitado: Se mostrará un mensaje positivo que significa que el diseño fue registrado y solicitado al artesano satifactoriamente.
-  <p align = "center"> <img src="/assets/img/disso.jpg" width="500"></img> </p>
+  <p align = "center"> <img src="/assets/img/disso2.JPG" width="500"></img> </p>
 
 - Perfil de Usuario Propio: Se podrá visualizar nuestros datos personales propios, nuestros productos publicados, opción de editar nuestra información y un apartado de posibles mensajes de usuarios que solicitaron un diseño personalizado para nostros.
-<p align = "center"> <img src="/assets/img/perfilusupro.jpg" width="500"></img> </p>
+<p align = "center"> <img src="/assets/img/perfilusupro2.JPG" width="500"></img> </p>
 
 - Solicitudes de Diseño: En este apartado el artesano/usuario tendrá la opción de aceptar los diseños propuestos, así como también, los datos de dicho usuario que lo solicitó.
-<p align = "center"> <img src="/assets/img/solicituddispro.jpg" width="500"></img> </p>
+<p align = "center"> <img src="/assets/img/solicituddispro2.JPG" width="500"></img> </p>
 
 - Publicar Producto: En esta sección, se podrá subir un producto nuevo, así como también, sus datos respectivos como el nombre del producto, precio, información del producto y stock.
-<p align = "center"> <img src="/assets/img/publicprod.jpg" width="500"></img> </p>
+<p align = "center"> <img src="/assets/img/publicprod2.JPG" width="500"></img> </p>
 
 - Producto Publicado: Se mostrará un mensaje satisfactorio de que el producto ha sido publicado con éxito.
-<p align = "center"> <img src="/assets/img/Publicado.jpg" width="500"></img> </p>
+<p align = "center"> <img src="/assets/img/Publicado2.JPG" width="500"></img> </p>
 
 - Edición de Perfil: El usuario tendrá acceso a múltiples modificaciones de su perfil pero con la obligación de rellenar todos los campos vacíos para generar una distribución de información eficiente ante una compra dentro de la plataforma.
-<p align = "center"> <img src="/assets/img/edicionperfil.jpg" width="500"></img> </p>
+<p align = "center"> <img src="/assets/img/edicionperfil2.JPG" width="500"></img> </p>
 
 - Mostrar Carrito: En esta sección, se mostrará toda la acumulación de producto que posiblemente el usuario desea comprar. También, le permitirá ajustar la cantidad que llevará, cuál sería el costo total por cada producto, eliminar producto y el costo total del carrito.
-<p align = "center"> <img src="/assets/img/mostcarrito.jpg" width="500"></img> </p>
+<p align = "center"> <img src="/assets/img/mostcarrito2.JPG" width="500"></img> </p>
 
 - Confirmación de Compra: En esta sección, el usuario podrá visualizar los datos de su cuenta para verificar si todo está en orden. A su vez, se podrá visualizar todos los productos seleccionados para la confirmación de la compra. Por último, se mostraría el monto total.
-<p align = "center"> <img src="/assets/img/ConfCompra.jpg" width="500"></img> </p>
+<p align = "center"> <img src="/assets/img/ConfCompra2.JPG" width="500"></img> </p>
 
 - Compra Realizada:  En esta sección, se mostrará un mensaje satisfactorio de que la compra se realizó correctamente.
-<p align = "center"> <img src="/assets/img/comprarealizada.jpg" width="500"></img> </p>
+<p align = "center"> <img src="/assets/img/comprarealizada2.JPG" width="500"></img> </p>
 
 
 ### 4.4.3. Web Applications User Flow Diagrams.
