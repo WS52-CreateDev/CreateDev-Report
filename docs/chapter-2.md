@@ -225,11 +225,154 @@ A continuación, se mencionan las estrategias y tácticas que aplicaremos para a
 
 ### 2.2.2. Registro de entrevistas.
 
-Contenido
+**Entrevista 1:**
 
-### 2.2.3. Análisis de entrevistas.
+**Nombre y  Apellidos:** Edison Herrera Mamani
 
-Contenido
+**Distrito:** San Miguel
+
+**Edad:** 25
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/610911183339388978/1226726377412366336/image.png?ex=6625d0f7&is=66135bf7&hm=294ea89ee18dde482ddac568c9271abf99466571c5abd79c69e30c5e6be85db9&=&format=webp&quality=lossless">
+    </td>
+  </tr>
+<br>
+
+**Duración:** 5:35 min
+
+[Segmento Cliente 1.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/ETG1z_RIXatAkzuSZaCo8qsBv5EyuCbXrZGTR8nZGz342A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fWMNYK)
+
+**RESUMEN DE LA ENTREVISTA:**
+
+En la entrevista con Edinson Herrera Mamani, se discutió su interés en ingresar al mundo digital. Durante la conversación, se destacaron las oportunidades que ofrece el mercado digital para conectar a los consumidores con artesanos locales, resaltando la importancia de la accesibilidad y la experiencia del usuario en el diseño del proyecto. Además, se exploraron posibles características y funcionalidades que podrían integrarse en la plataforma digital para mejorar la experiencia de compra y promover el comercio justo y sostenible.
+
+**Entrevista 2:**
+
+**Nombre y  Apellidos:** July Ugarte Chamorro
+
+**Distrito:** Surco
+
+**Edad:** 24
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/610911183339388978/1226726419326042112/image.png?ex=6625d101&is=66135c01&hm=2b8549342f3100be42dca5919745b48b07dc24d7bacf1fc482d0983941213c18&=&format=webp&quality=lossless">
+    </td>
+  </tr>
+<br>
+
+
+**Duración:** 9:10 min
+
+[Segmento Cliente 2.mkv](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/EdhbmRT8lBpFv6TKqiPiQDUBuUdEXnc8tSJyjboRqHyLuQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=sXHXvO)
+
+**RESUMEN DE LA ENTREVISTA:**
+
+En la entrevista con July Ugarte Chamorro, expresó su apoyo al proyecto y mostró entusiasmo por la idea de crear una plataforma digital para conectar a los consumidores con los productos artesanales del Perú. Sin embargo, lamentó que algunas empresas utilicen a los artesanos únicamente con fines de marketing y que tengan poco interés real en ellos. July enfatizó la importancia de centrarse en los artesanos y sus productos, ya que le apasiona este sector y cree que nuestro proyecto sería beneficioso para la comunidad artesana, ofreciendo una plataforma que realmente valore su trabajo y promueva su desarrollo económico.
+
+**Entrevista 3:**
+
+**Nombre y  Apellidos:** Colleen Rodriguez
+
+**Distrito:** Los Olivos
+
+**Edad:** 24
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/610911183339388978/1226726458680938617/image.png?ex=6625d10b&is=66135c0b&hm=9c2b3e916de633dcf0531e3a24cc110f9d4527ff2cac1cb7ea2e7a1747ea1d4e&=&format=webp&quality=lossless">
+    </td>
+  </tr>
+<br>
+
+
+**Duración:** 9:01 min
+
+[Segmento Artesano 1.mkv](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/EWzbKVK_0t5On5TQZ45TejkBfIbDSvqPHSonDGIdGO9rVQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=B8fIym)
+
+**RESUMEN DE LA ENTREVISTA:**
+
+En la entrevista con Colleen Rodríguez, expresó que el proyecto beneficiaría significativamente a la comunidad artesana. Aunque ella misma utiliza las redes sociales para promocionar sus productos, está entusiasmada con la idea de la página web y la aplicación, y brinda un fuerte respaldo a la iniciativa. Colleen cree que esta plataforma sería de gran ayuda para mejorar las ventas de los artesanos, ya que muchos de ellos enfrentan bajas ventas debido a la falta de estrategias de marketing efectivas en las redes sociales.
+
+**Entrevista 4:**
+
+**Nombre y  Apellidos:** Karoline Correa
+
+**Distrito:** Surco
+
+**Edad:** 28
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/610911183339388978/1226726498187350086/image.png?ex=6625d114&is=66135c14&hm=f20c1b6840e19ab3b08df65eae809b8cc400cf24d4779b785471f2a3bf7ffee9&=&format=webp&quality=lossless">
+    </td>
+  </tr>
+<br>
+
+
+**Duración:** 7:47 min
+
+[Segmento Artesano 2.mkv](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/EQXlZJWZbotOlQnU6tI0G2UBEvx3UbwMx6YiInH7JY8uEQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=zOSOV2)
+
+**RESUMEN DE LA ENTREVISTA:**
+
+En la entrevista con Karoline Correa, una artesana interesada en el mercado digital, mostró interés en la idea de la página web y la aplicación para ampliar la llegada de sus productos a más personas. Aunque no es muy activa en redes sociales, le gustaría incursionar en el mundo digital para expandir su mercado. Se mostró entusiasmada con nuestro proyecto, pero también señaló que la reducción de ventas a menudo se debe a la delincuencia en las calles, lo cual ahuyenta a los clientes internacionales.
+
+
+
+**Entrevista 5:**
+
+**Nombre y  Apellidos:** Junior Rodriguez
+
+**Distrito:** Surco
+
+**Edad:** 33
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/610911183339388978/1226726537861140582/image.png?ex=6625d11e&is=66135c1e&hm=33879ebb8e1c0dd2880531033a175aea2ac712538cd30fdcf9cd528f316379fb&=&format=webp&quality=lossless">
+    </td>
+  </tr>
+<br>
+
+
+**Duración:** 7:17 min
+
+[Segmento Artesano 3.mkv](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/EbVKStq4PJZHgJ6E8N8vaaQB8S3wLMmxsAaXb3tteSdsFQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=XAUYKH)
+
+**RESUMEN DE LA ENTREVISTA:**
+
+En la entrevista con Junior Rodríguez, un artesano interesado en formas de promocionarse, destacó que vender sus productos es una manera de mostrar la rica cultura peruana a sus compradores. Se mostró comprometido y entusiasmado con la idea del proyecto que estamos desarrollando, reconociendo su potencial para beneficiar a la comunidad artesana. Sin embargo, también mencionó que la alta tasa de delincuencia en el país podría ahuyentar a potenciales clientes del mercado de artesanía, lo cual es una preocupación para él y otros artesanos locales.
+
+
+## 2.2.3. Análisis de entrevistas.
+
+Ya realizadas las entrevistas, tenemos que hacer el debido análisis. En esta sección realizaremos un análisis para cada segmento objetivo identificando con sustento de los datos proporcionados por las entrevistas.
+
+Tenemos dos segmentos objetivos:
+
+### Análisis del Segmento Objetivo #1 (Clientes potenciales de arte)
+
+|Preguntas|Respuestas Generales|
+| :-: | :-: |
+|¿Está de acuerdo con que todas las microempresas del Perú deberían optar por una plataforma online para comercializar sus productos actualmente?|<p>Varios afirman que sí, que la manera de </p><p>manejar el marketing y comercializarlo es de </p><p>esa manera a través de las redes sociales.</p><p>Ya que ellos tendrían la facilidad de optar por comprarlos </p>|
+|Realiza alguna actividad artística en sus tiempos libres? ¿Diseñar, dibujar, pintar?|Varios afirman que no, pero les agradaria la idea de ponerlo en su rutina diaria|
+|¿Cree usted que en los diseños que muestran los artesanos se muestra la cultura peruana?|Los entrevistados mencionan que quieren demostrar la cultura peruana al comprar estos productos .|
+|¿Debido a los problemas actuales con el estado, estaría de acuerdo que se debería dar más énfasis a los artistas peruanos e impulsar sus proyectos?|Este segmento afirman que deberíamos darle énfasis a todos los artistas peruanos que impulsan su trabajo en este rubro|
+
+
+### Análisis del Segmento Objetivo #2 (Artesanos)
+
+|Preguntas|Respuestas Generales|
+| :-: | :-: |
+|¿Qué piensa con la idea (Que opina de esta idea) de poder hacer más vistosos (atractivos o llamativos) sus productos? ¿Le gustaría contar con una herramienta para promocionar sus modelos (los modelos de sus productos)?|<p></p><p></p><p>Todos los entrevistados les gustaria contar con una herramienta para promocionar sus modelos, mejorar sus diseños y encontrar nuevos potenciales clientes</p>|
+|¿Ha pensado trabajar junto con la tecnología para incrementar sus ventas? ¿Quisiera darle una oportunidad?|2 de 3 entrevistados usa tecnología para promocionarse en redes sociales y esperan incrementar sus ventas |
+|Si tuviera la oportunidad de comercializar sus productos internacionalmente ¿Que países elegiría?|Muchos seleccionan el continente Europa, ya que para los europeos es muy interesante la cultura peruana en general.|
+|¿Qué opinión tendría si se pudiera comunicar con otros artesanos de distintas partes del país?|<p>Los usuarios finales aconsejan que deberían utilizar más las redes sociales para promocionarse y crecer la comunidad artesanal del Perú</p><p></p>|
+|¿Qué redes sociales más suele usar?|Todos los entrevistados tienen Facebook, Instagram , Tiktok, estos últimos son los más usados |
+
 
 ## 2.3. Needfinding. 
 
