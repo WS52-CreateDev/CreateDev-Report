@@ -350,7 +350,7 @@ El diagrama de contexto de la arquitectura de software muestra el entorno genera
 
 Diagrama realizado en Structurizr:
 
-<p align = "center"> <img src="/assets/img/Diagrama Contexto.png" width="600"></img> </p>
+<p align = "center"> <img src="/assets/img/Diagrama Contextoo.png" width="600"></img> </p>
 
 ### 4.6.2. Software Architecture Container Diagrams.
 
