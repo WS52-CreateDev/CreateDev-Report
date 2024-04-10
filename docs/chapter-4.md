@@ -138,7 +138,8 @@ Navegación por Scroll Infinito: Este tipo de navegación permite a los usuarios
 
 ## 4.3. Landing Page UI Design.
 
-Contenido
+Para poder escoger el diseño de nuestro Landing Page se tuvieron en cuenta las variedades de colores viendo al sector donde estamos trabajando es la artesanía y ellos son colores sobrios. Se utilizaron botones donde el usuario podrá hacer click dependiendo de qué diseño desee y así poder registrarse, buscar información o contactarnos. También se mostrará un botón donde aparecerán los distintos artesanos donde puedes hacernos pedido de diseño único. Por otro lado, se puede ver los diseños que subirán todos los artesanos y poder seleccionarlos. Todas estas decisiones que se tomó fueron en beneficio del usuario y así se sienta beneficiado con nuestro diseño y arquitectura de aplicación.
+
 ### 4.3.1. Landing Page Wireframe.
 
 Contenido
@@ -148,8 +149,6 @@ Contenido
 Contenido
 
 ## 4.4. Web Applications UX/UI Design.
-
-Contenido
 
 ### 4.4.1. Web Applications Wireframes.
 
@@ -363,7 +362,7 @@ Diagrama realizado en Structurizr:
 
 ## 4.7. Software Object-Oriented Design.
 
-Contenido
+En esta sección se presenta el diagrama de clases y el diccionario de nuestro modelo de negocio.
 
 ### 4.7.1. Class Diagrams.
 
