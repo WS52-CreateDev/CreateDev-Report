@@ -45,12 +45,33 @@ Contenido
 Contenido
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
+vistas implementadas: la primera vista se puede observar el navbar con secciones home, meet us o know us, services, contact us. cabe resaltar que es fijo y con forme el usuario se desplaye podrá seleccionar cual sección desde el navbar
 
-Contenido
+desktop web browser se muestra la versión menú de la plataforma, detallando los principales contenidos, opciones que permiten conocer más nuestro sistema al usuario.
+
+mgen
+
+Al elegir la opción “Sobre nosotros” de la barra de herramientas del menú principal, se muestra  el informe  acerca de nuestro proyecto.
+
+img
+Al elegir la opción “Productos” de la barra de herramientas del menú principal, se se presenta los productos que posee el usuario a lo largo del consumo del software.
+
+img
+
+Al elegir la opción “Equipo” de la barra de herramientas del menú principal, se muestra  los integrantes que estan a cargo del proyecto
+img
+
+
+Al elegir la opción “Contacto” de la barra de herramientas del menú principal, se muestra  un formulario para que el usuario pueda enviar su correro.
+
+img
+En la parte final de la landing page se muestra un footer, información breve de contacto, y la opción de contactarnos y nuestras redes sociales.
+
+img
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
-Contenido
+
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
