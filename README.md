@@ -22,6 +22,7 @@
 * **Antonella Frida Gonzales Gomez   U20211C403**
 * **Braulio Rodrigo Torrejon Navarro   U201711728** 
 * **Jair Andreé Coraje Bayona   U202118775**  
+* **Louis Piero Alfaro Coveñas u20191b299**
 
 <center>
 
@@ -35,13 +36,14 @@
 
 ## Registro de Versiones del Informe
 
-| Versión | Fecha      | Autor    | Descripción de modificación           |
-|---------|------------|----------|---------------------------------------|
-| 1.0     | 29/03/2024 | Alejandra Díaz | Se creo la ramificación del repositorio y adicionó los documentos en su versión inicial previa a la investigacón |
-| 1.0     | 1/04/2024 | Antonella Gonzales |Se creo los capitulos en el repositorio y tambien se completo el capitulo 3 |
-| 1.0     | 2/04/2024 | Carlo Ramirez |Se completo el punto 4.6 del capitulo 4 y el punto 5.1 del capitulo 5 |
-| 1.0     | 2/04/2024 | Braulio Torrejon |Se completo el punto 4.4 del capitulo 4 |
-| 1.0     | 2/04/2024 | Jair Coraje | Se completo el capitulo 2 |
+| Versión | Fecha      | Autor              | Descripción de modificación                                                                                      |
+|---------|------------|--------------------|------------------------------------------------------------------------------------------------------------------|
+| 1.0     | 29/03/2024 | Alejandra Díaz     | Se creo la ramificación del repositorio y adicionó los documentos en su versión inicial previa a la investigacón |
+| 1.0     | 1/04/2024 | Antonella Gonzales | Se creo los capitulos en el repositorio y tambien se completo el capitulo 3                                      |
+| 1.0     | 2/04/2024 | Carlo Ramirez      | Se completo el punto 4.6 del capitulo 4 y el punto 5.1 del capitulo 5                                            |
+| 1.0     | 2/04/2024 | Braulio Torrejon   | Se completo el punto 4.4 del capitulo 4                                                                          |
+| 1.0     | 2/04/2024 | Jair Coraje        | Se completo el capitulo 2                                                                                        |
+| 1.0     | 2/04/2024 | Louis Alfaro       | Se completo el capitulo 2.2.2 hasta el 2.2.3 como también el 4.7.1                                               |
 
 
 
