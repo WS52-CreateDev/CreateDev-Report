@@ -117,7 +117,7 @@ Recuperado de https://www.rcrperu.com/exportacion-de-artesania-se-agrava-por-pan
                   Formato: .mp4 <br>
                   Duración: 39:40 min </td>
                 <td>Consolida todas las entrevistas realizadas</td>
-                <td>Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118315_upc_edu_pe/EURwPZ16EXFKuMV6gNK0DAcBU3VkwPiEbiXSTPht833V-w?e=WNJ6t6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+                <td>Link: https://shorturl.at/awz05
                   Captura: <br>
                   <img src="/img/interviews.png" width="350"></img> </td>
             </tr>
