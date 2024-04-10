@@ -142,11 +142,19 @@ Para poder escoger el diseño de nuestro Landing Page se tuvieron en cuenta las 
 
 ### 4.3.1. Landing Page Wireframe.
 
-Contenido
+<p align = "center"> <img src="/assets/img/wireframe1.png" width="600"></img> </p>
+<p align = "center"> <img src="/assets/img/wireframe2.png" width="600"></img> </p>
+<p align = "center"> <img src="/assets/img/wireframe3.png" width="600"></img> </p>
+<p align = "center"> <img src="/assets/img/wireframe4.png" width="600"></img> </p>
+<p align = "center"> <img src="/assets/img/wireframe5.png" width="600"></img> </p>
+<p align = "center"> <img src="/assets/img/wireframe6.png" width="600"></img> </p>
 
 ### 4.3.2. Landing Page Mock-up.
 
-Contenido
+<p align = "center"> <img src="/assets/img/mock-up1.png" width="600"></img> </p>
+<p align = "center"> <img src="/assets/img/mock-up2.png" width="600"></img> </p>
+<p align = "center"> <img src="/assets/img/mock-up3.png" width="600"></img> </p>
+<p align = "center"> <img src="/assets/img/mock-up5.png" width="600"></img> </p>
 
 ## 4.4. Web Applications UX/UI Design.
 
