@@ -55,13 +55,13 @@ Convertirnos en la empresa y la aplicación líder en el mercado peruano para la
         <tr>
             <!-- DATOS del integrante 4-->
             <td> 
-            <img src="">
-            Nombres y Apellidos
+            <img src="https://media.discordapp.net/attachments/610911183339388978/1149964365613764618/xddddd.jpeg?ex=662369c6&is=6610f4c6&hm=2f3d92062863ba2650586d773e643a300f2a3164ee08aa52dc377f13db021893&=&format=webp&width=380&height=676">
+            Louis Piero Alfaro Coveñas u20191b299
             </td>
             <!-- DESCRIPCIÓN del integrante 4-->
-            <td> </td>
+            <td> Soy estudiante de la carrera de ingenieria de Software. Ya tengo experiencia creando páginas con los modelos C4. Me comprometo a colaborar estrechamente con mis compañeros y aportar mis conocimientos y habilidades al equipo. </td>
             <!-- CONOCIMIENTOS del integrante 4-->
-            <td> </td>
+            <td> Cuento con el conocimiento de diversos lenguajes HTML, JavaScript , Java , Python, C++, C# y MySQL. </td>
         </tr>
         <tr>
             <!-- DATOS del integrante 5-->
