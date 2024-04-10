@@ -71,6 +71,7 @@ img
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
+No se desarrolló en este sprint, pues en esta sección presentaremos la relación de Endpoints documentados con OpenAPI, relacionados con el alcance del Sprint y con web services.
 
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
