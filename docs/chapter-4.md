@@ -367,7 +367,12 @@ Contenido
 
 ### 4.7.1. Class Diagrams.
 
-Contenido
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/610911183339388978/1227606141932933161/image.png?ex=66290450&is=66168f50&hm=f361d305ab0234970f091f3a4b676abc723c4b45906dad1d4b9d3d91e57b6ac9&=&format=webp&quality=lossless&width=1015&height=676">
+    </td>
+  </tr>
+<br>
 
 ### 4.7.2. Class Dictionary.
 
