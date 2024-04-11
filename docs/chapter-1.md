@@ -177,10 +177,10 @@ Lo que llevó a esta persona a llegar a esta situación fue el hecho de mejorar 
 #### How much?
 
 Imagen 1: Cuadró estadístico elaborado por ADEX acerca de los índices, en millones, de exportación del sector de artesanía.
-  <img src="/assets/img/imagen1.jpg" width="100" height="100">
+  <img src="/assets/img/imagen1.jpg" width="800" >
 
  Imagen 2: Cuadro que muestra el impacto socioeconómico que sufren los artesanos del altiplano debido al Covid-19.
-   <img src="/assets/img/imagen2.png" width="100" height="100">
+   <img src="/assets/img/imagen2.png" width="800">
 
 ### 1.2.2. Lean UX Process
 
@@ -264,24 +264,26 @@ Nuestra aplicación será utilizada por aquellos que buscan productos exclusivos
 
 #### 1.2.2.4. Lean UX Canvas
 
+ <img src="/assets/img/Lean UX Canvas Template.jpg"  height="800">
+
 ## 1.3. Segmentos Objetivos
 
 Nuestra aplicación está dirigida a dos segmentos clave: personas interesadas en diseños personalizados de artesanías peruanas, y maestros artesanos que deseen registrar sus empresas o negocios en la aplicación. Para los clientes, ofrecemos la posibilidad de encontrar diseños únicos, precios, ofertas y más información sobre los artesanos. Para los maestros artesanos, les brindamos una plataforma donde pueden promocionar sus negocios y hacer que su información sea visible para nuestros usuarios.
 
-   <img src="/assets/img/imagen3.jpg" width="100" height="800">
+   <img src="/assets/img/imagen3.jpg"  height="800">
 
-   <img src="/assets/img/imagen4.jpg" width="100" height="800">
-*Figura 3. Artesanos inscritos en el Registro Nacional de Artesanos del Perú, según información estadísticas del SIPDAR Adaptado de “Información de interés - Estadísticas del SIPDAR”, por Ministerio de Comercio Exterior y Turismo, 2019.*
+   <img src="/assets/img/imagen4.jpg.png"  height="600">
+Figura 3. Artesanos inscritos en el Registro Nacional de Artesanos del Perú, según información estadísticas del SIPDAR Adaptado de “Información de interés - Estadísticas del SIPDAR”, por Ministerio de Comercio Exterior y Turismo, 2019.
 
 
-   <img src="/assets/img/imagen5.jpg" width="100" height="800">
-   *Figura 4. Distribución de los Artesanos por cada región del Perú, según información estadísticas del SIPDAR Adaptado de “Información de interés - Estadísticas del SIPDAR”, por Ministerio de Comercio Exterior y Turismo, 2019.*
+   <img src="/assets/img/imagen5.jpg"  height="600">
+   Figura 4. Distribución de los Artesanos por cada región del Perú, según información estadísticas del SIPDAR Adaptado de “Información de interés - Estadísticas del SIPDAR”, por Ministerio de Comercio Exterior y Turismo, 2019.
 
- <img src="/assets/img/imagen6.jpg" width="100" height="800">
- *Figura 5. Evolución del Registro Nacional de Artesanos entre los años 2008-2020, según información estadísticas del SIPDAR Adaptado de “Información de interés - Estadísticas del SIPDAR”, por Ministerio de Comercio Exterior y Turismo, 2019.*
+ <img src="/assets/img/imagen6.jpg"  height="600">
+ Figura 5. Evolución del Registro Nacional de Artesanos entre los años 2008-2020, según información estadísticas del SIPDAR Adaptado de “Información de interés - Estadísticas del SIPDAR”, por Ministerio de Comercio Exterior y Turismo, 2019.
 
-  <img src="/assets/img/imagen7.jpg" width="100" height="800">
-  *Figura 6. Distribución por género, según información estadísticas del SIPDAR Adaptado de “Información de interés - Estadísticas del SIPDAR”, por Ministerio de Comercio Exterior y Turismo, 2019.*
+  <img src="/assets/img/imagen7.jpg"  height="600">
+  Figura 6. Distribución por género, según información estadísticas del SIPDAR Adaptado de “Información de interés - Estadísticas del SIPDAR”, por Ministerio de Comercio Exterior y Turismo, 2019.
 
-  <img src="/assets/img/imagen8.jpg" width="100" height="800">
-  *Figura 7. Artesanos según la línea artesanal, según información estadísticas del SIPDAR Adaptado de “Información de interés - Estadísticas del SIPDAR”, por Ministerio de Comercio Exterior y Turismo, 2019*
+  <img src="/assets/img/imagen8.jpg" height="600">
+  Figura 7. Artesanos según la línea artesanal, según información estadísticas del SIPDAR Adaptado de “Información de interés - Estadísticas del SIPDAR”, por Ministerio de Comercio Exterior y Turismo, 2019*
