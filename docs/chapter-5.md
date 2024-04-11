@@ -22,15 +22,72 @@ El despliegue del software implica la preparación y configuración del entorno 
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 
-Contenido
-
 ### 5.2.1. Sprint 1
 
-Contenido
+En esta sección registramos y explicamos nuestro avance de trabajo colaborativo para el Sprint 1. 
 
 #### 5.2.1.1. Sprint Planning 1.
 
-Contenido
+<table>
+        <thead>
+            <tr>
+                <th>Sprint #</th>
+                <th>Sprint 1</th>
+            </tr>
+        </thead>
+        <tbody>
+                <th><b>Sprint Planning Background</th>
+            <tr>
+                <th>Date</th>
+                <td> 2023-04-09 </td>
+            </tr>
+            <tr>
+                <th>Time</th>
+                <td> 10:00 PM </td>
+            </tr>
+            <tr>
+                <th>Location</th>
+                <td> Reunión virtual en el servidor de Discord del Startup</td>
+            </tr>  
+            <tr>
+                <th>Prepared By</th>
+                <td> Alejandra Díaz, Antonella Gonzales </td>
+            </tr> 
+            <tr>
+                <th>Attendees (to planning meeting)</th>
+                <td> María Alejandra Díaz Villacrez, Antonella Frida Gonzales Gomez, Carlo Patricio Ramirez Escalante, Braulio Rodrigo Torrejon Navarro, Jair Andreé Coraje Bayona, Louis Piero Alfaro Coveñas </td>
+            </tr>
+            <tr>
+                <th>Sprint 1 - 1 Review Summary</th>
+                <td> Se realizaron los commits y push de los index.html en las ramas "feature/hero, feature/about-the-app, feature/about-us, feature/benefits, feature/contact-us y feature/footer" del repositorio del Landing Page. Quedó pendiente hacer un merge con la rama develop. </td>
+            </tr>
+            <tr>
+                <th>Sprint 1 - 1 Retrospective Summary</th>
+                <td> En retrospectiva, los miembros del equipo opinan que se debe seguir una plantilla al elaborar los index de los features, para evitar conflictos a la hora de hacer merge con la rama develop. Sin embargo, como equipo tuvimos la oportunidad de aprender como realizar merges ya que nadie habia realizado esta actividad previamente. </td>
+            </tr>
+                <th><b>Sprint Goal & User Stories</th>
+            <tr>
+                <th>Sprint 1 Goal</th>
+                <td> Los goals definidos son: Implementación del landing page index y style, además de hacer un merge a la rama develop. 
+                La métrica para medir el cumplimiento de los goals será: (Número de elementos del Sprint Backlog completados)/ (Número todal de elementos del Sprint Backlog planificados) x 100% </td>
+            </tr>
+            <tr>
+                <th>Sprint 1 Velocity</th>
+                <td> Los Story Points que el equipo acepto para este Sprint fueron alrededor de 25 puntos</td>
+            </tr>
+            <tr>
+                <th>Sum of Story Points</th>
+                <td> 
+                    HU-17: 5 puntos </br>
+                    HU-18: 3 puntos </br>
+                    HU-19: 3 puntos </br>
+                    HU-20: 5 puntos </br>
+                    HU-21: 5 puntos </br>
+                    Suma total: 21 Story points
+                </td>
+            </tr>
+        </tbody>
+    </table>
 
 #### 5.2.1.2. Sprint Backlog 1.
 
@@ -45,7 +102,8 @@ Contenido
 Contenido
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
-vistas implementadas: la primera vista se puede observar el navbar con secciones home, meet us o know us, services, contact us. cabe resaltar que es fijo y con forme el usuario se desplaye podrá seleccionar cual sección desde el navbar
+
+Vistas implementadas: la primera vista se puede observar el navbar con secciones home, meet us o know us, services, contact us. cabe resaltar que es fijo y con forme el usuario se desplaye podrá seleccionar cual sección desde el navbar
 
 desktop web browser se muestra la versión menú de la plataforma, detallando los principales contenidos, opciones que permiten conocer más nuestro sistema al usuario.
 ![Imagen](https://cdn.discordapp.com/attachments/1227800643784151040/1227800730044465193/image.png?ex=6629b989&is=66174489&hm=ebf807b4e63cab329bedf9b6af1a1abe36eb2707820e3696b074f3e31a47678c&)
@@ -135,6 +193,5 @@ Recuperado de https://www.rcrperu.com/exportacion-de-artesania-se-agrava-por-pan
                 <td>Consolida las exposiciones de la TB1</td>
                 <td>Link: Captura: </td>
             </tr>
-            <!-- Puedes agregar más filas según tus necesidades -->
         </tbody>
     </table>
