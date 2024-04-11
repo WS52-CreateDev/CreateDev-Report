@@ -90,7 +90,11 @@ Convertirnos en la empresa y la aplicación líder en el mercado peruano para la
 Para describir nuestra startup de manera más efectiva y organizada, vamos a emplear la técnica de responder a las preguntas básicas del 5W y 2H
 ### Antecedentes
 
+- Los antecedentes de nuestra aplicación se remontan a la necesidad identificada de brindar a los artesanos peruanos herramientas tecnológicas que les permitan expandir su arte, cultura y negocio. 
+
 ### Problemáticas
+
+- La problemática principal radica en la falta de acceso a estas herramientas, lo que dificulta a los artesanos llegar a un mercado más amplio y diverso. Además, la comercialización limitada a zonas locales impide que su trabajo sea conocido y apreciado en todo el país. La falta de información sobre tecnología y la necesidad de una metodología eficiente para organizar, inventariar y comercializar sus productos son desafíos adicionales que nuestra aplicación busca abordar.
 
 #### Técnica de las 5 ‘W’s y 2 ‘H’s
 
