@@ -184,10 +184,6 @@ Imagen 1: Cuadró estadístico elaborado por ADEX acerca de los índices, en mil
 
 ### 1.2.2. Lean UX Process
 
-<img src="/assets/img/Untitled_2024-04-11_05-18-02.png" width="800">
-
-Enlace de Lean UX Canvas en mural: [https://bit.ly/3ub4Hwh](https://app.mural.co/t/upc4741/m/upc4741/1712812340102/cfcb97c2ad24371ec74f8f65678accea911df972?sender=u1c96a26aa4387e3fd44f7934)
-
 #### 1.2.2.1. Lean UX Problem Statements.
 
 - En el contexto actual, hemos identificado la necesidad de desarrollar una aplicación móvil dedicada a la producción, logística y comercialización de artesanías, un sector crucial para la cultura peruana. Esta aplicación no solo ayudará a los usuarios a encontrar productos y diseños exclusivos, sino que también facilitará la colaboración entre maestros artesanos, nuevos productores y clientes finales o empresas.
@@ -268,7 +264,9 @@ Nuestra aplicación será utilizada por aquellos que buscan productos exclusivos
 
 #### 1.2.2.4. Lean UX Canvas
 
- <img src="/assets/img/Lean UX Canvas Template.jpg"  height="800">
+<img src="/assets/img/Untitled_2024-04-11_05-18-02.png" width="800">
+
+Enlace de Lean UX Canvas en mural: [https://bit.ly/3ub4Hwh](https://app.mural.co/t/upc4741/m/upc4741/1712812340102/cfcb97c2ad24371ec74f8f65678accea911df972?sender=u1c96a26aa4387e3fd44f7934)
 
 ## 1.3. Segmentos Objetivos
 
