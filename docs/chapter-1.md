@@ -96,39 +96,83 @@ Para describir nuestra startup de manera más efectiva y organizada, vamos a emp
 
 #### What?
 
+Refiere a la razón por la cual se está llevando a cabo este proyecto. Suele responder las siguientes preguntas:
+
 **¿Cuál es el problema?**
+
+El problema abordado es la falta de herramientas de técnologia que deberían emplear los artesanos para expandir el arte, cultura y negocio.
 
 **¿Cuál es la relación con la persona en cuestión?**
 
+El problema se relaciona directamente con las sociedades de artesanos, quienes carecen de una metodología eficiente para organizar, inventariar y comercializar sus productos.
+
 #### When?
+
+Refiere al momento o periodo de tiempo en el cual ocurre el evento. Suele responder las siguientes preguntas
 
 **¿Cuándo sucede el problema?**
 
+El problema ocurre cuando los artesanos desean comercializar sus productos o cuando quieren ofrecer la personalización de estos, puesto que no cuentan con las herramientas tecnológicas necesarias.
+
 **¿Cuándo utiliza el cliente el producto?**
+
+El producto es utilizado cuando el cliente, los artesanos, deseen registrar, comercializar y/o personalizar sus productos a gusto de los compradores.
 
 #### Where?
 
+Refiere al lugar en el que se lleva a cabo el problema. Suele responder las siguientes preguntas:
+
 **¿Dónde está el cliente cuando usa el producto?**
+
+El cliente está en cualquier lugar de su hogar o en el lugar donde elabore las artesanías.
 
 **¿A dónde se dirige?**
 
+La aplicación se dirige a los artesanos que deseen expandir sus ventas y el alcance de estas mismas.
+
 **¿Dónde surge el problema?**
+
+El problema surge en los lugares donde los artesanos elaboran sus productos, debido a que los comercializan solo en zonas cercanas y no en linea.
 
 #### Who?
 
+Ayuda a obtener información importante de todas las personas involucradas debido a que es posible que haya varios tipos de cliente. Suele responder las siguientes preguntas:
+
 **¿Quiénes están involucrados?**
+
+En nuestra aplicación están involucrados los artesanos y las personas que quieran comprar las artesanías.
+
+**¿A quiénes le sucede el problema?**
+
+El problema afecta, principalmente, a los artesanos, pues son ellos quienes no logran expandir su negocio gracias a la tecnología.
+
+**¿Quién lo utilizará?**
+
+La aplicación será utilizada por artesanos que deseen expandir, mejorar la logística y comercialización de sus productos y los clientes que deseen comprar y/o personalizar estos productos.
 
 #### Why?
 
+Refiere al causante o desencadenante del problema abordado. Suele responder la siguiente pregunta:
+
 **¿Cuál es la causa del problema?**
+
+El causante del problema es la poca información que tienen los artesanos acerca de la tecnología y la diversidad de usos que se le puede dar.
 
 #### How?
 
+Refiere a cómo se lleva a cabo los hechos para explicar una situación. Suele responder las siguientes preguntas:
+
 **¿En qué condiciones los clientes usan nuestros productos?**
 
-**¿Cómo prefieren los clientes acceder a nuestro producto?**
+Nuestros clientes usan la aplicación si desean llegar a más personas con sus productos.
+
+**¿Cómo nos conocieron los compradores?**
+
+Los compradores nos conocieron mediante publicidad en redes sociales, página web, redes sociales y recomendaciones de otros compradores.
 
 **¿Qué llevó al cliente a llegar a esta situación?**
+
+Lo que llevó a esta persona a llegar a esta situación fue el hecho de mejorar la logística de su negocio y expandir la comercialización de sus productos
 
 #### How much?
 
