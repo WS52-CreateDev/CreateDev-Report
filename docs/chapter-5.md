@@ -48,26 +48,31 @@ Contenido
 vistas implementadas: la primera vista se puede observar el navbar con secciones home, meet us o know us, services, contact us. cabe resaltar que es fijo y con forme el usuario se desplaye podrá seleccionar cual sección desde el navbar
 
 desktop web browser se muestra la versión menú de la plataforma, detallando los principales contenidos, opciones que permiten conocer más nuestro sistema al usuario.
+![Imagen](https://cdn.discordapp.com/attachments/1227800643784151040/1227800730044465193/image.png?ex=6629b989&is=66174489&hm=ebf807b4e63cab329bedf9b6af1a1abe36eb2707820e3696b074f3e31a47678c&)
 
-mgen
 
 Al elegir la opción “Sobre nosotros” de la barra de herramientas del menú principal, se muestra  el informe  acerca de nuestro proyecto.
 
-img
+![Imagen](https://cdn.discordapp.com/attachments/1227800643784151040/1227800774579585055/image.png?ex=6629b994&is=66174494&hm=938d30ac9595526e60a9f24e1d1cdf6d8633c7c491290cd258ae6fe7065f9316&)
+
 Al elegir la opción “Productos” de la barra de herramientas del menú principal, se se presenta los productos que posee el usuario a lo largo del consumo del software.
 
-img
+![Imagen](https://cdn.discordapp.com/attachments/1227800643784151040/1227800832691667024/image.png?ex=6629b9a1&is=661744a1&hm=4cec0618d1bf43e50502d45155b1d0cf199e097c55cc66c7fd910c1440bd52b5&)
+
 
 Al elegir la opción “Equipo” de la barra de herramientas del menú principal, se muestra  los integrantes que estan a cargo del proyecto
-img
+![Imagen](https://cdn.discordapp.com/attachments/1227800643784151040/1227800894184362024/image.png?ex=6629b9b0&is=661744b0&hm=85fc4d0392043d42405e83be74d0465753ea7ec38a2b692d0ce8ce5160863bd8&)
+
 
 
 Al elegir la opción “Contacto” de la barra de herramientas del menú principal, se muestra  un formulario para que el usuario pueda enviar su correro.
 
-img
+![Imagen](https://cdn.discordapp.com/attachments/1227800643784151040/1227800961477513217/image.png?ex=6629b9c0&is=661744c0&hm=611c6ad96e7dd84061b623d472a58cf3b015b34cd5113b31a40f3ffc7b408ee1&)
+
 En la parte final de la landing page se muestra un footer, información breve de contacto, y la opción de contactarnos y nuestras redes sociales.
 
-img
+![Imagen](https://cdn.discordapp.com/attachments/1227800643784151040/1227801032625492048/image.png?ex=6629b9d1&is=661744d1&hm=d47aea4ee74cbe39e581a9ccc906d401d5094e26a4bc1ed728a6a2ef0c88cfe7&)
+
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
