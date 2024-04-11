@@ -82,9 +82,9 @@ Convertirnos en la empresa y la aplicación líder en el mercado peruano para la
 
 **Product Name:** Maki
 
-**Product Description:**
+**Product Description:** Nuestra app conecta a personas que quieran comprar artesanías peruanas personalizadas y conectar con  maestros artesanos locales. 
 
-**Monetización:**
+**Monetización:** Nuestra aplicación se monetiza a través de suscripciones premium y comisiones por transacciones de productos artesanales.
 
 ### 1.2.1. Antecedentes y problemática
 Para describir nuestra startup de manera más efectiva y organizada, vamos a emplear la técnica de responder a las preguntas básicas del 5W y 2H
