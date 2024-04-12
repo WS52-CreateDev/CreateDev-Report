@@ -1,4 +1,4 @@
-# Capítulo III: Requirements Specification.
+es# Capítulo III: Requirements Specification.
 
 
 
@@ -9,7 +9,7 @@ En este apartado se desarrolla el To-be Scenario Mapping en base al análisis de
 ### <a name="_toc102524916"></a><a name="_toc106465576"></a>3.1.1. To-be Scenario Mapping User Cliente:
 
 
-![Imagen](https://cdn.discordapp.com/attachments/754867305468395543/1224097560529207406/image.png?ex=661c40b1&is=6609cbb1&hm=3e8e861e8cc76a72f18c21b7b9a19c3d6663788ff15208e5d46efa515d4a0803&)
+![Imagen]( https://cdn.discordapp.com/attachments/754867305468395543/1228367719708102708/image.png?ex=662bc996&is=66195496&hm=cfafe4b9f91aa80c55dafabc6aecf8ec5f3cfe084aa48705d6e488c63aaafb8a& )
 
 
 
@@ -21,7 +21,7 @@ En este apartado se desarrolla el To-be Scenario Mapping en base al análisis de
 ### <a name="_toc102524917"></a><a name="_toc106465577"></a>3.1.2. To-be Scenario Mapping User Artesano:
 
 
-![Imagen](https://cdn.discordapp.com/attachments/754867305468395543/1224097761146703962/image.png?ex=661c40e0&is=6609cbe0&hm=b6110188e1d1d6147dbe637aa3156d4469a4a7cb711735779dc174706cee0270&)
+![Imagen](  https://cdn.discordapp.com/attachments/754867305468395543/1228367719708102708/image.png?ex=662bc996&is=66195496&hm=cfafe4b9f91aa80c55dafabc6aecf8ec5f3cfe084aa48705d6e488c63aaafb8a& )
 
 
 
