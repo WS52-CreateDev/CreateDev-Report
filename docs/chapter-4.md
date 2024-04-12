@@ -381,9 +381,76 @@ En esta sección se presenta el diagrama de clases y el diccionario de nuestro m
   </tr>
 <br>
 
-### 4.7.2. Class Dictionary.
+## 4.7.2. Class Dictionary.
 
-Contenido
+### Artesano:
+
+Dependencia: La clase Artesania depende del Artesano en la relación de agregación, ya que una artesanía es creada por un artesano específico (relación de uno a uno).
+
+### Review:
+
+Dependencia: La clase Artesano depende de Review en la relación de asociación, ya que un artesano puede tener varias revisiones (relación de uno a muchos).
+
+### Cliente_Jurídico:
+
+Dependencia: La clase Cliente depende de Cliente_Jurídico en la relación de generalización/especialización, ya que un cliente puede ser jurídico o natural (relación de uno a uno).
+
+### Categoria:
+
+Dependencia: La clase Review depende de Categoría en la relación de asociación, ya que una revisión puede estar categorizada en una categoría específica (relación de uno a muchos).
+
+### Artesania:
+
+Dependencia: La clase Tipo_Artesania depende de Artesania en la relación de asociación, ya que una artesanía puede ser de un tipo específico (relación de uno a uno).
+Dependencia: La clase Tipo_Material depende de Artesania en la relación de asociación, ya que una artesanía puede estar hecha de un material específico (relación de uno a uno).
+
+### Tipo_Artesania:
+
+Dependencia: La clase Artesania depende de Tipo_Artesania en la relación de asociación, ya que una artesanía puede ser de un tipo específico (relación de uno a uno).
+
+### Tipo_Material:
+
+Dependencia: La clase Artesania depende de Tipo_Material en la relación de asociación, ya que una artesanía puede estar hecha de un material específico (relación de uno a uno).
+
+### Tipo_Color:
+
+Dependencia: La clase Tipo_Artesania depende de Tipo_Color en la relación de agregación, ya que un tipo de artesanía puede tener varios colores asociados (relación de uno a muchos).
+
+
+
+### Cliente:
+
+Dependencia: La clase Cliente_Natural depende de Cliente en la relación de generalización/especialización, ya que un cliente puede ser jurídico o natural (relación de uno a uno).
+Dependencia: La clase Cliente_Jurídico depende de Cliente en la relación de generalización/especialización, ya que un cliente puede ser jurídico o natural (relación de uno a uno).
+
+### Cliente_Natural:
+
+Dependencia: La clase Cliente depende de Cliente_Natural en la relación de generalización/especialización, ya que un cliente puede ser jurídico o natural (relación de uno a uno).
+
+### Cuenta:
+
+Dependencia: La clase Cliente depende de Cuenta en la relación de asociación, ya que un cliente puede tener una cuenta para gestionar sus actividades (relación de uno a uno).
+
+### ListaFavoritos:
+
+Dependencia: La clase Cliente depende de ListaFavoritos en la relación de asociación, ya que un cliente puede tener una lista de favoritos de artesanías (relación de uno a muchos).
+
+### CarritoCompras:
+
+Dependencia: La clase Cliente depende de CarritoCompras en la relación de asociación, ya que un cliente puede tener un carrito de compras para agregar artesanías (relación de uno a muchos).
+
+### SeguimientoPedido:
+
+Dependencia: La clase Cliente depende de SeguimientoPedido en la relación de asociación, ya que un cliente puede realizar un seguimiento de sus pedidos (relación de uno a muchos).
+
+### DetalleOrdenCompra:
+
+Dependencia: La clase MedioPago depende de DetalleOrdenCompra en la relación de asociación, ya que los detalles de la orden de compra están relacionados con el medio de pago (relación de uno a muchos).
+
+### MedioPago:
+
+Dependencia: La clase DetalleOrdenCompra depende de MedioPago en la relación de asociación, ya que los detalles de la orden de compra están relacionados con el medio de pago (relación de uno a muchos).
+
 
 ## 4.8. Database Design.
 
