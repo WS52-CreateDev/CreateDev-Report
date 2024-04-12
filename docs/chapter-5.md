@@ -119,7 +119,7 @@ Link del Trello: https://trello.com/invite/b/kmauia0S/ATTIcf86396df6e9b14f5ba095
         </tr>
         <tr>
             <td>HU-01</td>
-            <td>Visualización del logo de CreateDev</td>
+            <td>Visualización del logo de Maki</td>
             <td>WL-01</td>
             <td>Implementación de imagen de muestra.</td>
             <td>Implementar la visualización del logo en la sección "Hero"</td>
