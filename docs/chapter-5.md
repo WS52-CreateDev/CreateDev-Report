@@ -99,7 +99,52 @@ Contenido
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 
-Contenido
+Para la entrega del Sprint 1, se tuvo pensado alcanzar el desarrollo completo del despliegue del Landing page. En esta sección presentamos la implementación del Landing page, tratando de alcanzar el diseño original que se realizó en Figma, de tal modo que el usuario tenga una buena experiencia de usuario.
+
+|Repository|Branch	Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+| :- | :- | :- | :- | :- |
+|Maki-Landing-page|8f6bf8c7a74f38647604b7d8564d77ac508b395c|Added initial landing page|Added initial landing page|09/04/24|
+|Maki-Landing-page|27fe7eb6d6cfcb8bed5809c9a611eb298a79a7dc|add the toolbar and home page|add the toolbar and home page|09/04/24|
+|Maki-Landing-page|c639147ee077cb4aa1ad82b69ccc6421f037ccbc|Update index.html|deleted the beginning of the landing page|09/04/24|
+|Maki-Landing-page|6e7663cb0d650b8617f6eeed0e242d5a3b33a87c|feat(hero): updated hero|added hero section|09/04/24|
+|Maki-Landing-page|5663ade0cd2408e889827baa50872ca8eebb66e9|feat(about-us): updated about-us|added about-us section|09/04/24|
+|Maki-Landing-page|328074b22aec84a51b611af5bfd383f70ca6c14d|feat(benefits): added benefits|feat(benefits): added benefits|09/04/24|
+|Maki-Landing-page|ebb02813e6f5fc16136a3d011712c72f78313565|feat(about-us):created\_about-us|feat(about-us):created\_about-us|09/04/24|
+|Maki-Landing-page|73437e3a94b49c96f7fb15efe4660e861b37290c|feat(about-the-app): updated about the app|added about the app section|09/04/24|
+|Maki-Landing-page|ab886b82e21ff538f6482e6701a0b39f29ed355c|feat(contact-us): update contact us|feat(contact-us): update contact us|09/04/24|
+|Maki-Landing-page|4100568fe5221e435dd58e9de91bb0375d8bae76|Feat(Footer):Add footer|Feat(Footer):Add footer|09/04/24|
+|Maki-Landing-page|b2dd78b1ce9fcf5c99681e0124acf3a89d851e4a|feat(develop): added js file folder|feat(develop): added js file folder|09/04/24|
+|Maki-Landing-page|8f06dfd09dc37f71a320cac8cf45839d9625c556|feat(develop): added images folder|feat(develop): added images folder|09/04/24|
+|Maki-Landing-page|16cfa2de1768d89ea7f9ad4a706455ed7f826a45|feat(develop): added css file folder|feat(develop): added css file folder|09/04/24|
+|Maki-Landing-page|947274a5471975f4bd5e94a9943cf95825bfb046|<p>Merge pull request #1 from WS52-CreateDev/feature/hero</p><p></p>|<p>Merge pull request #1 from WS52-CreateDev/feature/hero</p><p></p><p></p>|09/04/24|
+|Maki-Landing-page|0c0570f4054939a2a73613eb7fef540976950119|fix(about-us): fixed about us|fix(about-us): fixed about us|09/04/24|
+|Maki-Landing-page|2f45bcf4e6d3c6ba88591dd868d848d052f50c65|fix(about-the-app): fixed about the app|fix(about-the-app): fixed about the app|09/04/24|
+|Maki-Landing-page|afe033cee84ee0834a18b3e4da3480e588174727|fix(footer): fixed footer|fix(footer): fixed footer|09/04/24|
+|Maki-Landing-page|8ae864a8dd2f69c923075f1d37b73a24c940b527|<p>Merge pull request #3 from WS52-CreateDev/feature/footer</p><p></p>|<p>Feature/footer</p><p></p><p></p><p></p>|09/04/24|
+|Maki-Landing-page|34c6bc7f7c61391461edaee1df3104844295fc1b|fix(benefits): fixed benefits|fix(benefits): fixed benefits|09/04/24|
+|Maki-Landing-page|e45e2ea20d7846e93b44e6427cbac7e32698031a|fix(contact-us): fixed contact us|fix(contact-us): fixed contact us|09/04/24|
+|Maki-Landing-page|7a5f233894f9974f930e9557fe63cc46a78cfc1a|<p>Merge pull request #4 from WS52-CreateDev/feature/contact-us</p><p></p>|Feature/contact us|09/04/24|
+|Maki-Landing-page|6e134e7aca8dc1d85358a025aad685ff82933ec8|<p>fix(contact-us): fixed contact us</p><p></p>|<p>fix(contact-us): fixed contact us</p><p></p><p></p>|09/04/24|
+|Maki-Landing-page|579be40925e4b398375897f2ce0a16e8f4a5ca5f|fix(contact-us): fixed contact us|fix(contact-us): fixed contact us|09/04/24|
+|Maki-Landing-page|071761200d77ecf3807011920888e8ef15c68b75|feat(contact-us): update contact-us|feat(contact-us): update contact-us|09/04/24|
+|Maki-Landing-page|f92b11101f9e234fc7383919ac13868c3366b87d|fix(contact-us): fixed|fix(contact-us): fixed|09/04/24|
+|Maki-Landing-page|cdcfc7277c3282c91b5311330aea9930b9cafd7f|fix(contact-us): fixed contact us section|fix(contact-us): fixed contact us section|10/04/24|
+|Maki-Landing-page|831d56c43fcadc4efa6869c76f580bd28c56b923|Merge branch 'develop' into feature/contact-us|Merge branch 'develop' into feature/contact-us|10/04/24|
+|Maki-Landing-page|408e3981fc62fa2bd94c06e561af755682b866a7|Merge pull request #6 from WS52-CreateDev/feature/contact-us|<p>Feature/contact us</p><p></p>|10/04/24|
+|Maki-Landing-page|60e91cd5c8f219ad3c36babeee02e90b0956c243|<p>Merge branch 'develop' into feature/about-us</p><p></p>|<p>Merge branch 'develop' into feature/about-us</p><p></p>|10/04/24|
+|Maki-Landing-page|411d38d5c9e2ddfde11ffdc612a640a886e5f7d0|Merge pull request #5 from WS52-CreateDev/feature/about-us|<p>Feature/about us</p><p></p>|10/04/24|
+|Maki-Landing-page|e0c6473d80224b38e5d8a099ef2ff68070d8da74|Merge branch 'develop' into feature/benefits|Merge branch 'develop' into feature/benefits|10/04/24|
+|Maki-Landing-page|51c64f9aed21325e6e3cfc9f797cbc25d8d6d7a2|The "feature/benefits" branch was integrated into the "develop" branch.|The "feature/benefits" branch was integrated into the "develop" branch.|10/04/24|
+|Maki-Landing-page|53ec259fb27f47c5fc0ad36c00abf9fc9a5fe935|Merge branch 'develop' into feature/about-the-app|Merge branch 'develop' into feature/about-the-app|10/04/24|
+|Maki-Landing-page|600bcb72767ecbf59309fccd6afc7fb5cd544cbd|Merge pull request #8 from WS52-CreateDev/feature/about-the-app|The "feature/about-the-app" branch was integrated into the "develop" branch.|10/04/24|
+|Maki-Landing-page|020e23f0e62a866e0a36a53055004fd46614c4bb|fix(develop): fixed index.html|fix(develop): fixed index.html|10/04/24|
+|Maki-Landing-page|464e4e384d700ad472efa506ba1029de0b8295f8|feat(develop): added images|feat(develop): added images|11/04/24|
+|Maki-Landing-page|447d11465b10ae6f240a6ad31627482a5582af68|fix(develop): updated team images|fix(develop): updated team images|11/04/24|
+|Maki-Landing-page|55585af40fb209eadf5e7cec8b4f82225a40f6bb|fix(develop): updated team images|fix(develop): updated team images|11/04/24|
+|Maki-Landing-page|ccb9905e4678a4c0f758ece859daef38cab12ad7|feat(master): added index file|feat(master): added index file|11/04/24|
+|Maki-Landing-page|02a40816620151490db09a7cd8670e6c89a88995|Merge branch 'master' into develop|Merge branch 'master' into develop|11/04/24|
+|Maki-Landing-page|f0f003a881fdd96c8444cd2ee056f5fe02124b66|Merge from develop branch into master|Develop|11/04/24|
+
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
