@@ -260,7 +260,8 @@
     </tr>
      <tr> 
         <td></td>
-        <td> Estudiante 3 SO</td>
+        <td> <b>Antonella Frida Gonzáles Gómez TB1</b> Los puntos desarrollados del capítulo 3 fueron necesarios para identificar las necesidades de cada usuario de esa manera realizar el landing page y posteriormente la app web.</td>
+        
          <td></td>
     </tr>
      <tr> 
