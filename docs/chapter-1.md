@@ -66,7 +66,7 @@ Convertirnos en la empresa y la aplicación líder en el mercado peruano para la
         <tr>
             <!-- DATOS del integrante 5-->
             <td> 
-            <img src="/assets/img/Jair.jpeg">
+            <img src="/assets/img/Jair.jpeg" width="100" height="100">
             Jair Andreé Coraje Bayona u202118775
             </td>
             <!-- DESCRIPCIÓN del integrante 5-->
