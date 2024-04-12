@@ -41,7 +41,7 @@
 | 1.0     | 29/03/2024 | Alejandra Díaz     | Se creo la ramificación del repositorio y adicionó los documentos en su versión inicial previa a la investigacón |
 | 1.0     | 1/04/2024 | Antonella Gonzales | Se creo los capitulos en el repositorio y tambien se completo el capitulo 3                                      |
 | 1.0     | 2/04/2024 | Carlo Ramirez      | Se completo el punto 4.6 del capitulo 4 y el punto 5.1 del capitulo 5                                            |
-| 1.0     | 2/04/2024 | Braulio Torrejon   | Se completo el punto 4.4 del capitulo 4                                                                          |
+| 1.0     | 2/04/2024 | Braulio Torrejon   | Se completo el capitulo 1 , el punto 4.4 del capitulo 4 y el punto 5.2.1.7 - 5.2.1.8 del capitulo 5              |
 | 1.0     | 2/04/2024 | Jair Coraje        | Se completo el capitulo 2                                                                                        |
 | 1.0     | 2/04/2024 | Louis Alfaro       | Se completo el capitulo 2.2.2 hasta el 2.2.3 como también el 4.7.1                                               |
 
@@ -245,8 +245,8 @@
     </tr>
      <tr> 
         <td></td>
-        <td> Estudiante 5 SO</td>
-         <td></td>
+        <td> **Braulio Rodrigo Torrejon Navarro** Colaboré con el desarrollo del capitulo 1, hacer en figma los Mock-ups y Wiframe del web application segun lo investigado. SO</td>
+         <td>Con el desarrollo del mockup de la web application, se pudo ver como es que funcionaria nuestra aplicación junto a lo que los usuarios querian.</td>
     </tr>
     <tr>
       <td>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</td>
@@ -270,7 +270,7 @@
     </tr>
      <tr> 
         <td></td>
-        <td> Estudiante 5 SO</td>
+        <td> <b>Braulio Torrejon Navarro TB1</b> Los puntos que desarrollé fueron necesario para poder tener un esqueleto con el Wireframe de como se veria, los wireflow diagram para entender como se usaria para finalizar con el Mock-up y tenerlo listo para cuando se quiera programar. </td>
          <td></td>
     </tr>
   </tbody>
