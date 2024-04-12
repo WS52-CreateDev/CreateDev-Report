@@ -119,7 +119,7 @@ Link del Trello: https://trello.com/invite/b/kmauia0S/ATTIcf86396df6e9b14f5ba095
         </tr>
         <tr>
             <td>HU-01</td>
-            <td>Visualización del logo de CreateDev</td>
+            <td>Visualización del logo de Maki</td>
             <td>WL-01</td>
             <td>Implementación de imagen de muestra.</td>
             <td>Implementar la visualización del logo en la sección "Hero"</td>
@@ -321,11 +321,47 @@ No se desarrolló en este sprint, pues en esta sección presentaremos la relaci�
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
-Contenido
+En este sprint, se completó el desarrollo de la landing page y se utilizó un conjunto de herramientas para su despliegue
+
+- **Git:** Se empleó como sistema de control de versiones para trabajar de manera colaborativa y monitorear las versiones de la landing page en un repositorio remoto.
+
+- **Gitflow:** Este flujo de trabajo colaborativo permitió dividir el trabajo por ramas dentro del repositorio, facilitando la colaboración en el desarrollo.
+
+- **GitHub:** Se utilizó esta plataforma para crear y almacenar el repositorio del proyecto, brindando una herramienta para gestionar las versiones.
+
+- **Netlify:** Esta plataforma automatizó el proceso de alojamiento y despliegue de la landing page, siendo fundamental para ponerla en producción.
+
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
-Contenido
+Durante el segundo Sprint, utilizamos Visual Studio Code junto con Git para gestionar nuestros commits. Inicialmente, un miembro del equipo realizó el primer commit para crear el repositorio. Luego, clonamos el repositorio con Git y procedimos a realizar cambios en Visual Studio Code. Para organizar estos cambios, creamos branches específicos y luego realizamos los commits correspondientes. Todos los commits fueron revisados y aprobados en el repositorio de GitHub por el líder del grupo.
+
+Hemos desarrollado un total de 62 commits en el desarrollo del proyecto.
+
+| Username  | Nombre |
+| ------------- | ------------- |
+| BraulioTN  | Torrejon Navarro, Braulio Rodrigo |
+| alehandraxx | Gonzales Gomez, Antonella  |
+| Carlo211 | Content Cell  |
+| LouisAlfaro | Alfaro Coveñas, Louis Piero |
+| Anthonnela | Gonzales Gomez, Antonella Frida |
+| JairCoraje | Coraje Bayona, Jair Andreé  |
+
+<p align = "center"> <img src="/img/landingpage.PNG" width="800"></img> </p>
+
+**Anexo: tablas de commits en el periodo de 1 mes**
+<p align = "center"> <img src="/img/3.PNG" width="800"></img> </p>
+
+
+
+**Anexo: Flujo de trabajo en el periodo de 1 mes**
+<p align = "center"> <img src="/img/1.PNG" width="800"></img> </p>
+
+
+
+**Anexo: Colaboration Insights en el periodo de 1 mes**
+<p align = "center"> <img src="/img/2.PNG" width="800"></img> </p>
+
 
 ## Avance de Conclusiones, Bibliografía y Anexos.
 
