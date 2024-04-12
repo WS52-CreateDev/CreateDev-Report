@@ -67,7 +67,7 @@ Convertirnos en la empresa y la aplicación líder en el mercado peruano para la
             <!-- DATOS del integrante 5-->
             <td> 
             <img src="/assets/img/Jair.jpeg" width="100" height="100">
-            Jair Andreé Coraje Bayona u202118775
+            <br>Jair Andreé Coraje Bayona u202118775
             </td>
             <!-- DESCRIPCIÓN del integrante 5-->
             <td> Soy estudiante de la carrera de ingeniería de Software. Tengo interes de aprender las teconlogías del desarrollo web, tanto como frameworks para FontEnd como Backend.
