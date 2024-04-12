@@ -347,19 +347,20 @@ Hemos desarrollado un total de 62 commits en el desarrollo del proyecto.
 | Anthonnela | Gonzales Gomez, Antonella Frida |
 | JairCoraje | Coraje Bayona, Jair Andreé  |
 
+<p align = "center"> <img src="/img/landingpage.PNG" width="800"></img> </p>
 
 **Anexo: tablas de commits en el periodo de 1 mes**
-<p align = "center"> <img src="/img/flujodetrabajo.PNG" width="800"></img> </p>
+<p align = "center"> <img src="/img/3.PNG" width="800"></img> </p>
 
 
 
 **Anexo: Flujo de trabajo en el periodo de 1 mes**
-<p align = "center"> <img src="/img/tabladecommits.PNG" width="800"></img> </p>
+<p align = "center"> <img src="/img/1.PNG" width="800"></img> </p>
 
 
 
 **Anexo: Colaboration Insights en el periodo de 1 mes**
-<p align = "center"> <img src="/img/colaborationinsights.PNG" width="800"></img> </p>
+<p align = "center"> <img src="/img/2.PNG" width="800"></img> </p>
 
 
 ## Avance de Conclusiones, Bibliografía y Anexos.
