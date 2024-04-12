@@ -66,13 +66,15 @@ Convertirnos en la empresa y la aplicación líder en el mercado peruano para la
         <tr>
             <!-- DATOS del integrante 5-->
             <td> 
-            <img src="">
-            Nombres y Apellidos
+            <img src="/assets/img/Jair.jpeg">
+            Jair Andreé Coraje Bayona u202118775
             </td>
             <!-- DESCRIPCIÓN del integrante 5-->
-            <td> </td>
+            <td> Soy estudiante de la carrera de ingeniería de Software. Tengo interes de aprender las teconlogías del desarrollo web, tanto como frameworks para FontEnd como Backend.
+            </td>
             <!-- CONOCIMIENTOS del integrante 5-->
-            <td> </td>
+            <td> Tengo conocimientos en los lenguajes de programación de : C++, C#, Java, Python y manejo de base de datos en MySQL.
+            </td>
         </tr>
     </body>
 </table>
