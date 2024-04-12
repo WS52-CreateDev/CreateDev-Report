@@ -18,7 +18,7 @@ En este apartado se realizará el análisis de 3 competidores, directos o indire
 </tr>
 <tr>
   <td colspan="2" valign="top"></td>
-  <td valign="top"><b>CraftArtApp
+  <td valign="top"><b>MAKI
   </b></td>
   <td valign="top">
   <b>Artesanía. App</b>
@@ -38,7 +38,7 @@ En este apartado se realizará el análisis de 3 competidores, directos o indire
 <tr>
   <td rowspan="2"><b>Perfil</b></td><td valign="top"><b>Overview</b>
   </td>
-  <td valign="top">Aplicación móvil para el manejo de la logística, comercialización y creación de mates burilados personalizados.
+  <td valign="top">Aplicación web para el manejo de la logística, comercialización y creación de mates burilados personalizados.
   </td>
   <td valign="top">Plataforma web para comercializar productos artesanos.</td><td valign="top">Plataforma de tienda virtual en la que se brindan productos artesanales y de diseño contemporáneo.</td><td valign="top">Plataforma de tiendas virtuales de cultura artesanal donde se plantea una gestión donde los creadores tienen totales derechos sobre las ventas de sus productos.
   </td>
@@ -73,7 +73,7 @@ En este apartado se realizará el análisis de 3 competidores, directos o indire
   </td>
 </tr>
 <tr>
-  <td valign="top"><b>Canales de distribución (Web y/o móvil)</b></td><td valign="top">Play Store, Apple Store, iOS, Android, correo electrónico y página web.</td><td valign="top">Redes sociales, página web y correo electrónico.</td><td valign="top">Página web, tienda física, correo electrónico y WhatsApp.</td><td valign="top">Página web y redes sociales.
+  <td valign="top"><b>Canales de distribución (Web y/o móvil)</b></td><td valign="top">Aplicación web.</td><td valign="top">Redes sociales, página web y correo electrónico.</td><td valign="top">Página web, tienda física, correo electrónico y WhatsApp.</td><td valign="top">Página web y redes sociales.
   </td>
 </tr>
 <tr>
@@ -406,9 +406,9 @@ Recomendar el aplicativo ayuda a darse a conocer por otros usuarios que estén i
 
 ### 2.3.3. User Journey Mapping.
 Sector Artesanos:
-<p align = "center"> <img src="/asssets/images/UserJourningMap1.jpg"></img> </p>
+<p align = "center"> <img src="/asssets/images/UserJourningMap1.png"></img> </p>
 Sector Usuarios:
-<p align = "center"> <img src="/asssets/images/UserJourningMap2.jpg"></img> </p>
+<p align = "center"> <img src="/asssets/images/UserJourningMap2.png"></img> </p>
 
 ### 2.3.4. Empathy Mapping.
 Sector Artesanos:
