@@ -91,7 +91,119 @@ En esta sección registramos y explicamos nuestro avance de trabajo colaborativo
 
 #### 5.2.1.2. Sprint Backlog 1.
 
-Contenido
+El objetivo principal del presente sprint es culminar la implementación del Landing Page de nuestra aplicación. Durante el Sprint 1, nos enfocamos en la implementación inicial de las secciones clave que conforman la estructura básica del Landing Page. Específicamente, hemos trabajado en las secciones de "Hero", "About the App", "Benefits", "About Us", "Contact Us", y "Footer", sentando así las bases para una experiencia de usuario completa y coherente. Esta fase inicial del desarrollo nos ha permitido establecer una sólida infraestructura visual y funcional que respalda los objetivos y valores de nuestra aplicación.
+
+Link del Trello: https://trello.com/invite/b/kmauia0S/ATTIcf86396df6e9b14f5ba095c999d949cf751C76A4/sprint-1
+
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 1</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>User Story</th>
+            <th>Work Item / Task</th>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Estimation (Hours)</th>
+            <th>Assigned To</th>
+            <th>Status</th>
+        </tr>
+        <tr>
+            <td rowspan="3">HU-01</td>
+            <td rowspan="3">Visualización del logo de CreateDev</td>
+            <td>WL-01</td>
+            <td>Implementación de imagen de muestra.</td>
+            <td>Implementar la visualización del logo en la sección "Hero"</td>
+            <td>1</td>
+            <td>Implementación de sección "Hero"</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>WL-02</td>
+            <td>Implementación de textos directorios</td>
+            <td>Implementar textos directorios en la sección "Hero"</td>
+            <td>0.5</td>
+            <td>Implementación de sección "Hero"</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>WL-03</td>
+            <td>Implementos de botones</td>
+            <td>Implementar los botones en la sección "Hero"</td>
+            <td>0.5</td>
+            <td>Implementación de sección "Hero"</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="3">HU-02</td>
+            <td rowspan="3">Implementación de los textos de redirección hacia cada sección del Landing Page</td>
+            <td>WL-04</td>
+            <td>Implementos del texto principal</td>
+            <td>Implementos del texto principal en la sección “About the app"</td>
+            <td>0.5</td>
+            <td>Implementación de sección “About the app"</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>WL-05</td>
+            <td>Implemento de botón</td>
+            <td>Implementar botón en la sección "About the app"</td>
+            <td>0.5</td>
+            <td>Implementación de sección "About the app"</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>WL-06</td>
+            <td>Implementos de la visualización de los productos</td>
+            <td>Implementar la visualización de los productos en la sección “Benefits”</td>
+            <td>0.5</td>
+            <td>Implementación de sección “Benefits"</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="3">HU-03</td>
+            <td rowspan="3">Implementación de la visualización de nuestro equipo</td>
+            <td>WL-07</td>
+            <td>Implementos de la visualización del equipo</td>
+            <td>Implementos de la visualización en la sección "About Us"</td>
+            <td>1</td>
+            <td>Implementación de sección "About Us"</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>WL-08</td>
+            <td>Implementos de textos informativos</td>
+            <td>Implementos de textos informativos en la sección "Contact Us"</td>
+            <td>0.4</td>
+            <td>Implementación de sección "Contact Us"</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>WL-09</td>
+            <td>Implemento de botón</td>
+            <td>Implementar botón en la sección "Contact us"</td>
+            <td>0.5</td>
+            <td>Implementación de sección "Contact us"</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="3">HU-04</td>
+            <td rowspan="3">Implementación de los textos de redirección hacia cada sección del Landing Page</td>
+            <td>WL-10</td>
+            <td>Implementación de textos directorios</td>
+            <td>Implementar textos directorios en la sección "Footer"</td>
+            <td>0.5</td>
+            <td>Implementación de sección "Footer"</td>
+            <td>Done</td>
+        </tr>
+    </tbody>
+</table>
+
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
 
