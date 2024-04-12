@@ -373,7 +373,10 @@ Recuperado de https://www.rcrperu.com/exportacion-de-artesania-se-agrava-por-pan
                   Formato: .mp4 <br>
                   Duración: min</td>
                 <td>Consolida las exposiciones de la TB1</td>
-                <td>Link: Captura: </td>
+                <td>Link: https://shorturl.at/gmBF8
+                Captura: <br>
+                  <img src="/img/expoTb1.png" width="350"></img> </td>
+                </td>
             </tr>
         </tbody>
     </table>
