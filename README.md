@@ -240,8 +240,8 @@
     </tr>
      <tr> 
         <td></td>
-        <td> Estudiante 4 SO</td>
-         <td></td>
+        <td> <b>Carlo Patricio Ramirez Escalante TB1</b> Colaboré con el desarrollo del Domain-Driven Software Architecture, realize diagrama de contexto, de contenedores y de componentes y el Software Configuration Management. </td>
+         <td>Con el desarrollo de los diagramas C4 pudimos ver mejor la arquitectura del sistema, facilitando la toma de decisiones en el desarrollo.</td>
     </tr>
      <tr> 
         <td></td>
@@ -261,12 +261,11 @@
      <tr> 
         <td></td>
         <td> <b>Antonella Frida Gonzáles Gómez TB1</b> Los puntos desarrollados del capítulo 3 fueron necesarios para identificar las necesidades de cada usuario de esa manera realizar el landing page y posteriormente la app web.</td>
-        
          <td></td>
     </tr>
      <tr> 
         <td></td>
-        <td> Estudiante 4 SO</td>
+        <td> <b>Carlo Patricio Ramirez Escalante TB1</b> Los puntos desarrollados fueron necesarios para desarrollar el codigo de manera mas sencilla, los diagramas C4 y el Software Configuration Management fueron necesarios para el desarrollo del software y el informe </td>
          <td></td>
     </tr>
      <tr> 
