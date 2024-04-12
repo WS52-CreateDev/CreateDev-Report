@@ -224,7 +224,15 @@ Link del Trello: https://trello.com/invite/b/kmauia0S/ATTIcf86396df6e9b14f5ba095
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
 
-Contenido
+|Repository|Branch|Commit id|Commit Mesage|Commit Mesage Body|Commited on (Date)|
+| :- | :- | :- | :- | :- | :- |
+|Maki-Landing-page|feature/about-the-app(then develop)|73437e3|feat(about-the-app): updated about the app||09/04/2024|
+|Maki-Landing-page|feature/about-us(then develop)|ebb0281|feat(about-us):created\_about-us||09/04/2024|
+|Maki-Landing-page|feature/benefits(then develop)|328074b|feat(benefits): added benefits|-|09/04/2024|
+|Maki-Landing-page|feature/contact-us(then develop)|ab886b8|feat(contact-us): update contact us|-|09/04/2024|
+|Maki-Landing-page|feature/hero(then develop)|6e7663c|feat(hero): updated hero|-|09/04/2024|
+|Maki-Landing-page|feature/footer(then develop)|4100568|feat(Footer):Add footer|-|09/04/2024|
+
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 
