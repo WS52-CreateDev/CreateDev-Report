@@ -229,8 +229,9 @@
     </tr>
     <tr> 
         <td></td>
-        <td> Estudiante 2 SO</td>
-        <td></td>
+        <td> <b>Jair Andreé, Coraje Bayona TB1</b> Colaboré en la investigación sobre empresas que esten dedicadas al mismo rubro que nuestra solución. Gracias a la información recolectada se pudo lograr hacer un análisis competitivo y verificar las estrategias que debamos usar. 
+        </td>
+        <td>Al investigar sobre nuestros competidores pudimos lograr cambiar las ideas de nuestro negocio, para poder tener una mejor aceptación en el mercado, buscando lograr sobresalir.</td>
     </tr>
      <tr> 
         <td></td>
@@ -254,7 +255,7 @@
     </tr>
       <tr> 
         <td></td>
-        <td> Estudiante 2 SO</td>
+        <td> <b>Jair Andreé, Coraje Bayona TB1</b> Presenté información necesaria para el desarrollo del software, llegando a las UserPersonas y los Journing maps, diagramas necesarios para poder desarrollar la aplicación web y en el informe  </td>
          <td></td>
     </tr>
      <tr> 
