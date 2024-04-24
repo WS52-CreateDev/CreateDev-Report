@@ -2,11 +2,72 @@
 
 ## 5.1. Software Configuration Management. 
 
-La gestión de la configuración de software es fundamental para garantizar un desarrollo de software eficiente y controlado. Incluye la administración de la configuración del entorno de desarrollo, la gestión del código fuente, las guías de estilo y convenciones, así como la configuración del despliegue de software.
+A continuación, se presentará un repositorio central y organizado que servirá como guía para el desarrollo enfocado y consistente de nuestra solución..
 
 ### 5.1.1. Software Development Environment Configuration.
 
-Configuramos un entorno de desarrollo completo para facilitar la creación, compilación y prueba de nuestro software. Este entorno incluye IDEs como Visual Studio Code, junto con las dependencias necesarias para el lenguaje de programación utilizado, como Node.js para JavaScript.
+En esta sección se incluye los links de las aplicaciones, productos de software realizadas durante el ciclo del proyecto en los programas que se utilizaron. 
+Para ello se clasificará en las siguientes secciones:
+<br><br>
+<strong>Requirements Management</strong><br>
+Es el proceso de garantizar que una organización documente verifique y satisfaga las necesidades, expectativas de sus clientes con las partes interesadas internas o externas.<br><br>
+<ul>
+<li><strong>Pivotal Tracker</strong>: Esta herramienta se define como una plataforma en la que se realiza la gestión de user stories, agrupándoles en epics y clasificando su presencia en el programa, por puntaje. Se usó porque permite que cada miembro del equipo comparte la misma vista en tiempo real de lo que está sucediendo con cada proyecto, ya sea aportando con diferentes secciones o corrigiendo el flujo del proyecto. https://www.pivotaltracker.com/n/projects/2603049
+</li>
+</ul>
+
+<strong>Product UX/UI Design</strong>
+
+<ul>
+<li><strong>Uxpressia:</strong> es una herramienta en línea para el mapeo de la trayectoria del cliente que crea mapas de impacto y personas. Sus herramientas nos permitieron establecer las bases del modelado de User Persona, Empathy Map y Journey Map.<br>
+https://uxpressia.com/
+
+</li>
+<li><strong>Figma:</strong> es una pizarra digital colaborativa en línea, que puede ser usada para la investigación, la ideación, la creación de lluvias de ideas, mapas mentales y una variedad de otras actividades colaborativas.<br>https://www.figma.com/design/ 
+</li>
+<li><strong>Structurizr:</strong> es una herramienta de diseño que soporta el modelo C4, para visualizar la arquitectura de software de nuestra solución. <br>https://structurizr.com/  
+</li>
+<li><strong>Lucid Chart:</strong> es una herramienta de diagramación basada en la web, que permite a los usuarios colaborar y trabajar juntos en tiempo real, creando diseños UML, mapas mentales, prototipos de software y muchos otros tipos de diagrama. <br>https://lucid.app/documents#/dashboard 
+</li>
+<li><strong>MIRO:</strong> es una pizarra digital colaborativa en línea, que puede ser usada para la investigación, la ideación, la creación de lluvias de ideas, mapas mentales y una variedad de otras actividades colaborativas. <br>https://miro.com/app/dashboard/ 
+</li>
+</ul>
+<br>
+<strong>Software Development</strong><br>
+Es una estructura aplicada al desarrollo de un producto de software. Se utiliza para el establecimiento de un proceso para el desarrollo de software, cada uno de los cuales describe un enfoque diferente para diferentes actividades que tienen lugar durante el proceso.<br>
+<ul>
+
+<li><strong>Github:</strong> Es un repositorio comunitario cuya función es almacenar los avances de un proyecto elaborado por un grupo de personas. <br>
+https://github.com/TechOps-upc
+</li>
+
+<li>
+<strong>Web Storm:</strong> Es un entorno de JetBrains, empresa desarrolladora de Software, orientado en el desarrollo web en JavaScript. Este nos ofrece facilidad en probar nuestro entorno web en navegadores como Google. Para el proyecto se implementará la ayuda de los lenguajes HTML, CSS , JavaScript y TypeScript.<br>
+https://www.jetbrains.com/webstorm/promo/?source=google&medium=cpc&campaign=9641686239&term=webstorm&gclid=CjwKCAjwv-GUBhAzEiwASUMm4ncU-aP3HPxUWVYTPMthApgSMowOvvfEAoJMFvwf1O_gQdv0HtWOrhoCdacQAvD_BwE
+</li>
+
+<li>
+<strong>Visual Studio Code:</strong> Es un editor potente que brinda extensiones que nos permiten personalizar y agregar funcionalidades para que la función del desarrollador sea más eficiente. Asimismo, se empleará para poder construir el backend de nuestro web Applications.<br>
+https://code.visualstudio.com/ 
+</li>
+
+<li>
+<strong>HTML:</strong> Es un lenguaje que sirve como desarrollador de plataformas web que trabaja con hipertextos, que enlace a otros documentos. Este lenguaje ofrece herramientas para el diseño del sitio web. Asimismo, la disponibilidad de trabajar HTML junto con CSS y JavaScript. Este lenguaje será utilizado en el presente proyecto para implementar la documentación de la página web. <br>https://www.jetbrains.com/help/webstorm/editing-html-files.html 
+</li>
+
+<li>
+<strong>CSS:</strong> Es un lenguaje de diseño para el entorno web. Permite elaborar el interfaz de usuario diseñada anteriormente, agregando colores, tamaños entre otros elementos. Además, se puede diseñar un estilo en CSS y compartirlo en el web elaborado en HTML. Este lenguaje se utilizará para la implementación del diseño de nuestra plataforma web.<br>
+https://www.jetbrains.com/help/webstorm/style-sheets.html#ws_css_completion 
+</li>
+</ul>
+<strong>Software Deployment</strong>
+<ul>
+<li>
+<strong>Github pages:</strong>Servicio de Github que nos permitió alojar nuestra lading page y nos permitirá alojar nuestro web applications.<br>
+https://pages.github.com/<br> 
+https://github.com/ 
+</li>
+</ul>
 
 ### 5.1.2. Source Code Management.
 
