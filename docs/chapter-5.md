@@ -71,7 +71,42 @@ https://github.com/
 
 ### 5.1.2. Source Code Management.
 
-Gestionamos nuestro código fuente utilizando sistemas de control de versiones como Git, alojando nuestro repositorio en plataformas como GitHub o GitLab. Esto nos permite mantener un registro de los cambios realizados en el código, colaborar eficazmente con otros miembros del equipo y revertir a versiones anteriores según sea necesario.
+#### Gestión de Código Fuente con GitFlow
+
+La Gestión de Código Fuente (SCM, por sus siglas en inglés) es un aspecto crucial del desarrollo de proyectos, que realiza un seguimiento de las modificaciones realizadas por el equipo a lo largo de la vida útil del proyecto en repositorios de código fuente. Sirve como un sistema de control de versiones, que permite hacer un seguimiento de los cambios realizados por cada miembro del equipo o desarrollador en el proyecto. Para el control de versiones, utilizaremos GitHub.
+
+- URL de la Organización: [Create-upc](https://github.com/WS52-CreateDev)
+- URL del Repositorio de la Página de Aterrizaje: [Repositorio de la Página de Aterrizaje](https://ws52-createdev.github.io/Maki-Landing-page/)
+
+#### GitFlow
+
+GitFlow es un flujo de trabajo de desarrollo basado en ramas que ha ganado una gran relevancia en los últimos años y es considerado esencial por muchos desarrolladores. Introducido y popularizado por Vincent Driessen, su propósito principal es facilitar la gestión y organización de diferentes versiones de código, permitiendo la creación ordenada de nuevas características y correcciones urgentes.
+
+#### Ramas Principales
+
+- `main`: La rama principal sirve como la rama primaria de la cual derivan todas las demás ramas. Contiene la última versión junto con versiones anteriores creadas por los desarrolladores, sirviendo como el historial oficial de versiones.
+- `develop`: Esta rama puede crearse a partir de la rama `main` y contiene todas las características estables. Permite que el equipo integre características.
+
+#### Ramas de Soporte
+
+A diferencia de las ramas principales, estas ramas tienen una vida útil limitada y se eliminan al fusionarse con sus ramas principales.
+
+- `Feature`:
+  - Ramificada desde: `develop`
+  - Fusionada nuevamente en: `develop`
+  - Se utiliza para desarrollar nuevas características que se integrarán en la próxima versión. Existe solo durante el proceso de desarrollo y se fusiona nuevamente en `develop` al completarse.
+  
+- `Release`:
+  - Ramificada desde: `develop`
+  - Fusionada nuevamente en: `develop` / `main`
+  - Se utiliza para preparar un nuevo lanzamiento de producción. Permite corregir errores menores que ocurrieron durante el desarrollo y preparar metadatos para el lanzamiento. Este proceso permite que `develop` reciba nuevas características para la próxima versión, ya que se genera cuando se acerca una fecha de lanzamiento específica.
+
+#### Principales motivos para usar Gitflow
+
+- Ideal para nuestro proyecto, que se basa en lanzamientos dentro de un sprint específico.
+- Ofrece un enfoque centralizado como Subversion (SVN) y un enfoque descentralizado, permitiendo que el equipo trabaje de forma individual. Esto es beneficioso ya que no todos tienen el mismo horario, pero todos deben mantener actualizaciones en el repositorio central en GitHub.
+
+
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
