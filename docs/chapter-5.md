@@ -500,8 +500,7 @@ Hemos desarrollado un total de 62 commits en el desarrollo del proyecto.
 | Username  | Nombre |
 | ------------- | ------------- |
 | BraulioTN  | Torrejon Navarro, Braulio Rodrigo |
-| alehandraxx | Gonzales Gomez, Antonella  |
-| Carlo211 | Content Cell  |
+| alehandraxx | Diaz Villacrez, Maria Alejandra  |
 | LouisAlfaro | Alfaro Coveñas, Louis Piero |
 | Anthonnela | Gonzales Gomez, Antonella Frida |
 | JairCoraje | Coraje Bayona, Jair Andreé  |
@@ -521,6 +520,23 @@ Hemos desarrollado un total de 62 commits en el desarrollo del proyecto.
 **Anexo: Colaboration Insights en el periodo de 1 mes**
 <p align = "center"> <img src="/img/2.PNG" width="800"></img> </p>
 
+### 5.2.2. Sprint 2
+
+### 5.2.2.1 Sprint Planning 2
+
+### 5.2.2.2 Sprint Backlog 2
+
+### 5.2.2.3 Development Evidence for Sprint Review
+
+### 5.2.2.4 Testing Suite Evidence for Sprint Review
+
+### 5.2.2.5 Execution Evidence for Sprint Review
+
+### 5.2.2.6 Services Documentation Evidence for Sprint Review
+
+### 5.2.2.7 Software Deployment Evidence for Sprint Review
+
+### 5.2.2.8 Team Collaboration Insights during Sprint
 
 ## Avance de Conclusiones, Bibliografía y Anexos.
 
