@@ -350,14 +350,15 @@ El diagrama de contexto de la arquitectura de software muestra el entorno genera
 
 Diagrama realizado en Structurizr:
 
-<p align = "center"> <img src="/assets/img/Diagrama Contextoo.png" width="600"></img> </p>
+![](https://cdn.discordapp.com/attachments/1231761393368174644/1232536926184149053/image.png?ex=6629d0f6&is=66287f76&hm=faacf578f9459a391965c9d6d1aee611e3d89a342ff0763e9eac89a347a99c6f&)
+
 
 ### 4.6.2. Software Architecture Container Diagrams.
 
 El diagrama de contenedores de la arquitectura de software proporciona una visión de alto nivel de los principales componentes de nuestra aplicación y cómo se comunican entre sí. Nuestra aplicación de arte peruano se compone de varios contenedores, incluyendo la aplicación misma, la base de datos que almacena información sobre artesanos, reseñas, pedidos, etc., y otros sistemas de soporte como el sistema de autenticación, el sistema de gestión de usuarios, el sistema de gestión de inventarios, entre otros.
 
 Diagrama realizado en Structurizr:
-
+![](https://cdn.discordapp.com/attachments/1231761393368174644/1232536965413601310/image.png?ex=6629d0ff&is=66287f7f&hm=1ad804379882b34d096f40341eb0e234413a9d3ebb83300c51539ebf4d9011d7& )
 <p align = "center"> <img src="/assets/img/Diagrama Contenedores.png" width="600"></img> </p>
 
 ### 4.6.3. Software Architecture Components Diagrams.
