@@ -205,7 +205,25 @@
     5.2.1.7. [Software Deployment Evidence for Sprint Review](#software-deployment-evidence-sprint-1)
 
     5.2.1.8. [Team Collaboration Insights during Sprint](#team-collaboration-insights-1)
+   
+    5.2.2. [Sprint 2](#sprint-2)
+   
+    5.2.2.1. [Sprint Planning 2](#sprint-planning-2)
 
+    5.2.2.2. [Sprint Backlog 2](#sprint-backlog-2)
+
+    5.2.2.3. [Development Evidence for Sprint Review](#development-evidence-sprint-2)
+
+    5.2.2.4. [Testing Suite Evidence for Sprint Review](#testing-suite-evidence-sprint-2)
+
+    5.2.2.5. [Execution Evidence for Sprint Review](#execution-evidence-sprint-2)
+
+    5.2.2.6. [Services Documentation Evidence for Sprint Review](#services-documentation-evidence-sprint-2)
+
+    5.2.2.7. [Software Deployment Evidence for Sprint Review](#software-deployment-evidence-sprint-2)
+
+    5.2.2.8. [Team Collaboration Insights during Sprint](#team-collaboration-insights-2)
+   
 6. [Conclusiones](#conclusiones)
 7. [Bibliografía](#bibliografía)
 8. [Anexos](#anexos)
@@ -224,7 +242,7 @@
   <tbody>
     <tr>
       <td>Participa en equipos multidiciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</td>
-      <td> <b>Díaz Villacrez, María Alejandra TB1</b> Colaboré en la recolección de requisitos para satisfacer la entrega del trabajo. Recolecté la información necesaria para la elaboración del diseño de base de datos y sus diagramas. Utilicé gráficos y herramientas para representar la información de manera visual y comprensible. </td>
+      <td> <b>Díaz Villacrez, María Alejandra TB1</b> Colaboré en la recolección de requisitos para satisfacer la entrega del trabajo. Recolecté la información necesaria para la elaboración del diseño de base de datos y sus diagramas. Utilicé gráficos y herramientas para representar la información de manera visual y comprensible. <b>TP</b> Colaboré en la elaboración e implementación del front end de nuestra aplicación web. Utilicé buenas prácticas del framework de Vue para su desarrollo. </td>
       <td> Al aplicar una organización correcta pudimos comunicar nuestras ideas de negocio y resultados de manera objetiva y efectiva a una audiencia diversa en el contexto de un proyecto de ingeniería de software.</td>
     </tr>
     <tr> 
@@ -250,7 +268,7 @@
     </tr>
     <tr>
       <td>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</td>
-      <td> <b>Díaz Villacrez, María Alejandra TB1</b> Presenté información necesaria para respaldar las estadísiticas y citas proporcionadas en la primera entrega del trabajo. Definí términos técnicos importantes utilizados en el informe. </td>
+      <td> <b>Díaz Villacrez, María Alejandra TB1</b> Presenté información necesaria para respaldar las estadísiticas y citas proporcionadas en la primera entrega del trabajo. Definí términos técnicos importantes utilizados en el informe. <b>TP</b> Investigué sobre los componentes y las buenas prácticas para su desarrollo en el lenguaje de javascript en Vue. </td>
       <td> </td>
     </tr>
       <tr> 
