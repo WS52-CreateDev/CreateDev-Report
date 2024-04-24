@@ -1,4 +1,4 @@
-<center>
+ <center>
 
 # Universidad Peruana De Ciencas Aplicadas
 ## Aplicaciones Web WS52
@@ -17,7 +17,6 @@
 
  </center> 
 
-* **Carlo Patricio Ramirez Escalante   U202210787**
 * **Maria Alejandra Díaz Villacrez  U202118315**
 * **Antonella Frida Gonzales Gomez   U20211C403**
 * **Braulio Rodrigo Torrejon Navarro   U201711728** 
@@ -44,6 +43,7 @@
 | 1.0     | 2/04/2024 | Braulio Torrejon   | Se completo el capitulo 1 , el punto 4.4 del capitulo 4 y el punto 5.2.1.7 - 5.2.1.8 del capitulo 5              |
 | 1.0     | 2/04/2024 | Jair Coraje        | Se completo el capitulo 2                                                                                        |
 | 1.0     | 2/04/2024 | Louis Alfaro       | Se completo el capitulo 2.2.2 hasta el 2.2.3 como también el 4.7.1                                               |
+| 2.0     | 24/04/2024 | Alejandra Díaz    | Se comenzo las correciones de la TB1 y la redaccion de los capitulos para el TP                                  |
 
 
 
