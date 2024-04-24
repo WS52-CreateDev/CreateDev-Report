@@ -578,7 +578,7 @@ Recuperado de https://www.rcrperu.com/exportacion-de-artesania-se-agrava-por-pan
                   <img src="/img/interviews.png" width="350"></img> </td>
             </tr>
             <tr>
-                <td>Exposicion</td>
+                <td>Exposicion TB1</td>
                 <td>Cantidad de videos: 1 <br>
                   Nomenclatura: upc-pre-202401-si730-ws52-createDev-expo-tb1 <br>
                   Formato: .mp4 <br>
@@ -587,6 +587,18 @@ Recuperado de https://www.rcrperu.com/exportacion-de-artesania-se-agrava-por-pan
                 <td>Link: https://shorturl.at/gmBF8
                 Captura: <br>
                   <img src="/img/expoTb1.png" width="350"></img> </td>
+                </td>
+            </tr>
+                <tr>
+                <td>Exposicion TP</td>
+                <td>Cantidad de videos: 1 <br>
+                  Nomenclatura: upc-pre-202401-si730-ws52-createDev-expo-tp <br>
+                  Formato: .mp4 <br>
+                  Duración: min</td>
+                <td>Consolida las exposiciones del TP</td>
+                <td>Link: 
+                Captura: <br>
+                  <img src="/img/expoTP.png" width="350"></img> </td>
                 </td>
             </tr>
         </tbody>
