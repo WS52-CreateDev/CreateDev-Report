@@ -16,17 +16,18 @@ Identidad de Marca: Reflejar la esencia de la marca en el diseño del producto, 
 
 Branding:
 
-<p align = "center"> <img src="/assets/img/makilogo.svg" width="250"></img> </p>
+![Image](/assets/img/makilogo.svg)
 
 Typography:
 
 Maven Pro es un tipo de letra sans-serif con una curvatura y un ritmo fluido entendible. Sus formas lo hacen muy distinguible y legible en nuestro contenido cuando está en contexto. Combina estilos de muchos tipos de letra excelentes y diversos, y es adecuado para cualquier medio de diseño. El diseño moderno de Maven Pro es excelente para la web y se adapta a cualquier entorno relacional.
 
-<p align = "center"> <img src="/assets/img/typography.png" width="600"></img> </p>
+![Image](/assets/img/typography.png)
+
 
 Color Palette:
 
-<p align = "center"> <img src="/assets/img/Maki palette.png" width="300"></img> </p>
+![Image](/assets/img/Maki palette.png)
 
 ### 4.1.2. Web Style Guidelines.
 
@@ -142,19 +143,29 @@ Para poder escoger el diseño de nuestro Landing Page se tuvieron en cuenta las 
 
 ### 4.3.1. Landing Page Wireframe.
 
-<p align = "center"> <img src="/assets/img/wireframe1.png" width="600"></img> </p>
-<p align = "center"> <img src="/assets/img/wireframe2.png" width="600"></img> </p>
-<p align = "center"> <img src="/assets/img/wireframe3.png" width="600"></img> </p>
-<p align = "center"> <img src="/assets/img/wireframe4.png" width="600"></img> </p>
-<p align = "center"> <img src="/assets/img/wireframe5.png" width="600"></img> </p>
-<p align = "center"> <img src="/assets/img/wireframe6.png" width="600"></img> </p>
+![Image](/assets/img/wireframe1.png)
+
+![Image](/assets/img/wireframe2.png)
+
+![Image](/assets/img/wireframe3.png)
+
+![Image](/assets/img/wireframe4.png)
+
+![Image](/assets/img/wireframe5.png)
+
+![Image](/assets/img/wireframe6.png)
+
 
 ### 4.3.2. Landing Page Mock-up.
 
-<p align = "center"> <img src="/assets/img/mock-up1.png" width="600"></img> </p>
-<p align = "center"> <img src="/assets/img/mock-up2.png" width="600"></img> </p>
-<p align = "center"> <img src="/assets/img/mock-up3.png" width="600"></img> </p>
-<p align = "center"> <img src="/assets/img/mock-up5.png" width="600"></img> </p>
+![Image](/assets/img/mock-up1.png)
+
+![Image](/assets/img/mock-up2.png)
+
+![Image](/assets/img/mock-up3.png)
+
+![Image](/assets/img/mock-up5.png)
+
 
 ## 4.4. Web Applications UX/UI Design.
 
@@ -164,52 +175,68 @@ A continuación, se muestra y explica los Wireframes de nuestra aplicación Web.
 Podemos notar elementos como el space para separar las imágenes y los textos, los shapes para encerrar o enmarcar grupos de texto, íconos y/o Imágenes. Además, la Información que se le solicita al usuario, al momento de crear una cuenta, registrarse o Ingresar a la aplicación, es clara y concisa. 
 
 - Inicio de la Aplicación: Menú principal al momento de abrir la pagina
-<p align = "center"> <img src="/assets/img/inicioweb.jpg" width="500"></img> </p>
+![Image](/assets/img/inicioweb.jpg)
+
 
 - Inicio de Sesión: Un usuario recurrente tendrá acceso a la validación de su cuenta para el ingreso a su cuenta.
-<p align = "center"> <img src="/assets/img/iniciosesion.jpg" width="500"></img> </p>
+![Image](/assets/img/iniciosesion.jpg)
+
 
 - Registro de Cuenta: Si el usuario no esta con una cuenta, en este lugar podra crearlo, donde se tendrá que validar el registro de un nombre de usuario, correo y contraseña.
-<p align = "center"> <img src="/assets/img/registrocuenta.jpg" width="500"></img> </p>
+![Image](/assets/img/registrocuenta.jpg)
+
 
 - Página Principal: Gracias a un previo inicio de sesión o registro, se tendrá acceso a la página principal donde se podrá visualizar los mates burilados y usuarios más destacados por la comunidad.
-<p align = "center"> <img src="/assets/img/paginaprinc.jpg" width="500"></img> </p>
+![Image](/assets/img/paginaprinc.jpg)
+
 
 - Mostrar Producto: En esta sección, se mostrará las características e información del producto seleccionado a visualizar, ademas de mostar al usuario del producto.
-<p align = "center"> <img src="/assets/img/mostrarprod.jpg" width="500"></img> </p>
+![Image](/assets/img/mostrarprod.jpg)
+
 
 - Perfil de Usuario Ajeno: Se podrá visualizar los datos del usuario, productos que el publicó y tener la opción de “Solicitar un Diseño” en base a nuestro gusto personal.
-<p align = "center"> <img src="/assets/img/perfilusu.jpg" width="500"></img> </p>
+![Image](/assets/img/perfilusu.jpg)
+
 
 - Solicitud de Diseño: En esta sección, se podrá subir una imagen referencial de un dibujo o diseño que tengamos en nuestra galería, para de ese modo, complementarlo con un nombre y breve información adicional para solicitar el diseño.
-<p align = "center"> <img src="/assets/img/solicituddis.jpg" width="500"></img> </p>
+![Image](/assets/img/solicituddis.jpg)
+
 
 - Diseño Solicitado: Se mostrará un mensaje positivo que significa que el diseño fue registrado y solicitado al artesano satifactoriamente.
-  <p align = "center"> <img src="/assets/img/disso.jpg" width="500"></img> </p>
+![Image](/assets/img/disso.jpg)
+
 
 - Perfil de Usuario Propio: Se podrá visualizar nuestros datos personales propios, nuestros productos publicados, opción de editar nuestra información y un apartado de posibles mensajes de usuarios que solicitaron un diseño personalizado para nostros.
-<p align = "center"> <img src="/assets/img/perfilusupro.jpg" width="500"></img> </p>
+![Image](/assets/img/perfilusupro.jpg)
+
 
 - Solicitudes de Diseño: En este apartado el artesano/usuario tendrá la opción de aceptar los diseños propuestos, así como también, los datos de dicho usuario que lo solicitó.
-<p align = "center"> <img src="/assets/img/solicituddispro.jpg" width="500"></img> </p>
+![Image](/assets/img/solicituddispro.jpg)
+
 
 - Publicar Producto: En esta sección, se podrá subir un producto nuevo, así como también, sus datos respectivos como el nombre del producto, precio, información del producto y stock.
-<p align = "center"> <img src="/assets/img/publicprod.jpg" width="500"></img> </p>
+![Image](/assets/img/publicprod.jpg)
+
 
 - Producto Publicado: Se mostrará un mensaje satisfactorio de que el producto ha sido publicado con éxito.
-<p align = "center"> <img src="/assets/img/Publicado.jpg" width="500"></img> </p>
+![Image](/assets/img/Publicado.jpg)
+
 
 - Edición de Perfil: El usuario tendrá acceso a múltiples modificaciones de su perfil pero con la obligación de rellenar todos los campos vacíos para generar una distribución de información eficiente ante una compra dentro de la plataforma.
-<p align = "center"> <img src="/assets/img/edicionperfil.jpg" width="500"></img> </p>
+![Image](/assets/img/edicionperfil.jpg)
+
 
 - Mostrar Carrito: En esta sección, se mostrará toda la acumulación de producto que posiblemente el usuario desea comprar. También, le permitirá ajustar la cantidad que llevará, cuál sería el costo total por cada producto, eliminar producto y el costo total del carrito.
-<p align = "center"> <img src="/assets/img/mostcarrito.jpg" width="500"></img> </p>
+![Image](/assets/img/mostcarrito.jpg)
+
 
 - Confirmación de Compra: En esta sección, el usuario podrá visualizar los datos de su cuenta para verificar si todo está en orden. A su vez, se podrá visualizar todos los productos seleccionados para la confirmación de la compra. Por último, se mostraría el monto total.
-<p align = "center"> <img src="/assets/img/ConfCompra.jpg" width="500"></img> </p>
+![Image](/assets/img/ConfCompra.jpg)
+
 
 - Compra Realizada:  En esta sección, se mostrará un mensaje satisfactorio de que la compra se realizó correctamente.
-<p align = "center"> <img src="/assets/img/comprarealizada.jpg" width="500"></img> </p>
+![Image](/assets/img/comprarealizada.jpg)
+
 
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
@@ -220,35 +247,42 @@ En este apartado se muestran y explican los Wireflows de nuestro proyecto. Para 
 - 1. User Goal 1: Iniciar sesión
 Como un artesano, quiero iniciar sesión dentro de la web application.
   2. Task Flow:
-<p align = "center"> <img src="/assets/img/Usergoal1.JPG" width="800"></img> </p>
+  ![Image](/assets/img/Usergoal1.JPG)
+
   3. Wireflow:
-<p align = "center"> <img src="/assets/img/Wireframes1.JPG" width="800"></img> </p>
+  ![Image](/assets/img/Wireframes1.JPG)
+
 
 
 
 - 1. User Goal 2: Visualización de productos
 Como un artesano, quiero visualizar mis productos dentro de la plataforma.
   2. Task Flow:
-<p align = "center"> <img src="/assets/img/Usergoal2.JPG" width="800"></img> </p>
+  ![Image](/assets/img/Usergoal2.JPG)
+
   3. Wireflow:
-<p align = "center"> <img src="/assets/img/Wireframes2.JPG" width="800"></img> </p>
+  ![Image](/assets/img/Wireframes2.JPG)
+
 
 #### User Cliente:
 
 - 1. User Goal 2: Comprar artesania
 Como un cliente quiero comprar artesanías dentro de la plataforma.
   2. Task Flow:
-<p align = "center"> <img src="/assets/img/Usergoal3.JPG" width="800"></img> </p>
+![Image](/assets/img/Usergoal3.JPG)
+
   3. Wireflow:
-<p align = "center"> <img src="/assets/img/Wireframes3.JPG" width="800"></img> </p>
+![Image](/assets/img/Wireframes3.JPG)
 
 
 - 1. User Goal 2: Enviar personalización
 Como un cliente quiero comprar enviar un diseño personalizado.
   2. Task Flow:
-<p align = "center"> <img src="/assets/img/Usergoal4.JPG" width="800"></img> </p>
+  ![Image](/assets/img/Usergoal4.JPG)
+
   3. Wireflow:
-<p align = "center"> <img src="/assets/img/Wireframes4.JPG" width="800"></img> </p>
+  ![Image](/assets/img/Wireframes4.JPG)
+
 
 
 
@@ -257,52 +291,65 @@ Como un cliente quiero comprar enviar un diseño personalizado.
 Los Mockups que se mostrará en esta sección corresponden a como se veria en una web application, en las imagenes, se van a poder observar los elementos anteriormentes mencionados, es decir, la tipografia, imagenes, spacind, paleta de colores y entre otros
 
 - Inicio de la Aplicación: Menú principal al momento de abrir la pagina
-<p align = "center"> <img src="/assets/img/inicioweb2.JPG" width="500"></img> </p>
+![Image](/assets/img/inicioweb2.JPG)
+
 
 - Inicio de Sesión: Un usuario recurrente tendrá acceso a la validación de su cuenta para el ingreso a su cuenta.
-<p align = "center"> <img src="/assets/img/iniciosesion2.JPG" width="500"></img> </p>
+![Image](/assets/img/iniciosesion2.JPG)
+
 
 - Registro de Cuenta: Si el usuario no esta con una cuenta, en este lugar podra crearlo, donde se tendrá que validar el registro de un nombre de usuario, correo y contraseña.
-<p align = "center"> <img src="/assets/img/registrocuenta2.JPG" width="500"></img> </p>
+![Image](/assets/img/registrocuenta2.JPG)
+
 
 - Página Principal: Gracias a un previo inicio de sesión o registro, se tendrá acceso a la página principal donde se podrá visualizar los mates burilados y usuarios más destacados por la comunidad.
-<p align = "center"> <img src="/assets/img/inicioweb2.JPG" width="500"></img> </p>
+![Image](/assets/img/inicioweb2.JPG)
+
 
 - Mostrar Producto: En esta sección, se mostrará las características e información del producto seleccionado a visualizar, ademas de mostar al usuario del producto.
-<p align = "center"> <img src="/assets/img/mostrarprod2.JPG" width="500"></img> </p>
+![Image](/assets/img/mostrarprod2.JPG)
+
 
 - Perfil de Usuario Ajeno: Se podrá visualizar los datos del usuario, productos que el publicó y tener la opción de “Solicitar un Diseño” en base a nuestro gusto personal.
-<p align = "center"> <img src="/assets/img/perfilusu2.JPG" width="500"></img> </p>
+![Image](/assets/img/perfilusu2.JPG)
+
 
 - Solicitud de Diseño: En esta sección, se podrá subir una imagen referencial de un dibujo o diseño que tengamos en nuestra galería, para de ese modo, complementarlo con un nombre y breve información adicional para solicitar el diseño.
-<p align = "center"> <img src="/assets/img/solicituddis2.JPG" width="500"></img> </p>
+![Image](/assets/img/solicituddis2.JPG)
+
 
 - Diseño Solicitado: Se mostrará un mensaje positivo que significa que el diseño fue registrado y solicitado al artesano satifactoriamente.
-  <p align = "center"> <img src="/assets/img/disso2.JPG" width="500"></img> </p>
+![Image](/assets/img/disso2.JPG)
+
 
 - Perfil de Usuario Propio: Se podrá visualizar nuestros datos personales propios, nuestros productos publicados, opción de editar nuestra información y un apartado de posibles mensajes de usuarios que solicitaron un diseño personalizado para nostros.
-<p align = "center"> <img src="/assets/img/perfilusupro2.JPG" width="500"></img> </p>
+![Image](/assets/img/perfilusupro2.JPG)
+
 
 - Solicitudes de Diseño: En este apartado el artesano/usuario tendrá la opción de aceptar los diseños propuestos, así como también, los datos de dicho usuario que lo solicitó.
-<p align = "center"> <img src="/assets/img/solicituddispro2.JPG" width="500"></img> </p>
+![Image](/assets/img/solicituddispro2.JPG)
+
 
 - Publicar Producto: En esta sección, se podrá subir un producto nuevo, así como también, sus datos respectivos como el nombre del producto, precio, información del producto y stock.
-<p align = "center"> <img src="/assets/img/publicprod2.JPG" width="500"></img> </p>
+![Image](/assets/img/publicprod2.JPG)
 
 - Producto Publicado: Se mostrará un mensaje satisfactorio de que el producto ha sido publicado con éxito.
-<p align = "center"> <img src="/assets/img/Publicado2.JPG" width="500"></img> </p>
+![Image](/assets/img/Publicado2.JPG)
+
 
 - Edición de Perfil: El usuario tendrá acceso a múltiples modificaciones de su perfil pero con la obligación de rellenar todos los campos vacíos para generar una distribución de información eficiente ante una compra dentro de la plataforma.
-<p align = "center"> <img src="/assets/img/edicionperfil2.JPG" width="500"></img> </p>
+![Image](/assets/img/edicionperfil2.JPG)
+
 
 - Mostrar Carrito: En esta sección, se mostrará toda la acumulación de producto que posiblemente el usuario desea comprar. También, le permitirá ajustar la cantidad que llevará, cuál sería el costo total por cada producto, eliminar producto y el costo total del carrito.
-<p align = "center"> <img src="/assets/img/mostcarrito2.JPG" width="500"></img> </p>
+![Image](/assets/img/mostcarrito2.JPG)
 
 - Confirmación de Compra: En esta sección, el usuario podrá visualizar los datos de su cuenta para verificar si todo está en orden. A su vez, se podrá visualizar todos los productos seleccionados para la confirmación de la compra. Por último, se mostraría el monto total.
-<p align = "center"> <img src="/assets/img/ConfCompra2.JPG" width="500"></img> </p>
+![Image](/assets/img/ConfCompra2.JPG)
 
 - Compra Realizada:  En esta sección, se mostrará un mensaje satisfactorio de que la compra se realizó correctamente.
-<p align = "center"> <img src="/assets/img/comprarealizada2.JPG" width="500"></img> </p>
+![Image](/assets/img/comprarealizada2.JPG)
+
 
 
 ### 4.4.3. Web Applications User Flow Diagrams.
@@ -312,13 +359,15 @@ En esta sección presentaremos los User Flows para cada User Goal, teniendo en c
 #### User Artesano:
 - User Goal 1:
 iniciar sesión, como un artesano, quiero iniciar sesión dentro de la aplicación
-<p align = "center"> <img src="/assets/img/Wireframes11.jpg" width="1200"></img> </p>
+![Image](/assets/img/Wireframes11.jpg)
+
 
 
 - User Goal 2:
 Visualizar inventario de productos,
 Como un artesano quiero visualizar y añadir mis productos dentro de la aplicación.
-<p align = "center"> <img src="/assets/img/Wireframes12.jpg" width="1200"></img> </p>
+![Image](/assets/img/Wireframes12.jpg)
+
 
 
 
@@ -326,13 +375,15 @@ Como un artesano quiero visualizar y añadir mis productos dentro de la aplicaci
 - User Goal 1:
 Visualizar artesanía,
 Como un cliente quiero visualizar los detalles de las artesanías que hay dentro de la aplicación.
-<p align = "center"> <img src="/assets/img/Wireframes13.jpg" width="1200"></img> </p>
+![Image](/assets/img/Wireframes13.jpg)
+
 
 
 - User Goal 2:
 Comprar artesanía,
 Como un cliente quiero comprar artesanías dentro de la aplicación.
-<p align = "center"> <img src="/assets/img/Wireframes14.jpg" width="1200"></img> </p>
+![Image](/assets/img/Wireframes14.jpg)
+
 
 
 
@@ -359,15 +410,15 @@ El diagrama de contenedores de la arquitectura de software proporciona una visi�
 
 Diagrama realizado en Structurizr:
 ![](https://cdn.discordapp.com/attachments/1231761393368174644/1232536965413601310/image.png?ex=6629d0ff&is=66287f7f&hm=1ad804379882b34d096f40341eb0e234413a9d3ebb83300c51539ebf4d9011d7& )
-<p align = "center"> <img src="/assets/img/Diagrama Contenedores.png" width="600"></img> </p>
+![Image](/assets/img/DiagramaContenedores.png)
+
 
 ### 4.6.3. Software Architecture Components Diagrams.
 
 El diagrama de componentes de la arquitectura de software se centra en los componentes internos de cada contenedor y cómo se relacionan entre sí para cumplir con las funciones específicas de nuestra aplicación. Dentro de la aplicación de arte peruano, los componentes incluyen la interfaz de usuario web, los controladores que gestionan las solicitudes del usuario, los servicios que implementan la lógica de negocio, y los modelos de datos que representan la información almacenada en la base de datos. Además, otros componentes como el gestor de calificaciones, el gestor de pedidos, el servicio de pagos, entre otros, interactúan dentro de sus respectivos contenedores para proporcionar funcionalidades adicionales a nuestra aplicación.
 
 Diagrama realizado en Structurizr:
-
-<p align = "center"> <img src="/assets/img/Diagrama Componentes.png" width="600"></img> </p>
+![Image](/assets/img/DiagramaComponentes.png)
 
 ## 4.7. Software Object-Oriented Design.
 
@@ -381,6 +432,8 @@ En esta sección se presenta el diagrama de clases y el diccionario de nuestro m
     </td>
   </tr>
 <br>
+
+![Image](https://media.discordapp.net/attachments/610911183339388978/1227606141932933161/image.png?ex=66290450&is=66168f50&hm=f361d305ab0234970f091f3a4b676abc723c4b45906dad1d4b9d3d91e57b6ac9&=&format=webp&quality=lossless&width=1015&height=676)
 
 ## 4.7.2. Class Dictionary.
 
@@ -461,5 +514,6 @@ En esta sección el equipo desarolla el diagrama de entidades que estarán prese
 
 Tomando en cuenta los user stories y product backlog previamente realizados, se elaboró el diagrama de base de datos.
 
-<p align = "center"> <img src="/assets/img/Db diagram.png" width="900"></img> </p>
+![Image](/assets/img/Dbdiagram.png)
+
 
