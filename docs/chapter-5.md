@@ -524,6 +524,76 @@ Hemos desarrollado un total de 62 commits en el desarrollo del proyecto.
 
 ### 5.2.2.1 Sprint Planning 2
 
+<table>
+        <thead>
+            <tr>
+                <th>Sprint #</th>
+                <th>Sprint 2</th>
+            </tr>
+        </thead>
+        <tbody>
+                <th><b>Sprint Planning Background</th>
+            <tr>
+                <th>Date</th>
+                <td> 2023-04-21 </td>
+            </tr>
+            <tr>
+                <th>Time</th>
+                <td> 6:30 PM </td>
+            </tr>
+            <tr>
+                <th>Location</th>
+                <td> Reunión virtual en el servidor de Discord del Startup</td>
+            </tr>  
+            <tr>
+                <th>Prepared By</th>
+                <td> Alejandra Díaz, Antonella Gonzales </td>
+            </tr> 
+            <tr>
+                <th>Attendees (to planning meeting)</th>
+                <td> María Alejandra Díaz Villacrez, Antonella Frida Gonzales Gomez, Braulio Rodrigo Torrejon Navarro, Jair Andreé Coraje Bayona, Louis Piero Alfaro Coveñas </td>
+            </tr>
+            <tr>
+                <th>Sprint 2 - 2 Review Summary</th>
+                <td> Se crearon las ramas y repositorio para nuestro frontend. Se dividió el trabajo según bounded contexts y se creó una rama (feature) para luego hacer un merge con develop. </td>
+            </tr>
+            <tr>
+                <th>Sprint 2 - 2 Retrospective Summary</th>
+                <td> En retrospectiva, los miembros del equipo opinamos que hubo una buena comunicación y desarrollo durante el sprint. Se pudo aprender mucho sobre los errores o bugs que pueden ocurrir a la hora de elaborar el frontend. </td>
+            </tr>
+                <th><b>Sprint Goal & User Stories</th>
+            <tr>
+                <th>Sprint 2 Goal</th>
+                <td> Los goals definidos son: Desarrollo de componentes según features incluidas en cada bounded context para nuestra aplicación web.
+                La métrica para medir el cumplimiento de los goals será: (Número de elementos del Sprint Backlog completados)/ (Número todal de elementos del Sprint Backlog planificados) x 100% </td>
+            </tr>
+            <tr>
+                <th>Sprint 2 Velocity</th>
+                <td> Los Story Points que el equipo acepto para este Sprint fueron alrededor de 80 puntos</td>
+            </tr>
+            <tr>
+                <th>Sum of Story Points</th>
+                <td> 
+                    HU-1: 5 puntos </br>
+                    HU-2: 3 puntos </br>
+                    HU-3: 3 puntos </br>
+                    HU-4: 5 puntos </br>
+                    HU-5: 8 puntos </br>
+                    HU-6: 8 puntos </br> 
+                    HU-7: 8 puntos </br> 
+                    HU-8: 8 puntos </br>
+                    HU-9: 5 puntos </br>
+                    HU-10: 5 puntos </br>
+                    HU-11: 8 puntos </br>
+                    HU-12: 3 puntos </br>
+                    HU-13: 5 puntos </br>
+                    HU-14: 5 puntos </br>                                   
+                    Suma total: 80 Story points
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
 ### 5.2.2.2 Sprint Backlog 2
 
 ### 5.2.2.3 Development Evidence for Sprint Review
