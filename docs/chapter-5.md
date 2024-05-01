@@ -719,11 +719,23 @@ No se desarrolló en este sprint, pues en esta sección presentaremos la relaci�
 
 ### 5.2.2.7 Software Deployment Evidence for Sprint Review
 
-Para realizar el despliegue automático de nuestro Front-End, hemos utilizamos la herramienta Vercel, el cual nos permite alojar nuestro código desarrollado y generar una página en base al despliegue del desarrollo. El link de nuestro Front-End es el siguiente: 
+Para realizar el despliegue automático de nuestro Front-End, hemos utilizamos la herramienta Vercel, el cual nos permite alojar nuestro código desarrollado y generar una página en base al despliegue del desarrollo. 
+
+Para poder desarrollar, nos tenemos que logear en la pagina de Vercel y despues seleccionar nuestro repositorio:
+![Imagen](https://cdn.discordapp.com/attachments/784950770000199721/1235375067769339925/image.png?ex=66342430&is=6632d2b0&hm=96612bc0f2b6e8d166c213df9ec0113db5019d04b2372225be16e9f1b3840fc4&)
+
+Después de subir nuestro repositorio, procedemos a deployear el proyecto el cual ejecutara los comandos en su consola:
+
+![Imagen](https://cdn.discordapp.com/attachments/784950770000199721/1235375529767604274/image.png?ex=6634249e&is=6632d31e&hm=db3b23d5f98df87b3f3d0e8fc596cdcc21ab85811884c0b7313b2b618b3c695c&)
+
+Al terminar de desplegar nos mostrara la vista previa de nuestro proyecto:
+
+![Deployment](/img/deployment-evidence.jpg)
+
+El link de nuestro Front-End es el siguiente: 
 
 https://maki-front-end-pi.vercel.app
 
-![Deployment](/img/deployment-evidence.jpg)
 
 ### 5.2.2.8 Team Collaboration Insights during Sprint
 
