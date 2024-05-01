@@ -58,7 +58,7 @@ En este apartado se desarrolla el To-be Scenario Mapping en base al análisis de
 ## 3.3. Impact Mapping.
 **Cliente**
 
-![Imagen](https://cdn.discordapp.com/attachments/754867305468395543/1224100752532836482/clien.jpg?ex=661c43aa&is=6609ceaa&hm=4c1f0360935dde9e35eb82abc5ac8d9e3f1def447a4d6775cbd4865dd13fc035&)
+![Imagen](https://cdn.discordapp.com/attachments/754867305468395543/1224100752532836482/clien.jpg?ex=663355ea&is=6632046a&hm=1f18fc336569d0abe372f8361d2d449d6fee9f19e6ac7e13bdb48bdb46acc4cc&)
 
 
 
