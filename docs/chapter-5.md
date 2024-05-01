@@ -656,6 +656,11 @@ No se desarrolló en este sprint, pues en esta sección presentaremos la relaci�
 
 ### 5.2.2.8 Team Collaboration Insights during Sprint
 
+Colaboracion durante el sprint 2 a nuestro repositorio de front-end en el periodo de 1 mes.
+
+![Pulse](/img\pulse.png)
+![Clones](/img/clones.png)
+
 ## Avance de Conclusiones, Bibliografía y Anexos.
 
 ### **Conclusiones**
