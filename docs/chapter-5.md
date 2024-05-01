@@ -609,6 +609,18 @@ Hemos desarrollado un total de 62 commits en el desarrollo del proyecto.
 
 ### 5.2.2.3 Development Evidence for Sprint Review
 
+|Repository|Branch|Commit id|Commit Mesage|Commit Mesage Body|Commited on (Date)|
+| :- | :- | :- | :- | :- | :- |
+|maki-front-end|feature/login-general(then develop)|2f13abc|feat(login-general):added login general|-|23/04/2024|
+|maki-front-end|feature/list-products(then develop)|77beb52|feat(list-products): added list-products component|-|24/04/2024|
+|maki-front-end|feature/the-about-product(then develop)|fe68e5c|feat(the-about-product): added the about product component|-|24/04/2024|
+|maki-front-end|feature/post-product(then develop)|75e733a|feat(post-product): added post product component|-|24/04/2024|
+|maki-front-end|feature/custom-design(then develop)|84746fd|feat(custom-design): added custom design component|-|26/04/2024|
+|maki-front-end|feature/login-customer(then develop)|a9ab479|feat(login-customer):added complete login customer|-|28/04/2024|
+|maki-front-end|feature/login-artisan(then develop)|2caf9ae|feat(login-artisan):added complete login artisan|-|28/04/2024|
+|maki-front-end|feature/register-customer(then develop)|daf473d|feat(register-customer):added complete register customer|-|28/04/2024|
+|maki-front-end|feature/register-artisan(then develop)|28985b0|feat(register-artisan):added complete register artisan|-|28/04/2024|
+
 ### 5.2.2.4 Testing Suite Evidence for Sprint Review
 Para la entrega del Sprint 2, se tuvo pensado alcanzar el desarrollo completo del despliegue del FrontEnd. En esta sección presentamos la implementación del FrontEnd.
 
