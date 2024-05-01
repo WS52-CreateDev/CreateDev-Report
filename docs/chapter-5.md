@@ -707,6 +707,8 @@ No se desarrolló en este sprint, pues en esta sección presentaremos la relaci�
 
 ### 5.2.2.7 Software Deployment Evidence for Sprint Review
 
+Para realizar el despliegue automático de nuestro Front-End, hemos utilizamos la herramienta Google Firebase, el cual nos permite alojar nuestro código desarrollado y generar una página en base al despliegue del desarrollo. El link de nuestro Front-End es el siguiente: 
+
 ### 5.2.2.8 Team Collaboration Insights during Sprint
 
 Colaboracion durante el sprint 2 a nuestro repositorio de front-end en el periodo de 1 mes.
