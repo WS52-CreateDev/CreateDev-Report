@@ -505,20 +505,21 @@ Hemos desarrollado un total de 62 commits en el desarrollo del proyecto.
 | Anthonnela | Gonzales Gomez, Antonella Frida |
 | JairCoraje | Coraje Bayona, Jair Andreé  |
 
-<p align = "center"> <img src="/img/landingpage.PNG" width="800"></img> </p>
+![Network Graph](/img/landingpage.PNG)
+
 
 **Anexo: tablas de commits en el periodo de 1 mes**
-<p align = "center"> <img src="/img/3.PNG" width="800"></img> </p>
-
+![Commits](/img/3.PNG)
 
 
 **Anexo: Flujo de trabajo en el periodo de 1 mes**
-<p align = "center"> <img src="/img/1.PNG" width="800"></img> </p>
 
+![Workflow](/img/1.PNG)
 
 
 **Anexo: Colaboration Insights en el periodo de 1 mes**
-<p align = "center"> <img src="/img/2.PNG" width="800"></img> </p>
+![Collab Insights](/img/2.PNG)
+
 
 ### 5.2.2. Sprint 2
 
@@ -643,9 +644,10 @@ Recuperado de https://www.rcrperu.com/exportacion-de-artesania-se-agrava-por-pan
                   Formato: .mp4 <br>
                   Duración: 39:40 min </td>
                 <td>Consolida todas las entrevistas realizadas</td>
-                <td>Link: https://shorturl.at/awz05
-                  Captura: <br>
-                  <img src="/img/interviews.png" width="350"></img> </td>
+                <td>Link: https://shorturl.at/awz05 
+                  Captura: <br> ![Screenshot](/img/interviews.png)
+                    <img src="/img/interviews.png" width="350"></img> </td>
+                </td>
             </tr>
             <tr>
                 <td>Exposicion TB1</td>
@@ -655,7 +657,7 @@ Recuperado de https://www.rcrperu.com/exportacion-de-artesania-se-agrava-por-pan
                   Duración: min</td>
                 <td>Consolida las exposiciones de la TB1</td>
                 <td>Link: https://shorturl.at/gmBF8
-                Captura: <br>
+                Captura: <br> ![Screenshot](/img/expoTb1.png)
                   <img src="/img/expoTb1.png" width="350"></img> </td>
                 </td>
             </tr>
@@ -667,7 +669,7 @@ Recuperado de https://www.rcrperu.com/exportacion-de-artesania-se-agrava-por-pan
                   Duración: min</td>
                 <td>Consolida las exposiciones del TP</td>
                 <td>Link: 
-                Captura: <br>
+                Captura: <br> ![Screenshot](/img/expoTP.png)
                   <img src="/img/expoTP.png" width="350"></img> </td>
                 </td>
             </tr>
