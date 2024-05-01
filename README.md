@@ -44,6 +44,7 @@
 | 1.0     | 2/04/2024 | Jair Coraje        | Se completo el capitulo 2                                                                                        |
 | 1.0     | 2/04/2024 | Louis Alfaro       | Se completo el capitulo 2.2.2 hasta el 2.2.3 como también el 4.7.1                                               |
 | 2.0     | 24/04/2024 | Alejandra Díaz    | Se comenzo las correciones de la TB1 y la redaccion de los capitulos para el TP                                  |
+| 2.0     | 1/05/2024 | Antonella Gonzales | Se realizo una parte del capitulo 5 y la aplicacion web                                    |
 
 
 
@@ -253,8 +254,10 @@
     </tr>
      <tr> 
         <td></td>
-        <td> <b>Antonella Frida Gonzáles Gómez TB1</b> Colaboré con el desarrollo de los historias de usuario, productu backlog, As is scenario mapping,to be scenario mapping y el landing page.</td>
+        <td> <b>Antonella Frida Gonzáles Gómez TB1 y TP </b> Colaboré con el desarrollo de los historias de usuario, productu backlog, As is scenario mapping,to be scenario mapping y el landing page, TP Se realizo una parte de la aplicacion web, inicion y registro de usuarios.</td>
         <td>Con el desarrollo de los historias de usuario pudimos identificar los requisitos funcionales y no funcionales</td>
+   
+      
     </tr>
      <tr> 
         <td></td>
@@ -278,7 +281,7 @@
     </tr>
      <tr> 
         <td></td>
-        <td> <b>Antonella Frida Gonzáles Gómez TB1</b> Los puntos desarrollados del capítulo 3 fueron necesarios para identificar las necesidades de cada usuario de esa manera realizar el landing page y posteriormente la app web.</td>
+        <td> <b>Antonella Frida Gonzáles Gómez TB1 y TP</b> Los puntos desarrollados del capítulo 3 fueron necesarios para identificar las necesidades de cada usuario de esa manera realizar el landing page y posteriormente la app web, TP Se realizo una parte de la aplicacion web, inicion y registro de usuarios.</td>
          <td></td>
     </tr>
      <tr> 
