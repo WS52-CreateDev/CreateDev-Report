@@ -595,10 +595,63 @@ Hemos desarrollado un total de 62 commits en el desarrollo del proyecto.
     </table>
 
 ### 5.2.2.2 Sprint Backlog 2
+|**Sprint #**|**Sprint 2**|||||||
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|**User Story**|**Work Item / Task**|||||||
+|Id|Title|Id|Title|Description|Estimation (Hours)|Assigned To|Status|
+|HU-01|Login y registro (ambos segmentos)|WL-01|Login y registro |Implementar el componente Login y registro de ambos segmentos|3|Antonella|Done|
+|HU-02|Perfil de usuario y editar perfil (ambos segmentos)|WL-02|Perfil de usuario y editar perfil |Implementar el componente Perfil de usuario y editar perfil|3\.5|Jair|Done|
+|HU-03|Diseños solicitados y solicitar diseño|WL-03|Diseños solicitados y solicitar diseño|Implementar el componente diseños solicitados y solicitar diseño para su respectivo segmento|4|Braulio|Done|
+|HU-04|Subir producto, mostrar todos los productos y detalle de producto|WL-04|Subir producto, mostrar todos los productos y detalle de producto|Implementos el componente subir, mostrarlo y su detalle del producto|4|Alejandra|Done|
+|HU-05|Carrito y detalle del carrito|WL-05|Carrito y detalle del carrito|Implementar botón carrito para agregar y eliminar dando su precio final en la sección productos|3\.5|Louis|Done|
+|HU-06|Agregar mock-up de registro|WL-06|Mock-up de registro|Implementar  mock-up de registro|3|Braulio|Done|
 
 ### 5.2.2.3 Development Evidence for Sprint Review
 
 ### 5.2.2.4 Testing Suite Evidence for Sprint Review
+Para la entrega del Sprint 2, se tuvo pensado alcanzar el desarrollo completo del despliegue del FrontEnd. En esta sección presentamos la implementación del FrontEnd.
+
+
+
+|Repository|Branch	Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+| :- | :- | :- | :- | :- |
+|Maki-FrontEnd|14542d034e7c1e51bd42c52e14b06cd9b8532a14|Initial commit|Initial commit|23/04/24|
+|Maki-FrontEnd|9077b954d010d1a23b2ae67ce2e04ea8237a79f5|feat(develop): initial proyect|feat(develop): initial proyect|23/04/24|
+|Maki-FrontEnd|2f13abc034c5b057072102c45201e23350c7dc86|feat(login-general):added login general|feat(login-general):added login general|23/04/24|
+|Maki-FrontEnd|8c07b9bf5766771ef11c0d3d15fec709e1e71b9a|fix(develop): fixed develop template|added locales and assets folders, fixed main.js|24/04/24|
+|Maki-FrontEnd|77beb52fe27a71fd21fb616c169161795ccbead4|feat(list-products): added list-products component|feat(list-products): added list-products component|24/04/24|
+|Maki-FrontEnd|fe68e5c9b8113452ab864ac9ee4d636e65ce39e2|feat(the-about-product): added the about product component|feat(the-about-product): added the about product component|24/04/24|
+|Maki-FrontEnd|c1f3c222d70b46355f74d63b050dbf9e109c45d2|fix(list-products): fixed the-toolbar component|fix(list-products): fixed the-toolbar component|24/04/24|
+|Maki-FrontEnd|75e733abde17f4b0ad2fe987589cbb149f633e62|feat(post-product): added post product component|feat(post-product): added post product component|24/04/24|
+|Maki-FrontEnd|ad2b2e5ac7b83732f67f18ea250c1fe919096b8b|feat(post-product): added post product component|feat(post-product): added post product component|24/04/24|
+|Maki-FrontEnd|ad2b2e5ac7b83732f67f18ea250c1fe919096b8b|Merge branch 'develop' of https://github.com/WS52-CreateDev/maki-front-end into feature/login-general|Merge branch 'develop' of https://github.com/WS52-CreateDev/maki-front-end into feature/login-general|24/04/24|
+|Maki-FrontEnd|bafddad01123529a0ef201a28172a83c833d6897|Merge branch 'feature/list-products' of https://github.com/WS52-CreateDev/maki-front-end into feature/login-general|Merge branch 'feature/list-products' of https://github.com/WS52-CreateDev/maki-front-end into feature/login-general|24/04/24|
+|Maki-FrontEnd|14d3edb6a18c577538fa4e70df9b473e90704970|Merge branch 'feature/list-products' of https://github.com/WS52-CreateDev/maki-front-end into feature/login-general|Merge branch 'feature/list-products' of https://github.com/WS52-CreateDev/maki-front-end into feature/login-general|24/04/24|
+|Maki-FrontEnd|10da84d22c5db6ed8b0281c8804540f916865d55|Merge branch 'feature/the-about-product' of https://github.com/WS52-CreateDev/maki-front-end into feature/login-general|Merge branch 'feature/the-about-product' of https://github.com/WS52-CreateDev/maki-front-end into feature/login-general|24/04/24|
+|Maki-FrontEnd|947274a5471975f4bd5e94a9943cf95825bfb046|<p>Merge pull request #1 from WS52-CreateDev/feature/hero</p><p></p>|<p>Merge pull request #1 from WS52-CreateDev/feature/hero</p><p></p><p></p>|24/04/24|
+|Maki-FrontEnd|84746fde9513264798923bc7f91c6f6f5a2e15a8|Feature(Custom design)|Feature(Custom design)|26/04/24|
+|Maki-FrontEnd|66564656961da4dbebeb8caf59548faf3afc8e28|feat(login-general):added complete login|feat(login-general):added complete login|28/04/24|
+|Maki-FrontEnd|a9ab4799c7679ed7dd3a29b938ae1173a96e87f6|feat(login-customer):added complete login customer|feat(login-customer):added complete login customer|28/04/24|
+|Maki-FrontEnd|2caf9aed60d46bb44df9b4f89755dd4442df7ddd|feat(login-artisan):added complete login artisan |<p>feat(login-artisan):added complete login artisan </p><p></p><p></p>|28/04/24|
+|Maki-FrontEnd|daf473d86f407e5a58d6de6ad0b19fc208479525|feat(register-customer):added complete register customer|feat(register-customer):added complete register customer|28/04/24|
+|Maki-FrontEnd|28985b045b7689e47ddbfa3cc7f6a1f8faaf20cf|feat(register-artisan):added complete register artisan|feat(register-artisan):added complete register artisan|28/04/24|
+|Maki-FrontEnd|08150bc0392338cd2a0e82edded7423606c1894f|Merge pull request #1 from WS52-CreateDev/feature/login-general |Merge pull request #1 from WS52-CreateDev/feature/login-general|28/04/24|
+|Maki-FrontEnd|2e45e26dc65dc3cd7a3fb4c5eb473bba72a73621|Merge pull request #2 from WS52-CreateDev/feature/login-customer |<p>Merge pull request #2 from WS52-CreateDev/feature/login-customer </p><p></p>|28/04/24|
+|Maki-FrontEnd|7bd9985970d5560460106ce0e275b2531765f2cf|Merge pull request #3 from WS52-CreateDev/feature/login-artisan|Merge pull request #3 from WS52-CreateDev/feature/login-artisan|28/04/24|
+|Maki-FrontEnd|2fbe140f18b1e06a775adaccafab92a2477c3551|Merge pull request #4 from WS52-CreateDev/feature/register-artisan|Merge pull request #4 from WS52-CreateDev/feature/register-artisan|28/04/24|
+|Maki-FrontEnd|3097ecb40b2a55a7d1f1a8308f5e2030a6bb9aec|Merge branch 'develop' into feature/custom-design|Merge branch 'develop' into feature/custom-design|28/04/24|
+|Maki-FrontEnd|b895e4d1346db8bd6b46badaac570691fbf17c0d|Merge pull request #5 from WS52-CreateDev/feature/custom-design|Merge pull request #5 from WS52-CreateDev/feature/custom-design|28/04/24|
+|Maki-FrontEnd|e435286b29f6d60b61a33000fe2664ddb62ff537|fix(develop): fixed product components|f ix(develop): fixed product components|29/04/24|
+|Maki-FrontEnd|cd385123767411afa24f1f67590b53af4db45588|feat(develop):added complete internationalization in log in|feat(develop):added complete internationalization in log in|29/04/24|
+|Maki-FrontEnd|ae1c7e0424c1de177a51299420a595c70d887439|feat(develop): add profile components, update login components |feat(develop): add profile components, update login components |30/04/24|
+|Maki-FrontEnd|e4c9780e3f8cf2501dd77a86c68bcd518cf6e292|Feature(Fixed custom-design)|Feature(Fixed custom-design) |30/04/24|
+|Maki-FrontEnd|7daef8be3180de9afa01332e4c42cafadeb54c8f|feature(added design and fixed things, also implement the i)18n.js|feature(added design and fixed things, also implement the i)18n.js|30/04/24|
+|Maki-FrontEnd|a1065a3debc8c552c403b9cb1bb1fca69f6ca369|Add feature(shoppingcart component)|Add feature(shoppingcart component)|30/04/24|
+|Maki-FrontEnd|cbe9720ede621e33a36f0b3092559a342814691b|feat(develop): add sessionStorage|feat(develop): add sessionStorage|1/05/24|
+|Maki-FrontEnd|05a1c388b93542bb87420f19085ccd745dbbf8bf|feat(develop): add session storage in products components|feat(develop): add session storage in products components|1/05/24|
+|Maki-FrontEnd|990874ef3fc2dd00efd09710fe831ee519928191|feat(develop): update view-profile-artisan component|feat(develop): update view-profile-artisan component|1/05/24|
+|Maki-FrontEnd|515f04246147bbcc15aae9050af30d24e6437c4d|fix(develop): fixed list-products feature|fix(develop): fixed list-products feature|1/05/24|
+|Maki-FrontEnd|c3ad7c34b142755d1ff2642770986d4602daa045|feature(routerlink to buttons)|feature(routerlink to buttons)|1/05/24|
 
 ### 5.2.2.5 Execution Evidence for Sprint Review
 
