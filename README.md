@@ -50,7 +50,7 @@
 
 ### Project Report Collaboration Insights
 
-![CollabInsights](/assets\img\collabs.png)
+![CollabInsights](/assets/img/collabs.png)
 
 <br>
 
