@@ -719,17 +719,11 @@ No se desarrolló en este sprint, pues en esta sección presentaremos la relaci�
 
 ### 5.2.2.7 Software Deployment Evidence for Sprint Review
 
-<<<<<<< HEAD
 Para realizar el despliegue automático de nuestro Front-End, hemos utilizamos la herramienta Vercel, el cual nos permite alojar nuestro código desarrollado y generar una página en base al despliegue del desarrollo. El link de nuestro Front-End es el siguiente: 
 
-https://maki-front-end-pi.vercel.app/ 
+https://maki-front-end-pi.vercel.app
 
-![Deployment](/img\deployment-evidence.jpg)
-=======
-Para realizar el despliegue automático de nuestro Front-End, hemos utilizamos la herramienta Vercel, el cual nos permite alojar nuestro código desarrollado y generar una página en base al despliegue del desarrollo. El link de nuestro Front-End es el siguiente: https://maki-front-end-pi.vercel.app
-
-
->>>>>>> 4f89d402f1f5a03a212e7200e1e2189585040840
+![Deployment](/img/deployment-evidence.jpg)
 
 ### 5.2.2.8 Team Collaboration Insights during Sprint
 
@@ -737,7 +731,7 @@ Durante el segundo Sprint, empleamos Visual Studio Code junto con Git para gesti
 
 Colaboracion durante el sprint 2 a nuestro repositorio de front-end en el periodo de 1 mes.
 
-![Pulse](/img\pulse.png)
+![Pulse](/img/pulse.png)
 ![Clones](/img/clones.png)
 
 ## Avance de Conclusiones, Bibliografía y Anexos.
