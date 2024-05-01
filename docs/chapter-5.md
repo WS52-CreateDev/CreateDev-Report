@@ -711,6 +711,8 @@ Para realizar el despliegue automático de nuestro Front-End, hemos utilizamos l
 
 ### 5.2.2.8 Team Collaboration Insights during Sprint
 
+Durante el segundo Sprint, empleamos Visual Studio Code junto con Git para gestionar los commits. Inicialmente, un miembro del equipo realizó el primer commit para crear el repositorio. Posteriormente, clonamos el repositorio con Git y realizamos los cambios necesarios en Visual Studio Code. Creamos branches para estos cambios y finalizamos con los commits correspondientes. Todos los commits fueron revisados en el repositorio de GitHub y los pull request solicitados fueron aprobados por el líder del grupo.
+
 Colaboracion durante el sprint 2 a nuestro repositorio de front-end en el periodo de 1 mes.
 
 ![Pulse](/img\pulse.png)
