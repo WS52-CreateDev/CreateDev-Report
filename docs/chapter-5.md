@@ -719,7 +719,11 @@ No se desarrolló en este sprint, pues en esta sección presentaremos la relaci�
 
 ### 5.2.2.7 Software Deployment Evidence for Sprint Review
 
-Para realizar el despliegue automático de nuestro Front-End, hemos utilizamos la herramienta Google Firebase, el cual nos permite alojar nuestro código desarrollado y generar una página en base al despliegue del desarrollo. El link de nuestro Front-End es el siguiente: 
+Para realizar el despliegue automático de nuestro Front-End, hemos utilizamos la herramienta Vercel, el cual nos permite alojar nuestro código desarrollado y generar una página en base al despliegue del desarrollo. El link de nuestro Front-End es el siguiente: 
+
+https://maki-front-end-pi.vercel.app/ 
+
+![Deployment](/img\deployment-evidence.jpg)
 
 ### 5.2.2.8 Team Collaboration Insights during Sprint
 
@@ -789,7 +793,7 @@ Recuperado de https://www.rcrperu.com/exportacion-de-artesania-se-agrava-por-pan
                   Formato: .mp4 <br>
                   Duración: min</td>
                 <td>Consolida las exposiciones del TP</td>
-                <td>Link: 
+                <td>Link: https://shorturl.at/qsAGV
                 Captura: <br> ![Screenshot](/img/expoTP.png)
                   <img src="/img/expoTP.png" width="350"></img> </td>
                 </td>
