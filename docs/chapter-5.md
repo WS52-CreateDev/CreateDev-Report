@@ -603,7 +603,54 @@ Hemos desarrollado un total de 62 commits en el desarrollo del proyecto.
 
 ### 5.2.2.5 Execution Evidence for Sprint Review
 
+#### Login general, donde el usuario puede elegir como iniciar sesion
+
+![Imagen](https://cdn.discordapp.com/attachments/1231761393368174644/1235275661766033500/image.png?ex=6633c79c&is=6632761c&hm=1ddb8f78ad979cf10443dfb0fd9c525e83b60a8a7cc344c793756f90f4a30b10& )
+
+#### Login Cliente
+
+![Imagen]( https://cdn.discordapp.com/attachments/1231761393368174644/1235278628481400852/image.png?ex=6633ca5f&is=663278df&hm=0b122a686116eef38d23a4592717d80e97868a519349c3b7d2d9441b34089c6b&)
+
+#### Login Artesano
+
+![Imagen]( https://cdn.discordapp.com/attachments/1231761393368174644/1235278689005207633/image.png?ex=6633ca6d&is=663278ed&hm=1d487e89fea63b3279d2ec7ae46de40474d62aa6de3951d0299c4467a2335db2&)
+
+#### Registrarse como Cliente
+
+![Imagen]( https://cdn.discordapp.com/attachments/1231761393368174644/1235278955137863690/image.png?ex=6633caad&is=6632792d&hm=cd1f4f0b1ae80c8a6ed1f9651f3735be71ce0e1724911edfda9fec933d4f56b6&)
+
+
+#### Registrarse como artesano
+
+![Imagen](https://cdn.discordapp.com/attachments/1231761393368174644/1235278738489479178/image.png?ex=6633ca79&is=663278f9&hm=07c0233795fbd0bf30ff0a2f1a0b653fea7b9296b341a75be3f5509260f65eab& )
+
+
+#### Pantalla principal del Cliente, donde puede viasualisar los productos 
+
+![Imagen]( https://cdn.discordapp.com/attachments/1231761393368174644/1235279219211239555/image.png?ex=6633caec&is=6632796c&hm=710707ebcb2998b76d0032ea64dc3f655d81886fc25a8146650791493fd88033&)
+
+#### Detalles de los productos
+
+![Imagen]( https://cdn.discordapp.com/attachments/1231761393368174644/1235279432759902239/image.png?ex=6633cb1f&is=6632799f&hm=ed40fbfdb5dd404dc0b4b222c9b28bff03ebd03e0e4921f8f2a03474d2205f2c&)
+
+#### Agregar productos al carrito
+
+![Imagen](https://cdn.discordapp.com/attachments/1231761393368174644/1235279887154286612/image.png?ex=6633cb8b&is=66327a0b&hm=78ea29b1fa332caed763514fcdc71c199150ea1f4cdbc4a20b41098042ae835f& )
+
+#### Ver los Artesanos
+
+![Imagen](https://cdn.discordapp.com/attachments/1231761393368174644/1235280338683564115/image.png?ex=6633cbf7&is=66327a77&hm=08a861ad35196a4fff90e1472a4eff7b5f16d9b3e7cd6803508354daecf6514b& )
+
+#### Visualizar perfil del usuario
+
+![Imagen](https://cdn.discordapp.com/attachments/1231761393368174644/1235279541975388230/image.png?ex=6633cb39&is=663279b9&hm=c163b5b48a85f353d2c43800e93cbc4f1122566a9eb67b9285e794740abcaf3d& )
+
+#### Editar perfil del usuario
+
+![Imagen](https://cdn.discordapp.com/attachments/1231761393368174644/1235279597050790019/image.png?ex=6633cb46&is=663279c6&hm=d576006e5cef833c1c425c4563bb3a43dc6291a2c3d4af8fde66eb5b43f1aa92& )
 ### 5.2.2.6 Services Documentation Evidence for Sprint Review
+
+No se desarrolló en este sprint, pues en esta sección presentaremos la relación de Endpoints documentados con OpenAPI, relacionados con el alcance del Sprint y con web services.
 
 ### 5.2.2.7 Software Deployment Evidence for Sprint Review
 
