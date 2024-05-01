@@ -722,6 +722,7 @@ No se desarrolló en este sprint, pues en esta sección presentaremos la relaci�
 Para realizar el despliegue automático de nuestro Front-End, hemos utilizamos la herramienta Vercel, el cual nos permite alojar nuestro código desarrollado y generar una página en base al despliegue del desarrollo. 
 
 Para poder desarrollar, nos tenemos que logear en la pagina de Vercel y despues seleccionar nuestro repositorio:
+
 ![Imagen](https://cdn.discordapp.com/attachments/784950770000199721/1235375067769339925/image.png?ex=66342430&is=6632d2b0&hm=96612bc0f2b6e8d166c213df9ec0113db5019d04b2372225be16e9f1b3840fc4&)
 
 Después de subir nuestro repositorio, procedemos a deployear el proyecto el cual ejecutara los comandos en su consola:
