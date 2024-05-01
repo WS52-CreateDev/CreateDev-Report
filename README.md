@@ -268,6 +268,13 @@
         <td> **Braulio Rodrigo Torrejon Navarro** Colaboré con el desarrollo del capitulo 1, hacer en figma los Mock-ups y Wiframe del web application segun lo investigado. SO</td>
          <td>Con el desarrollo del mockup de la web application, se pudo ver como es que funcionaria nuestra aplicación junto a lo que los usuarios querian.</td>
     </tr>
+<tr> 
+        <td></td>
+        <td> <b>Louis Alfaro TB1</b> Colaboré en la investigación sobre Artesanos en el Perú.
+<b>Louis Piero Alfaro Coveñas TP</b> Colabore con la creación de componente Agregar Carrito que permite agregar o eliminar al carrito dando el precio final de todos los productos.
+</td>
+        <td>Con las entrevistas nos sirvieron de feedback para lograr encontrar puntos a mejorar.</td>
+    </tr>
     <tr>
       <td>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</td>
       <td> <b>Díaz Villacrez, María Alejandra TB1</b> Presenté información necesaria para respaldar las estadísiticas y citas proporcionadas en la primera entrega del trabajo. Definí términos técnicos importantes utilizados en el informe.<br>
@@ -293,6 +300,14 @@
         <td></td>
         <td> <b>Braulio Torrejon Navarro TB1</b> Los puntos que desarrollé fueron necesario para poder tener un esqueleto con el Wireframe de como se veria, los wireflow diagram para entender como se usaria para finalizar con el Mock-up y tenerlo listo para cuando se quiera programar. </td>
          <td></td>
+    </tr>
+<tr> 
+        <td></td>
+        <td> <b>Louis Piero Alfaro Coveñas TB1</b> El diagrama de clase fueron necesario para poder brindar el cuerpo del software y como se relacionan para cada segmento visto.
+
+<b>Louis Piero Alfaro Coveñas TP</b> El Sprint 2 product backlog nos ayudo a organizarnos mejor para la entrega de cada componentes y el Testing Evidence fue para ver la organización de los commits hechos por el equipo</td>
+         <td></td>
+
     </tr>
   </tbody>
 </table>
