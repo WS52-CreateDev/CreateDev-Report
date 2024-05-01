@@ -410,7 +410,7 @@ El diagrama de contenedores de la arquitectura de software proporciona una visi√
 
 Diagrama realizado en Structurizr:
 ![](https://cdn.discordapp.com/attachments/1231761393368174644/1232536965413601310/image.png?ex=6629d0ff&is=66287f7f&hm=1ad804379882b34d096f40341eb0e234413a9d3ebb83300c51539ebf4d9011d7& )
-![Image](/assets/img/DiagramaContenedores.png)
+
 
 
 ### 4.6.3. Software Architecture Components Diagrams.
