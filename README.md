@@ -231,7 +231,6 @@
 <br>
 
 ## Student Outcome
-
 <table>
   <thead>
     <tr>
@@ -256,8 +255,6 @@
         <td></td>
         <td> <b>Antonella Frida Gonzáles Gómez TB1 y TP </b> Colaboré con el desarrollo de los historias de usuario, productu backlog, As is scenario mapping,to be scenario mapping y el landing page, TP Se realizo una parte de la aplicacion web, inicion y registro de usuarios.</td>
         <td>Con el desarrollo de los historias de usuario pudimos identificar los requisitos funcionales y no funcionales</td>
-   
-      
     </tr>
      <tr> 
         <td></td>
