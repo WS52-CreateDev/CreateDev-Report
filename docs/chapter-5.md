@@ -719,11 +719,24 @@ No se desarrolló en este sprint, pues en esta sección presentaremos la relaci�
 
 ### 5.2.2.7 Software Deployment Evidence for Sprint Review
 
-Para realizar el despliegue automático de nuestro Front-End, hemos utilizamos la herramienta Vercel, el cual nos permite alojar nuestro código desarrollado y generar una página en base al despliegue del desarrollo. El link de nuestro Front-End es el siguiente: 
+Para realizar el despliegue automático de nuestro Front-End, hemos utilizamos la herramienta Vercel, el cual nos permite alojar nuestro código desarrollado y generar una página en base al despliegue del desarrollo. 
+
+Para poder desarrollar, nos tenemos que logear en la pagina de Vercel y despues seleccionar nuestro repositorio:
+
+![Imagen](https://cdn.discordapp.com/attachments/784950770000199721/1235375067769339925/image.png?ex=66342430&is=6632d2b0&hm=96612bc0f2b6e8d166c213df9ec0113db5019d04b2372225be16e9f1b3840fc4&)
+
+Después de subir nuestro repositorio, procedemos a deployear el proyecto el cual ejecutara los comandos en su consola:
+
+![Imagen](https://cdn.discordapp.com/attachments/784950770000199721/1235375529767604274/image.png?ex=6634249e&is=6632d31e&hm=db3b23d5f98df87b3f3d0e8fc596cdcc21ab85811884c0b7313b2b618b3c695c&)
+
+Al terminar de desplegar nos mostrara la vista previa de nuestro proyecto:
+
+![Deployment](/img/deployment-evidence.jpg)
+
+El link de nuestro Front-End es el siguiente: 
 
 https://maki-front-end-pi.vercel.app
 
-![Deployment](/img/deployment-evidence.jpg)
 
 ### 5.2.2.8 Team Collaboration Insights during Sprint
 
@@ -733,6 +746,106 @@ Colaboracion durante el sprint 2 a nuestro repositorio de front-end en el period
 
 ![Pulse](/img/pulse.png)
 ![Clones](/img/clones.png)
+
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1. Sprint Planning 3
+
+En el Sprint Planning 3, se llevó a cabo una sesión de planificación para la elaboración de:
+
+<table>
+        <thead>
+            <tr>
+                <th>Sprint #</th>
+                <th>Sprint 3</th>
+            </tr>
+        </thead>
+        <tbody>
+                <th><b>Sprint Planning Background</th>
+            <tr>
+                <th>Date</th>
+                <td> 16-05-2024 </td>
+            </tr>
+            <tr>
+                <th>Time</th>
+                <td> 10:00 PM </td>
+            </tr>
+            <tr>
+                <th>Location</th>
+                <td> Reunión virtual en el servidor de Discord del Startup</td>
+            </tr>  
+            <tr>
+                <th>Prepared By</th>
+                <td> Alejandra Díaz, Antonella Gonzales </td>
+            </tr> 
+            <tr>
+                <th>Attendees (to planning meeting)</th>
+                <td> María Alejandra Díaz Villacrez, Antonella Frida Gonzales Gomez, Braulio Rodrigo Torrejon Navarro, Jair Andreé Coraje Bayona, Louis Piero Alfaro Coveñas </td>
+            </tr>
+            <tr>
+                <th>Sprint 3 - 1 Review Summary</th>
+                <td> Se revisaron las correcciones pendientes para el TB3, se divieron las partes de nuestro backend a desarrollar en el sprint, se repartieron los features según bounded context y se agendaron las reuniones siguientes para revisión de avances.</td>
+            </tr>
+            <tr>
+                <th>Sprint 3 - 1 Retrospective Summary</th>
+                <td> En retrospectiva, los miembros del equipo opinan que trabajar colaborativamente para la elaboración del backend va a ser lo más beneficioso ya que se pueden encontrar dificultades en su implementación para esta primer entrega de web services. </td>
+            </tr>
+                <th><b>Sprint Goal & User Stories</th>
+            <tr>
+                <th>Sprint 3 Goal</th>
+                <td> Los goals definidos son: Implementación del backend, web services.  
+                La métrica para medir el cumplimiento de los goals será: (Número de elementos del Sprint Backlog completados)/ (Número todal de elementos del Sprint Backlog planificados) x 100% </td>
+            </tr>
+            <tr>
+                <th>Sprint 3 Velocity</th>
+                <td> Los Story Points que el equipo acepto para este Sprint fueron alrededor de 80 puntos</td>
+            </tr>
+            <tr>
+                <th>Sum of Story Points</th>
+                <td> 
+                    HU-1: 5 puntos<br>
+                    HU-2: 3 puntos<br>
+                    HU-3: 3 puntos<br>
+                    HU-4: 5 puntos<br>
+                    HU-5: 8 puntos<br>
+                    HU-6: 8 puntos<br>
+                    HU-7: 8 puntos<br>
+                    HU-8: 8 puntos<br>
+                    HU-9: 5 puntos<br>
+                    HU-10: 5 puntos<br>
+                    HU-11: 8 puntos<br>
+                    HU-12: 3 puntos<br>
+                    HU-13: 5 puntos<br>
+                    HU-14: 5 puntos<br>
+                    Suma total: 80 Story points
+                </td>
+        </tr>
+    </tbody>
+</table>
+
+#### 5.2.3.2. Sprint Backlog 3
+
+#### 5.2.3.3. Development Evidence for Sprint Review 
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review 
+
+#### 5.2.3.5. Execution Evidence for Sprint Review 
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review  
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+## 5.3. Validation Interviews
+
+### 5.3.1. Diseño de Entrevistas
+
+### 5.3.2. Registro de Entrevistas
+
+### 5.3.3. Evaluaciones según heurísticas
+
+## 5.4. Video About-the-Product
 
 ## Avance de Conclusiones, Bibliografía y Anexos.
 
@@ -770,8 +883,8 @@ Recuperado de https://www.rcrperu.com/exportacion-de-artesania-se-agrava-por-pan
                   Duración: 39:40 min </td>
                 <td>Consolida todas las entrevistas realizadas</td>
                 <td>Link: https://shorturl.at/awz05 
-                  Captura: <br> ![Screenshot](/img/interviews.png)
-                    <img src="/img/interviews.png" width="350"></img> </td>
+                  Captura: <br>
+                    <img src="https://cdn.discordapp.com/attachments/1220543866789167136/1241142080542212260/interviews.png?ex=66491f23&is=6647cda3&hm=c6acd7437d2972968afd8ad4df679922188b8af3b5e17e355c500e953b65454a&" width="350"></img> </td>
                 </td>
             </tr>
             <tr>
@@ -782,11 +895,11 @@ Recuperado de https://www.rcrperu.com/exportacion-de-artesania-se-agrava-por-pan
                   Duración: min</td>
                 <td>Consolida las exposiciones de la TB1</td>
                 <td>Link: https://shorturl.at/gmBF8
-                Captura: <br> ![Screenshot](/img/expoTb1.png)
-                  <img src="/img/expoTb1.png" width="350"></img> </td>
+                Captura: <br> 
+                  <img src="https://cdn.discordapp.com/attachments/1220543866789167136/1241142377377173504/image.png?ex=66491f6a&is=6647cdea&hm=6229a44816bdf3a1471305040a906208168466a64e404cd98680344e1ba7fe4a&" width="350"></img> </td>
                 </td>
             </tr>
-                <tr>
+            <tr>
                 <td>Exposicion TP</td>
                 <td>Cantidad de videos: 1 <br>
                   Nomenclatura: upc-pre-202401-si730-ws52-createDev-expo-tp <br>
@@ -794,8 +907,83 @@ Recuperado de https://www.rcrperu.com/exportacion-de-artesania-se-agrava-por-pan
                   Duración: min</td>
                 <td>Consolida las exposiciones del TP</td>
                 <td>Link: https://shorturl.at/qsAGV
-                Captura: <br> ![Screenshot](/img/expoTP.png)
-                  <img src="/img/expoTP.png" width="350"></img> </td>
+                Captura: <br>
+                  <img src="https://cdn.discordapp.com/attachments/1220543866789167136/1241142458805391474/image.png?ex=66491f7d&is=6647cdfd&hm=0e7463133e704d62515847190dfc3be6a31975af314612bdefc9c90595a9b60c&" width="350"></img> </td>
+                </td>
+            </tr>
+            <tr>
+                <td>Exposicion TB3</td>
+                <td>Cantidad de videos: 1 <br>
+                  Nomenclatura: upc-pre-202401-si730-ws52-createDev-expo-tb3 <br>
+                  Formato: .mp4 <br>
+                  Duración: min</td>
+                <td>Consolida las exposiciones del TP</td>
+                <td>Link: 
+                Captura: <br> 
+                  <img src="" width="350"></img> </td>
+                </td>
+            </tr>
+            <tr>
+                <td>Validation Interviews</td>
+                <td>Cantidad de videos: 1 <br>
+                  Nomenclatura: upc-pre-202401-si730-ws52-createDev-validation-sprint-3 <br>
+                  Formato: .mp4 <br>
+                  Duración: min</td>
+                <td>Consolida sesiones y
+                    entrevistas de validación en
+                    las que usuarios de los
+                    segmentos objetivo
+                    interactúen con el landing
+                    page y con los prototipos
+                    de experiencias web.</td>
+                <td>Link: 
+                Captura: <br>
+                  <img src="" width="350"></img> </td>
+                </td>
+            </tr>
+            <tr>
+                <td>Video About The Product</td>
+                <td>Cantidad de videos: 1 <br>
+                  Nomenclatura: upc-pre-202401-si730-ws52-createDev-about-the-product-sprint-3 <br>
+                  Formato: .mp4 <br>
+                  Duración: min</td>
+                <td>Consolida la orientación promocional,
+                    resumiendo el modelo de
+                    negocio, las características
+                    y beneficios del producto,
+                    incluyendo algunas escenas
+                    de interacción con el
+                    producto y al menos una
+                    opinión por cada segmento
+                    objetivo. </td>
+                <td>Link: 
+                Captura: <br> 
+                  <img src="" width="350"></img> </td>
+                </td>
+            </tr>
+            <tr>
+                <td>Video About The Team</td>
+                <td>Cantidad de videos: 1 <br>
+                  Nomenclatura: upc-pre-202401-si730-ws52-createDev-about-the-team-sprint-3 <br>
+                  Formato: .mp4 <br>
+                  Duración: min</td>
+                <td>Consolida el video que resume el
+                    proceso de trabajo
+                    realizado, incluyendo
+                    escenas de sesiones de
+                    trabajo real del equipo,
+                    complementando con
+                    narración (voz en off) del
+                    proceso. Incluye además el
+                    testimonio ante cámara de
+                    cada participante
+                    describiendo actividades
+                    realizadas, logro de
+                    outcomes y desarrollo de
+                    competencias alcanzados.</td>
+                <td>Link: 
+                Captura: <br> 
+                  <img src="" width="350"></img> </td>
                 </td>
             </tr>
         </tbody>
