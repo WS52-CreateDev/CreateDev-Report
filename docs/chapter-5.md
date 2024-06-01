@@ -847,6 +847,14 @@ En el Sprint Planning 3, se llevó a cabo una sesión de planificación para la 
 
 ## 5.4. Video About-the-Product
 
+En esta sección presentamos el video about the product. Este consolida una orientación promocional, resumiendo el modelo de nuestro negocio de Maki, las características y beneficios del producto, incluyendo algunas escenas de interacción con el producto.
+
+<img src="/img/about-the-product-video.png"></img>
+
+Link de Microsoft Stream: https://shorturl.at/LTPJ0
+
+Link de Youtube: https://youtu.be/6G13QMLYB5A
+
 ## Avance de Conclusiones, Bibliografía y Anexos.
 
 ### **Conclusiones**
@@ -912,12 +920,12 @@ Recuperado de https://www.rcrperu.com/exportacion-de-artesania-se-agrava-por-pan
                 </td>
             </tr>
             <tr>
-                <td>Exposicion TB3</td>
+                <td>Exposicion TB2</td>
                 <td>Cantidad de videos: 1 <br>
-                  Nomenclatura: upc-pre-202401-si730-ws52-createDev-expo-tb3 <br>
+                  Nomenclatura: upc-pre-202401-si730-ws52-createDev-expo-tb2 <br>
                   Formato: .mp4 <br>
                   Duración: min</td>
-                <td>Consolida las exposiciones del TP</td>
+                <td>Consolida las exposiciones del TB2</td>
                 <td>Link: 
                 Captura: <br> 
                   <img src="" width="350"></img> </td>
@@ -946,19 +954,16 @@ Recuperado de https://www.rcrperu.com/exportacion-de-artesania-se-agrava-por-pan
                 <td>Cantidad de videos: 1 <br>
                   Nomenclatura: upc-pre-202401-si730-ws52-createDev-about-the-product-sprint-3 <br>
                   Formato: .mp4 <br>
-                  Duración: min</td>
+                  Duración: 4:41 min</td>
                 <td>Consolida la orientación promocional,
                     resumiendo el modelo de
                     negocio, las características
                     y beneficios del producto,
                     incluyendo algunas escenas
-                    de interacción con el
-                    producto y al menos una
-                    opinión por cada segmento
-                    objetivo. </td>
-                <td>Link: 
+                    de interacción con el producto. </td>
+                <td>Link Streams: https://shorturl.at/LTPJ0 Link de Youtube: https://youtu.be/6G13QMLYB5A
                 Captura: <br> 
-                  <img src="" width="350"></img> </td>
+                  <img src="/img/about-the-product-video.png" width="350"></img> </td>
                 </td>
             </tr>
             <tr>
