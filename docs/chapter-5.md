@@ -841,6 +841,46 @@ En el Sprint Planning 3, se llevó a cabo una sesión de planificación para la 
 
 ### 5.3.1. Diseño de Entrevistas
 
+- User Goal: Navegar por la landing page
+User persona → Artesanos y clientes
+Explicación del flujo → El usuario deberá ingresar a la landing page de la aplicación web. En esta, podrá desplazarse y visualizar información general sobre los servicios ofrecidos, así como los beneficios de utilizar la aplicación. Además, podrá cambiar el idioma a inglés o español a través de un botón. También, tendrá acceso directo a la aplicación web a través de un Call To Action situado en la vista principal de la landing page.
+
+- User Goal: Iniciar sesión
+User persona → Artesanos y clientes
+Explicación del flujo → Primero, el usuario deberá ingresar a la aplicación desplegada. A continuación, verá en la pantalla un formulario que le pedirá sus datos de inicio de sesión, específicamente su correo electrónico y contraseña. Una vez validadas las credenciales, el sistema le permitirá ingresar a la aplicación. En caso el usuario no tenga una cuenta, puede registrarse completando otro formulario con sus datos personales.
+
+- User Goal: Ver perfil
+User persona → Artesanos y clientes
+Explicación del flujo → El usuario tiene dos formas de acceder a su perfil. La primera opción es a través de un panel lateral ubicado a la izquierda de la aplicación; al hacer clic en el ícono de la persona, podrá acceder a su perfil, donde verá sus datos personales y detalles de la cuenta. La segunda opción es desde la barra de navegación en la parte superior de la aplicación; al hacer clic en "Mi perfil", accederá a la misma vista mencionada.
+
+- User Goal: Buscar productos
+User persona → Clientes
+Explicación del flujo → Primero el usuario puede acceder a la vista de búsqueda de productos desde el sidebar lateral, donde podrá buscar productos por nombre, categoría o artesano. Además, podrá filtrar los resultados de la búsqueda. Una vez seleccionado un producto, podrá ver sus detalles, añadirlo al carrito, y proceder a la compra.
+
+- User Goal: Administrar productos
+User persona → Artesanos
+Explicación del flujo → El usuario deberá acceder a la vista de gestión de productos. En esta, podrá ver los productos que ha subido a la plataforma, así como añadir nuevos productos, editar detalles de los existentes, y eliminar aquellos que ya no desea vender. Además, podrá revisar las peticiones de patrones personalizadas realizadas por los usuarios.
+
+- User Goal: Comprar un producto
+User persona → Clientes
+Explicación del flujo → El usuario deberá buscar y seleccionar el producto que desea comprar. Una vez en la página del producto, puede añadirlo al carrito de compras. Desde el carrito, el usuario podrá proceder al checkout, donde ingresará sus datos de envío y pago para completar la compra. Tras finalizar la compra, recibirá una confirmación y detalles del pedido.
+
+- User Goal: Subir un producto
+User persona → Artesanos
+Explicación del flujo → El usuario deberá acceder a la vista de gestión de productos. En esta, podrá seleccionar la opción para añadir un nuevo producto, completando un formulario con los detalles del producto, incluyendo imágenes, descripción, precio, y categoría. Una vez completados todos los campos, podrá subir el producto a la plataforma, donde estará disponible para que los clientes lo vean y compren.
+
+- User Goal: Revisar peticiones de patrones
+User persona → Artesanos
+Explicación del flujo → El usuario podrá acceder a las peticiones de patrones desde su panel de administración. Aquí, podrá ver una lista de solicitudes realizadas por los clientes, con detalles específicos de cada petición. El artesano puede aceptar, rechazar o solicitar más información sobre la petición, y mantener comunicación directa con el cliente si es necesario.
+
+- User Goal: Solicitar un diseño personalizado
+User persona → Clientes
+Explicación del flujo → El usuario podrá seleccionar la opción de "Solicitar diseño personalizado" desde la página principal o desde la vista de un producto. Al hacer clic, será dirigido a un formulario donde podrá describir el diseño deseado, adjuntar referencias y especificar detalles adicionales. Una vez enviada la solicitud, el artesano correspondiente podrá revisarla y comunicarse con el cliente para afinar detalles.
+
+- User Goal: Administrar pedidos
+User persona → Artesanos
+Explicación del flujo → El usuario deberá acceder a la vista de gestión de pedidos. Aquí, podrá ver todos los pedidos realizados por los clientes, con detalles como el estado del pedido, fecha de realización, y productos incluidos. El artesano podrá actualizar el estado del pedido (por ejemplo, en preparación, enviado, completado) y añadir comentarios si es necesario.
+
 ### 5.3.2. Registro de Entrevistas
 
 ### 5.3.3. Evaluaciones según heurísticas
