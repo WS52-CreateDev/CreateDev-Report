@@ -52,6 +52,112 @@ En este apartado se desarrolla el To-be Scenario Mapping en base al análisis de
 |Gestión de productos de artesanía. **/ HU-21**|Footer|que me permita seguir las cuentas de redes sociales de la plataforma para obtener más información y mantenerme al día con las últimas noticias y actualizaciones.|<p>**Escenario 1:** Acceso a enlaces de redes sociales desde la página de inicio</p><p></p><p>**Dado** que soy un visitante del sitio.</p><p>Cuando Accedo a la página de inicio de la landing page.</p><p>**Entonces:** observo que en la parte inferior o lateral de la página de inicio hay íconos de redes sociales, como Facebook, Instagram, Twitter, etc.</p>|**EPIC-06**|
 ||||||
 
+### Technical Stories
+
+   <table>
+      <body>
+         <tr style="text-align:center">
+            <td> TS001 </td>
+            <td> Obtener Usuarios </td>
+            <td> 
+            <strong> Como </strong> desarrollador backend en Maki,
+            <strong> quiero </strong> obtener la información de los usuarios artesanos y clientes a través de una API <strong> para </strong> permitir al equipo de frontend utilizar los datos del usuario en la interfaz. </td>
+            <td> 
+            <h5>Escenario 01: Obtener Usuarios Exitosamente</h5>
+            <strong> Dado </strong> que tengo autorización en el uso de la API y al endpoint de Usuarios,
+            <strong> Cuando </strong> envío una solicitud GET para la obtención de datos del usuario, <strong> Entonces </strong>  el servidor responde con un código de estado 200 OK <strong> Y </strong> recibo la información de los usuarios en un response de formato JSON que contiene al menos un usuario con los siguientes campos: <br> 
+            - Id: {ID del usuario}<br>
+            - Email: {Email del usuario}<br>
+            - Password: {Contraseña del usuario}<br>
+            - Business Name: {Nombre del negocio del usuario (si es artesano)}<br>
+            - Business Address: {Direccion del negocio del usuario (si es artesano)}<br>
+            - Name: {Nombre del usuario}<br>
+            - Surname: {Apellido del usuario}<br>
+            - Photo: {Foto del usuario}<br>
+            - Phone: {Telefono del usuario}<br>
+            - Address: {Direccion del usuario}<br>
+            <h5>Escenario 02: Obtener Usuarios con Parámetro Erróneo</h5>            
+            <strong> Dado </strong> que tengo autorización en el uso de la API y al endpoint de Usuarios,
+            <strong> Cuando </strong>envío una solicitud GET para la obtención de datos del usuario con un parámetro erróneo o inexistente,
+            <strong> Entonces </strong> 
+            el servidor responde con un código de estado 400 Bad Request <strong> Y </strong> recibo un mensaje de error en el response indicando que el parámetro es incorrecto o no existe.
+            </td>
+            <td> </td>
+        </tr>
+        <tr style="text-align:center">
+            <td> TS002 </td>
+            <td> Obtener Productos </td>
+            <td> 
+            <strong> Como </strong> desarrollador backend en Maki,
+            <strong> quiero </strong> obtener la información de los productos a través de una API <strong> para </strong> permitir al equipo de frontend utilizar los datos del producto en la interfaz. </td>
+            <td> 
+            <h5>Escenario 01: Obtener productos Exitosamente</h5>
+            <strong> Dado </strong> que tengo autorización en el uso de la API y al endpoint de productos,
+            <strong> Cuando </strong> envío una solicitud GET para la obtención de datos del producto, <strong> Entonces </strong>  el servidor responde con un código de estado 200 OK <strong> Y </strong> recibo la información de los productos en un response de formato JSON que contiene al menos un producto con los siguientes campos: <br> 
+            - Id: {ID del producto}<br>
+            - Price: {Precio del producto}<br>
+            - Description: {Descripcion del producto}<br>
+            - Width: {Dimension del producto}<br>
+            - Depth: {Dimension del producto}<br>
+            - Height: {Dimension del producto}<br>
+            - Name: {Nombre del producto}<br>
+            - Category: {Categoria del producto}<br>
+            - Artisan: {ID del artesano que realizo el producto}<br>
+            - Material: {Materiales del producto}<br>
+            - Image: {Foto del producto}<br>
+            <h5>Escenario 02: Obtener productos con Parámetro Erróneo</h5>            
+            <strong> Dado </strong> que tengo autorización en el uso de la API y al endpoint de productos,
+            <strong> Cuando </strong>envío una solicitud GET para la obtención de datos del usuario con un parámetro erróneo o inexistente,
+            <strong> Entonces </strong> 
+            el servidor responde con un código de estado 400 Bad Request <strong> Y </strong> recibo un mensaje de error en el response indicando que el parámetro es incorrecto o no existe.
+            </td>
+            <td> </td>
+        </tr>
+        <tr style="text-align:center">
+            <td> TS003 </td>
+            <td> Obtener Categorias </td>
+            <td> 
+            <strong> Como </strong> desarrollador backend en Maki,
+            <strong> quiero </strong> obtener la información de las Categorias a través de una API <strong> para </strong> permitir al equipo de frontend utilizar los datos de la Categoria en la interfaz. </td>
+            <td> 
+            <h5>Escenario 01: Obtener Categorias Exitosamente</h5>
+            <strong> Dado </strong> que tengo autorización en el uso de la API y al endpoint de Categorias,
+            <strong> Cuando </strong> envío una solicitud GET para la obtención de datos de la Categoria, <strong> Entonces </strong>  el servidor responde con un código de estado 200 OK <strong> Y </strong> recibo la información de las Categorias en un response de formato JSON que contiene al menos un producto con los siguientes campos: <br> 
+            - Id: {ID de la categoria}<br>
+            - Name: {Nombre de la categoria}<br>
+            <h5>Escenario 02: Obtener Categorias con Parámetro Erróneo</h5>            
+            <strong> Dado </strong> que tengo autorización en el uso de la API y al endpoint de Categorias,
+            <strong> Cuando </strong>envío una solicitud GET para la obtención de datos de la Categoria con un parámetro erróneo o inexistente,
+            <strong> Entonces </strong> 
+            el servidor responde con un código de estado 400 Bad Request <strong> Y </strong> recibo un mensaje de error en el response indicando que el parámetro es incorrecto o no existe.
+            </td>
+            <td> </td>
+        </tr>
+        <tr style="text-align:center">
+            <td> TS004 </td>
+            <td> Obtener Diseños </td>
+            <td> 
+            <strong> Como </strong> desarrollador backend en Maki,
+            <strong> quiero </strong> obtener la información de los Diseños a través de una API <strong> para </strong> permitir al equipo de frontend utilizar los datos del Diseño en la interfaz. </td>
+            <td> 
+            <h5>Escenario 01: Obtener Diseños Exitosamente</h5>
+            <strong> Dado </strong> que tengo autorización en el uso de la API y al endpoint de Diseños,
+            <strong> Cuando </strong> envío una solicitud GET para la obtención de datos del Diseño, <strong> Entonces </strong>  el servidor responde con un código de estado 200 OK <strong> Y </strong> recibo la información de los Diseños en un response de formato JSON que contiene al menos un Diseño con los siguientes campos: <br> 
+            - Id: {ID del diseño}<br>
+            - Name: {Nombre del diseño}<br>
+            - Caracteristics: {Caracteristicas del diseño}<br>
+            - Photo: {Imagen del diseño}<br>
+            - UserId: {ID del usuario que solicito el diseño}<br>
+            <h5>Escenario 02: Obtener Diseños con Parámetro Erróneo</h5>            
+            <strong> Dado </strong> que tengo autorización en el uso de la API y al endpoint de Diseños,
+            <strong> Cuando </strong>envío una solicitud GET para la obtención de datos del Diseño con un parámetro erróneo o inexistente,
+            <strong> Entonces </strong> 
+            el servidor responde con un código de estado 400 Bad Request <strong> Y </strong> recibo un mensaje de error en el response indicando que el parámetro es incorrecto o no existe.
+            </td>
+            <td> </td>
+        </tr>
+      </body>
+   </table>
 
 
 
