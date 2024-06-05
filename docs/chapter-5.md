@@ -825,6 +825,108 @@ En el Sprint Planning 3, se llevó a cabo una sesión de planificación para la 
 
 #### 5.2.3.2. Sprint Backlog 3
 
+En el tercer sprint backlog, el equipo completó parcialmente tanto el frontend como el backend de la aplicación web. Para organizar y gestionar al equipo, se utilizó la herramienta Trello. Esta herramienta permitió dividir todas las historias de usuario en tareas manejables y asignarlas a los distintos miembros del equipo.
+
+![backlog-trello](/img/sprint-backlog-3-maki.png)
+
+Link de Trello: https://trello.com/b/7LbQIFjQ
+
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td colspan="7"> <strong>Sprint 3</strong> </td>
+  </tr>
+
+  <tr>
+    <td colspan="2"> <strong>Technical Story</strong></td>
+    <td colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td> <strong>ID</strong> </td>
+    <td> <strong>Title</strong></td>
+    <td> <strong>ID</strong> </td>
+    <td> <strong>Title</strong></td>
+    <td> <strong>Description</strong></td>
+    <td> <strong>Estimation (Hours)</strong></td>
+    <td> <strong>Assigned To</strong></td>
+    <td> <strong> Status (To-do/In-Process/To-Review/Done) </strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="3">TS001</td>
+    <td rowspan="3">Obtener Usuarios</td>
+    <td>TA1</td>
+    <td>Get Profiles</td>
+    <td>Endpoint que retorna los perfiles registrados</td>
+    <td rowspan="3">3</td>
+    <td rowspan="3">Antonella Frida Gonzales, Jair Andreé Coraje </td>
+    <td rowspan="3">Done</td>
+  </tr>
+  <tr>
+    <td>TA2</td>
+    <td>Get Profile by Id</td>
+    <td>Endpoint que retorna un perfil dado un Id</td>
+  </tr>
+  <tr>
+    <td>TA3</td>
+    <td>Post Profile</td>
+    <td>Endpoint que permite le registro de un nuevo perfil</td>
+  </tr>
+  <!------------------------------------------------------------------------>
+  <tr>
+    <td rowspan="3">TS002</td>
+    <td rowspan="3">Obtener Productos</td>
+    <td>TA4</td>
+    <td>Get Products</td>
+    <td>Endpoint que retorna los productos del sistema</td>
+    <td rowspan="3">3</td>
+    <td rowspan="3">Maria Alejandra Díaz </td>
+    <td rowspan="3">Done</td>
+  </tr>
+  <tr>
+    <td>TA5</td>
+    <td>Get Product by Id</td>
+    <td>Endpoint que retorna un producto dado un Id</td>
+  </tr>
+  <tr>
+    <td>TA6</td>
+    <td>Post Product</td>
+    <td>Endpoint que permite el registro de un nuevo producto</td>
+  </tr>
+  <!------------------------------------------------------------------------>
+  <tr>
+    <td rowspan="2">TS003</td>
+    <td rowspan="2">Obtener Categorias</td>
+    <td>TA7</td>
+    <td>Get category by Id</td>
+    <td>Endpoint que retorna una categoria dado un Id</td>
+    <td rowspan="2">3</td>
+    <td rowspan="2">Maria Alejandra Díaz</td>
+    <td rowspan="2">Done</td>
+  </tr>
+  <tr>
+    <td>TA8</td>
+    <td>Post Category</td>
+    <td>Endpoint que permite el registro de una nueva categoria</td>
+  </tr>
+  <!------------------------------------------------------------------------>
+  <tr>
+    <td rowspan="2">TS004</td>
+    <td rowspan="2">Obtener Diseños</td>
+    <td>TA9</td>
+    <td>Get Designs by Id</td>
+    <td>Endpoint que retorna la solicitud de diseño de un producto dado un Id</td>
+    <td rowspan="2">3</td>
+    <td rowspan="2">Braulio Rodrigo Torrejon</td>
+    <td rowspan="2">Done</td>
+  </tr>
+  <tr>
+    <td>TA10</td>
+    <td>Post Design</td>
+    <td>Endpoint que permite el registro de la solicitud de diseño de un producto</td>
+  </tr>
+</table>
+
 #### 5.2.3.3. Development Evidence for Sprint Review 
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review 
@@ -882,6 +984,188 @@ User persona → Artesanos
 Explicación del flujo → El usuario deberá acceder a la vista de gestión de pedidos. Aquí, podrá ver todos los pedidos realizados por los clientes, con detalles como el estado del pedido, fecha de realización, y productos incluidos. El artesano podrá actualizar el estado del pedido (por ejemplo, en preparación, enviado, completado) y añadir comentarios si es necesario.
 
 ### 5.3.2. Registro de Entrevistas
+
+Entrevistas a Clientes
+
+<table>
+        <thead>
+            <tr>
+                <th>Entrevistado 1</th>
+                <th>Carla Samanez</th>
+            </tr>
+            <tr>
+                <th>Entrevistador </th>
+                <th>Alejandra Diaz</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Edad</td>
+                <td>35</td>
+            </tr>
+            <tr>
+                <td>Distrito</td>
+                <td>San Martin de Porres</td>
+            </tr>
+            <tr>
+                <td><img src="" alt="agregar foto"></td>
+                <td><strong>Resumen:</strong><br>
+                  Resumen
+                </td>
+            </tr>
+            <tr>
+                <td>Timing de la entrevista</td>
+                <td>---</td>
+            </tr>
+            <tr>
+                <td>URL de la entrevista</td>
+                <td>---</td>
+            </tr>
+            <tr>
+                <th>Entrevistado 2</th>
+                <th></th>
+            <tr>
+                <th>Entrevistador </th>
+                <th> </th>
+            </tr>
+            <tr>
+                <td>Edad</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Distrito</td>
+                <td></td>
+            </tr>
+            <tr>
+            <td><img src="" alt="Foto de entrevista"></td>
+                <td><strong>Resumen:</strong><br>resumen</td>
+            </tr>
+            <tr>
+                <td>Timing de la entrevista</td>
+                <td>!</td>
+            </tr>
+            <tr>
+                <td>URL de la entrevista</td>
+                <td>!</td>
+            </tr>
+            <tr>
+                <th>Entrevistado 3</th>
+                <th>Nombre</th>
+            <tr>
+                <th>Entrevistador </th>
+                <th>Nombre </th>
+            </tr>
+            <tr>
+                <td>Edad</td>
+                <td>---</td>
+            </tr>
+            <tr>
+                <td>Distrito</td>
+                <td>--</td>
+            </tr>
+            <tr>
+            <td><img src="" alt="Foto de entrevista"></td>
+                <td><strong>Resumen:</strong><br>--</td>
+            </tr>
+            <tr>
+                <td>Timing de la entrevista</td>
+                <td>--</td>
+            </tr>
+            <tr>
+                <td>URL de la entrevista</td>
+                <td>--</td>
+            </tr>
+        </tbody>
+</table>
+
+Entrevista a Artesanos
+
+<table>
+        <thead>
+            <tr>
+                <th>Entrevistado 1</th>
+                <th>Olga Samanez</th>
+            <tr>
+                <th>Entrevistador </th>
+                <th>Alejandra Diaz</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Edad</td>
+                <td>52</td>
+            </tr>
+            <tr>
+                <td>Distrito</td>
+                <td>Pueblo Libre</td>
+            </tr>
+            <tr>
+                <td><img src="" alt="Foto de entrevista"></td>
+                <td><strong>Resumen:</strong><br></td>
+            </tr>
+            <tr>
+                <td>Timing de la entrevista</td>
+                <td>--</td>
+            </tr>
+            <tr>
+                <td>URL de la entrevista</td>
+                <td>--</td>
+            </tr>
+            <tr>
+                <th>Entrevistado 2</th>
+                <th>Nombre</th>
+            <tr>
+                <th>Entrevistador </th>
+                <th>Nombre </th>
+            </tr>
+            <tr>
+                <td>Edad</td>
+                <td>---</td>
+            </tr>
+            <tr>
+                <td>Distrito</td>
+                <td>--</td>
+            </tr>
+            <tr>
+            <td><img src="" alt="Foto de entrevista"></td>
+                <td><strong>Resumen:</strong><br>resumen aqui</td>
+            </tr>
+            <tr>
+                <td>Timing de la entrevista</td>
+                <td>--</td>
+            </tr>
+            <tr>
+                <td>URL de la entrevista</td>
+                <td>--</td>
+            </tr>
+            <tr>
+                <th>Entrevistado 3</th>
+                <th>Nombre</th>
+            <tr>
+                <th>Entrevistador </th>
+                <th>Nombre </th>
+            </tr>
+            <tr>
+                <td>Edad</td>
+                <td>---</td>
+            </tr>
+            <tr>
+                <td>Distrito</td>
+                <td>--</td>
+            </tr>
+            <tr>
+            <td><img src="" alt="Foto de entrevista"></td>
+                <td><strong>Resumen:</strong><br>resumen aqui</td>
+            </tr>
+            <tr>
+                <td>Timing de la entrevista</td>
+                <td>--</td>
+            </tr>
+            <tr>
+                <td>URL de la entrevista</td>
+                <td>--</td>
+            </tr>
+</table>
 
 ### 5.3.3. Evaluaciones según heurísticas
 
