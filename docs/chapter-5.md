@@ -798,26 +798,16 @@ En el Sprint Planning 3, se llevó a cabo una sesión de planificación para la 
             </tr>
             <tr>
                 <th>Sprint 3 Velocity</th>
-                <td> Los Story Points que el equipo acepto para este Sprint fueron alrededor de 80 puntos</td>
+                <td> Los Story Points que el equipo acepto para este Sprint fueron alrededor de 12 puntos</td>
             </tr>
             <tr>
                 <th>Sum of Story Points</th>
                 <td> 
-                    HU-1: 5 puntos<br>
-                    HU-2: 3 puntos<br>
-                    HU-3: 3 puntos<br>
-                    HU-4: 5 puntos<br>
-                    HU-5: 8 puntos<br>
-                    HU-6: 8 puntos<br>
-                    HU-7: 8 puntos<br>
-                    HU-8: 8 puntos<br>
-                    HU-9: 5 puntos<br>
-                    HU-10: 5 puntos<br>
-                    HU-11: 8 puntos<br>
-                    HU-12: 3 puntos<br>
-                    HU-13: 5 puntos<br>
-                    HU-14: 5 puntos<br>
-                    Suma total: 80 Story points
+                    TS001: 3 puntos<br>
+                    TS002: 3 puntos<br>
+                    TS003: 3 puntos<br>
+                    TS004: 3 puntos<br>
+                    Suma total: 12 Story points
                 </td>
         </tr>
     </tbody>
