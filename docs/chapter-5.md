@@ -1,4 +1,3 @@
-# Capítulo V: Product Implementation, Validation & Deployment.
 
 ## 5.1. Software Configuration Management. 
 
@@ -924,6 +923,142 @@ Link de Trello: https://trello.com/b/7LbQIFjQ
 #### 5.2.3.5. Execution Evidence for Sprint Review 
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review  
+
+Hemos desarrollado una serie de endpoints para la gestión de roles y usuarios en nuestra aplicación. A continuación, se detallan estos endpoints y cómo interactuar con ellos:
+
+<h3>Customer</h3>
+<h4>GET</h4>
+<strong>Path: </strong>/Customer</br>
+<strong>Parámetros: Ninguno</strong></br>
+Este endpoint recupera todas los clientes disponibles en la aplicación.
+
+
+![Imagen](https://cdn.discordapp.com/attachments/1231761393368174644/1248407462705500241/image.png?ex=66638d8d&is=66623c0d&hm=e96c6fe9dd9cbfb6381d4ef36a46a84ef8f303b5157195f610bb6c1535157bdc&)
+
+
+<h4>POST</h4>
+<strong>Path: </strong>/Customer</br>
+<strong>Parámetros: {nombre, email, password}</strong></br>
+Este endpoint crea un nuevo cliente en la aplicación.
+
+![Imagen](https://cdn.discordapp.com/attachments/1231761393368174644/1248408241361260634/image.png?ex=66638e47&is=66623cc7&hm=b91162b289765da010ac850b00bab3dcf03adfd5f493fa8b7faf809764bc627e&)
+
+
+<h4>GET</h4>
+<strong>Path: </strong>/Customer</br>
+<strong>Parámetros: {id}</strong></br>
+Este endpoint recupera el cliente con el id especificado.
+
+![Imagen](https://cdn.discordapp.com/attachments/1231761393368174644/1248408929013334081/image.png?ex=66638eea&is=66623d6a&hm=73b3e82f3c542fe5b67a36b697ed68dbda334a6a1bf7007b6bb8cbee1396c058& )
+
+
+<h4>PUT</h4>
+<strong>Path: </strong>/Customer</br>
+<strong>Parámetros:  {nombre, email, password}</strong></br>
+Este endpoint actualiza el cliente con el id especificado.
+
+![Imagen](https://cdn.discordapp.com/attachments/1231761393368174644/1248410985748762705/image.png?ex=666390d5&is=66623f55&hm=d49c20cd40fa4575f45db9ba0d63534c02a60a42907ac8c217207b84e4137b0e&)
+
+
+<h4>POST</h4>
+<strong>Path: </strong>/Customer</br>
+<strong>Parámetros:  {email, password}</strong></br>
+Este endpoint autentica al cliente y devuelve un token de acceso.
+
+![Imagen](https://cdn.discordapp.com/attachments/1231761393368174644/1248412143955611648/image.png?ex=666391e9&is=66624069&hm=6338370cc8a207c14e137ea2a21755443cd35fe5ee8516ea584e463f8ca3f8c1&)
+
+
+
+<h4>DELETE</h4>
+<strong>Path: </strong>/Customer</br>
+<strong>Parámetros:  {id}</strong></br>
+Este endpoint elimina el cliente con el id especificado.
+
+![Imagen](https://cdn.discordapp.com/attachments/1231761393368174644/1248412440635641916/image.png?ex=66639230&is=666240b0&hm=d49786de36677bb4cfacb5c9c612b0c75007edf4949ebd77e40d90ec3e05ada4&)
+
+
+<h3>Product</h3>
+<h4>GET</h4>
+<strong>Path: </strong>/Product</br>
+<strong>Parámetros: Ninguno</strong></br>
+Este endpoint recupera todas los productos disponibles en la aplicación.
+
+![Imagen]( https://cdn.discordapp.com/attachments/1231761393368174644/1248414550152187956/image.png?ex=66639427&is=666242a7&hm=828a9b279707db995d5f1e9ae51797164c022ba310ce58447da26bfc7e5d2ce2&)
+
+
+<h4>POST</h4>
+<strong>Path: </strong>/Product</br>
+<strong>Parámetros:  {nombre, precio, descripcion}</strong></br>
+Este endpoint crea un nuevo producto en la aplicación.
+
+![Imagen]( https://cdn.discordapp.com/attachments/1231761393368174644/1248414828473749654/image.png?ex=66639469&is=666242e9&hm=4d6778db48b5541a30318c21753e70d2a8cb03320d989ac6b324991c937fffcd&)
+
+
+<h4>GET</h4>
+<strong>Path: </strong>/Product</br>
+<strong>Parámetros:  {id}</strong></br>
+Este endpoint recupera el producto con el id especificado.
+
+![Imagen](https://cdn.discordapp.com/attachments/1231761393368174644/1248415289708777532/image.png?ex=666394d7&is=66624357&hm=d58f270c303e35fc28598ed941931618824a04f78816e9f9283dba98d770dc5d& )
+
+
+<h4>PUT</h4>
+<strong>Path: </strong>/Product</br>
+<strong>Parámetros: {nombre, precio, descripcion}</strong></br>
+Este endpoint actualiza el producto con el id especificado.
+
+![Imagen]( https://cdn.discordapp.com/attachments/1231761393368174644/1248415503819473056/image.png?ex=6663950a&is=6662438a&hm=a2df0b544b346340a5918b6012c6097501a8739ff7f98bcc33df03868ec9c0b3&)
+
+
+<h4>DELETE</h4>
+<strong>Path: </strong>/Product</br>
+<strong>Parámetros: {id}</strong></br>
+ste endpoint elimina el producto con el id especificado.
+
+![Imagen](https://cdn.discordapp.com/attachments/1231761393368174644/1248415779859206144/image.png?ex=6663954c&is=666243cc&hm=9dd96b97eae66a8928aa880f7a8a313eb0dd4b72ff0a79cb84ffdaa39cb61101& )
+
+
+<h3>Category</h3>
+<h4>GET</h4>
+<strong>Path: </strong>/Category</br>
+<strong>Parámetros: Ninguno</strong></br>
+Este endpoint recupera todos las categorías disponibles en la aplicación.
+
+![Imagen](https://cdn.discordapp.com/attachments/1231761393368174644/1248417007775387700/image.png?ex=66639671&is=666244f1&hm=fd64cd2792ff8f067f5a48e8c4f7f02483b46e30bab74a35f18261e7e178b19b&)
+
+
+
+<h4>POST</h4>
+<strong>Path: </strong>/Category</br>
+<strong>Parámetros:  {nombre, descripcion}</strong></br>
+Este endpoint crea una nueva categoría en la aplicación.
+
+![Imagen](https://cdn.discordapp.com/attachments/1231761393368174644/1248417372654800907/image.png?ex=666396c8&is=66624548&hm=c0be1f73c1e84b61a41fa01cd517d93bc9f068b8372d306580aec6aa7abd4241&)
+
+
+<h4>GET</h4>
+<strong>Path: </strong>/Category</br>
+<strong>Parámetros: {id}</strong></br>
+Este endpoint recupera la categoría con el id especificado.
+
+![Imagen](https://cdn.discordapp.com/attachments/1231761393368174644/1248417580335497287/image.png?ex=666396f9&is=66624579&hm=bf00f3054249c4f928cd83d0e60e1305314b0767815d4f665428fbcd5ad20fda&)
+
+
+<h4>PUT</h4>
+<strong>Path: </strong>/Category</br>
+<strong>Parámetros: {nombre, descripcion}</strong></br>
+Este endpoint actualiza la categoría con el id especificado.
+
+![Imagen](https://cdn.discordapp.com/attachments/1231761393368174644/1248417869461459015/image.png?ex=6663973e&is=666245be&hm=34f842433d3ebf2455080717c26cd0abb1ab99c547a2be1a084880069af9296a&)
+
+
+<h4>DELETE</h4>
+<strong>Path: </strong>/Category</br>
+<strong>Parámetros: {id}</strong></br>
+Este endpoint elimina la categoría con el id especificado.
+
+![Imagen](https://cdn.discordapp.com/attachments/1231761393368174644/1248418019181596782/image.png?ex=66639762&is=666245e2&hm=c706f3334cbe2fd057afd293c85324a2d6daf56ea210c2be89528651492584da&)
+
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
