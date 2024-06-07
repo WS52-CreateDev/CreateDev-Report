@@ -1088,6 +1088,15 @@ Este endpoint elimina la categoría con el id especificado.
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
+Para el despliegue de la base de datos MySQL se utilizo la herramienta de Railway app. Esta nos permite construir y monitorerar aplicaciones o contenedores en la nube.
+
+![Railway](/img/railway-mysql.jpg)
+
+Evidencia de la base de datos en Workbench:
+
+![Credentials](/img/credentials-mysql.png)
+![MySQL](/img/makidb-mysql.png)
+
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
 ## 5.3. Validation Interviews
@@ -1173,73 +1182,40 @@ Entrevistas a Clientes
         </tr>
         <tr>
             <td>URL de la entrevista</td>
-            <td>---</td>
+            <td>https://shorturl.at/bJqzI</td>
         </tr>
         <tr>
             <th>Entrevistado 2</th>
-            <th></th>
+            <th>Carla Jaimes</th>
         </tr>
         <tr>
             <th>Entrevistador</th>
-            <th></th>
+            <th>Alejandra Diaz</th>
         </tr>
         <tr>
             <td>Edad</td>
-            <td></td>
+            <td>36</td>
         </tr>
         <tr>
             <td>Distrito</td>
-            <td></td>
+            <td>San Martin de Porres</td>
         </tr>
         <tr>
             <td>
-                <img src="" alt="Foto de entrevista">
+                <img src="/img/client1-interview.png" alt="Foto de entrevista">
             </td>
             <td>
                 <strong>Resumen:</strong><br>
-                resumen
+                La entrevistada logra completar todos los user Goals, destaca que la aplicacion y Landing Page tienen potencial y es facil de utilizar. Desea poder encontrar mas caracteristicas que puedan destacar a la plataforma dentro de la competencia ya existente en el mercado.
             </td>
         </tr>
         <tr>
             <td>Timing de la entrevista</td>
-            <td>!</td>
+            <td>0:00 min</td>
         </tr>
         <tr>
             <td>URL de la entrevista</td>
-            <td>!</td>
-        </tr>
-        <tr>
-            <th>Entrevistado 3</th>
-            <th>Nombre</th>
-        </tr>
-        <tr>
-            <th>Entrevistador</th>
-            <th>Nombre</th>
-        </tr>
-        <tr>
-            <td>Edad</td>
-            <td>---</td>
-        </tr>
-        <tr>
-            <td>Distrito</td>
-            <td>--</td>
-        </tr>
-        <tr>
-            <td>
-                <img src="" alt="Foto de entrevista">
-            </td>
-            <td>
-                <strong>Resumen:</strong><br>
-                --
-            </td>
-        </tr>
-        <tr>
-            <td>Timing de la entrevista</td>
-            <td>--</td>
-        </tr>
-        <tr>
-            <td>URL de la entrevista</td>
-            <td>--</td>
+            <td>https://shorturl.at/bJqzI</td>
         </tr>
     </tbody>
 </table>
@@ -1268,188 +1244,28 @@ Entrevistas a Clientes
         </tr>
         <tr>
             <td>
-                <img src="" alt="Foto de entrevista">
+                <img src="/img/artisan1-interview.png" alt="Foto de entrevista">
             </td>
             <td>
                 <strong>Resumen:</strong><br>
+                La entrevistada logra completar todos los user Goals, destaca que la aplicacion y Landing Page tienen potencial y es facil de utilizar. Desea poder encontrar mas caracteristicas que puedan destacar a la plataforma dentro de la competencia ya existente en el mercado.
             </td>
         </tr>
         <tr>
             <td>Timing de la entrevista</td>
-            <td>--</td>
+            <td>11:06 min</td>
         </tr>
         <tr>
             <td>URL de la entrevista</td>
-            <td>--</td>
+            <td>https://shorturl.at/bJqzI</td>
         </tr>
         <tr>
-            <th>Entrevistado 2</th>
-            <th>Nombre</th>
-        </tr>
-        <tr>
-            <th>Entrevistador</th>
-            <th>Nombre</th>
-        </tr>
-        <tr>
-            <td>Edad</td>
-            <td>---</td>
-        </tr>
-        <tr>
-            <td>Distrito</td>
-            <td>--</td>
-        </tr>
-        <tr>
-            <td>
-                <img src="" alt="Foto de entrevista">
-            </td>
-            <td>
-                <strong>Resumen:</strong><br>
-                resumen aqui
-            </td>
-        </tr>
-        <tr>
-            <td>Timing de la entrevista</td>
-            <td>--</td>
-        </tr>
-        <tr>
-            <td>URL de la entrevista</td>
-            <td>--</td>
-        </tr>
-        <tr>
-            <th>Entrevistado 3</th>
-            <th>Nombre</th>
-        </tr>
-        <tr>
-            <th>Entrevistador</th>
-            <th>Nombre</th>
-        </tr>
-        <tr>
-            <td>Edad</td>
-            <td>---</td>
-        </tr>
-        <tr>
-            <td>Distrito</td>
-            <td>--</td>
-        </tr>
-        <tr>
-            <td>
-                <img src="" alt="Foto de entrevista">
-            </td>
-            <td>
-                <strong>Resumen:</strong><br>
-                resumen aqui
-            </td>
-        </tr>
-        <tr>
-            <td>Timing de la entrevista</td>
-            <td>--</td>
-        </tr>
-        <tr>
-            <td>URL de la entrevista</td>
-            <td>--</td>
-        </tr>
     </tbody>
 </table>
 
 ### 5.3.3. Evaluaciones según heurísticas
 
-**UX Heuristics & Principles Evaluation**
-
-**Usability – Inclusive Design – Information Architecture**
-
-CARRERA : Ingeniería de Software
-
-CURSO : Aplicaciones Web
-
-SECCIÓN : WS52
-
-PROFESOR : Naldo Reupo-Musayon Gastulo
-
-AUDITOR : CreateDev
-
-CLIENTE(S) : -
-
-SITE o APP A EVALUAR: -
-
-TAREAS A EVALUAR:
-El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
-* Landing Page
-  * i. --
-  * ii. --
-  * iii. --
-  * iv. --
-* Web Application
-  * i. --
-  * ii. --
-  * iii. --
-  * iv. --
-  * v. --
-
-### ESCALA DE SEVERIDAD:
-Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
-
-| Nivel | Descripción                                                                                                                                                                                     |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1     | Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.                   |
-| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release. |
-| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.                                 |
-| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.                               |
-
-#### TABLA DE RESUMEN - Landing Page
-
-| # | Problema                                                                                             | Escala de severidad | Heurística/Principio violada(o)                 |
-|---|------------------------------------------------------------------------------------------------------|---------------------|-------------------------------------------------|
-| 1 | -                                                                                                    | -                   | -                                               |
-| 2 | -                                                                                                    | -                   | -                                               |
-| 3 | -                                                                                                    | -                   | -                                               |
-| 4 | -                                                                                                    | -                   | -                                               |
-| 5 | -                                                                                                    | -                   | -                                               |
-| 6 | -                                                                                                    | -                   | -                                               |
-
-**DESCRIPCIÓN DE PROBLEMAS:**
-
-**PROBLEMA #1:** --
-
-**Severidad:** -
-
-**Heurística violada:** --
-
-**Problema:**
---.
-
-![evidencia del problema](/img/.png)
-
-**Recomendación:**
---.
-
-#### TABLA DE RESUMEN - Web Application
-
-
-| # | Problema | Escala de severidad | Heurística/Principio violada(o)           |
-|---|--------- |---------------------|-------------------------------------------|
-| 1 | -        | -                   | -                                         |
-| 2 | -        | -                   | -                                         |
-| 3 | -        | -                   | -                                         |
-| 4 | -        | -                   | -                                         |
-| 5 | -        | -                   | -                                         |
-| 6 | -        | -                   | -                                         |
-
-**DESCRIPCIÓN DE PROBLEMAS:**
-
-**PROBLEMA #1:** --
-
-**Severidad:** -
-
-**Heurística violada:** --
-
-**Problema:**
---.
-
-![evidencia del problema](/img/.png)
-
-**Recomendación:**
---.
-
+No se logro completar en esta entrega
 
 ## 5.4. Video About-the-Product
 
@@ -1530,11 +1346,11 @@ Recuperado de https://www.rcrperu.com/exportacion-de-artesania-se-agrava-por-pan
                 <td>Cantidad de videos: 1 <br>
                   Nomenclatura: upc-pre-202401-si730-ws52-createDev-expo-tb2 <br>
                   Formato: .mp4 <br>
-                  Duración: min</td>
+                  Duración: 9:21 min</td>
                 <td>Consolida las exposiciones del TB2</td>
-                <td>Link: 
+                <td>Link: https://shorturl.at/GUbJG
                 Captura: <br> 
-                  <img src="" width="350"></img> </td>
+                  <img src="/img/keynote-tb2.png" width="350"></img> </td>
                 </td>
             </tr>
             <tr>
@@ -1550,9 +1366,9 @@ Recuperado de https://www.rcrperu.com/exportacion-de-artesania-se-agrava-por-pan
                     interactúen con el landing
                     page y con los prototipos
                     de experiencias web.</td>
-                <td>Link: 
+                <td>Link: https://shorturl.at/bJqzI
                 Captura: <br>
-                  <img src="" width="350"></img> </td>
+                  <img src="/img/interview-picture.png" width="350"></img> </td>
                 </td>
             </tr>
             <tr>
@@ -1592,7 +1408,7 @@ Recuperado de https://www.rcrperu.com/exportacion-de-artesania-se-agrava-por-pan
                     realizadas, logro de
                     outcomes y desarrollo de
                     competencias alcanzados.</td>
-                <td>Link: 
+                <td>Link: No se logro completar en esta entrega
                 Captura: <br> 
                   <img src="" width="350"></img> </td>
                 </td>
