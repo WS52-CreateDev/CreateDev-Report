@@ -44,7 +44,8 @@
 | 1.0     | 2/04/2024 | Jair Coraje        | Se completo el capitulo 2                                                                                        |
 | 1.0     | 2/04/2024 | Louis Alfaro       | Se completo el capitulo 2.2.2 hasta el 2.2.3 como también el 4.7.1                                               |
 | 2.0     | 24/04/2024 | Alejandra Díaz    | Se comenzo las correciones de la TB1 y la redaccion de los capitulos para el TP                                  |
-| 2.0     | 1/05/2024 | Antonella Gonzales | Se realizo una parte del capitulo 5 y la aplicacion web                                    |
+| 2.0     | 1/05/2024 | Antonella Gonzales | Se realizo una parte del capitulo 5 y el backend api customer                                   |
+| 3.0     | 06/06/2024 | Antonella Gonzales | Se realizo una parte del capitulo 5 y el backend api customer                                    |
 
 
 
