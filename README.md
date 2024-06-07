@@ -275,6 +275,8 @@
         <td></td>
         <td> <b>Louis Alfaro TB1</b> Colaboré en la investigación sobre Artesanos en el Perú.
 <b>Louis Piero Alfaro Coveñas TP</b> Colabore con la creación de componente Agregar Carrito que permite agregar o eliminar al carrito dando el precio final de todos los productos.
+
+<b>Louis Piero Alfaro Coveñas TB2</b>Colabore con la corrección de componente Agregar Carrito que permite agregar más productos y que el saldo sea actualizable en cada aumento de producto.
 </td>
         <td>Con las entrevistas nos sirvieron de feedback para lograr encontrar puntos a mejorar.</td>
     </tr>
@@ -310,7 +312,9 @@
         <td></td>
         <td> <b>Louis Piero Alfaro Coveñas TB1</b> El diagrama de clase fueron necesario para poder brindar el cuerpo del software y como se relacionan para cada segmento visto.
 
-<b>Louis Piero Alfaro Coveñas TP</b> El Sprint 2 product backlog nos ayudo a organizarnos mejor para la entrega de cada componentes y el Testing Evidence fue para ver la organización de los commits hechos por el equipo</td>
+<b>Louis Piero Alfaro Coveñas TP</b> El Sprint 2 product backlog nos ayudo a organizarnos mejor para la entrega de cada componentes y el Testing Evidence fue para ver la organización de los commits hechos por el equipo<b>
+
+<b>Louis Piero Alfaro Coveñas TB2</b> El Testing Evidence fue para ver la organización de los commits hechos por el equipo para ver las correcciones y cambios en este sprint 3 </td>
          <td></td>
 
     </tr>
