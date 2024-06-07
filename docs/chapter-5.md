@@ -918,6 +918,32 @@ Link de Trello: https://trello.com/b/7LbQIFjQ
 
 #### 5.2.3.3. Development Evidence for Sprint Review 
 
+|Repository|Branch|Commit id|Commit Mesage|Commit Mesage Body|Commited on (Date)|
+| :- | :- | :- | :- | :- | :- |
+|maki-backend|feature/develop|d449279|Initial commit|-|16/05/2024|
+|maki-backend|feature/develop|0c787a4|feat(develop): added project template|-|16/05/2024|
+|maki-backend|feature/develop|5bc5ce4|fix(develop): added references to layers|-|16/05/2024|
+|maki-backend|feature/TS-001|5bf8e16|feat(login-customer): added initial|-|29/05/2024|
+|maki-backend|feature/TS-001|6c284d4|feat(login-customer): added initial|-|29/05/2024|
+|maki-backend|feature/TS-001|a7cbc7f|feature(customer-register-login): added customer|-|02/06/2024|
+|maki-backend|feature/TS-001|5670fe4|feature(customer-register-login): added customer|-|02/06/2024|
+|maki-backend|feature/request-desing|e599ad9|feature(adding requestdesign bounded context)|-|06/06/2024|
+|maki-backend|feature/request-desing|8534131|feature(fixing somehting)|-|07/06/2024|
+|maki-backend|feature/list-products|4ed88e7|feature(list-products): added product|-|21/05/2024|
+|maki-backend|feature/list-products|eebb413|feat(list-products): updated http methods to be async|-|23/05/2024|
+|maki-backend|feature/list-products|ca910b5|feat(list-products): added fully functional Category table|-|28/05/2024|
+|maki-backend|feature/list-products|441e7c7|feat(list-products): added artisan model|-|28/05/2024|
+|maki-backend|feature/list-products|ffd8ef9|feat(TS-003): added unit tests for products|-|31/05/2024|
+|maki-backend|feature/list-products|f5c4ab7|Merge pull request #1 from WS52-CreateDev/feature/list-products|feat(TS-003): added unit tests for products|31/05/2024|
+|maki-backend|feature/list-products|3da399a|feat(TS-003): added new dependencies|-|31/05/2024|
+|maki-backend|feature/list-products|792c05f|feat(ts-003): added unit test for presentation layer|-|31/05/2024|
+|maki-backend|feature/list-products|c22441a|feat(ts-003): added unit test for category controller|-|31/05/2024|
+|maki-backend|feature/list-products|974425e|feat(list-products): added middleware handler and updated database connection|-|05/06/2024|
+|maki-backend|feature/artisan-data|6445b09|feature(artisan-data): added artisan|-|07/06/2024|
+
+
+
+
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review 
 
 #### 5.2.3.5. Execution Evidence for Sprint Review 
