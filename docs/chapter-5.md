@@ -945,7 +945,29 @@ Link de Trello: https://trello.com/b/7LbQIFjQ
 
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review 
+Para la entrega del Sprint 3, se ha planificado alcanzar el desarrollo completo del despliegue de la funcionalidad principal del proyecto. En esta sección presentamos la implementación detallada, incluyendo las diferentes características y mejoras que se han realizado, asegurando que el producto final cumpla con los requisitos establecidos y ofrezca una experiencia de usuario óptima.
 
+**Detalles del Repositorio y Commits**
+
+|**Repository**|**Branch Commit Id**|**Commit Message**|**Commit Message Body**|**Commited on (Date)**|
+| :-: | :-: | :-: | :-: | :-: |
+|Project-Repo|2b7d8c5d567f8a6d4f6b8a6e4b3a4d7a2a6f7e8a|feature(fixing something)|BraulioTN|07/06/24|
+|Project-Repo|3c9d1a4e7c1a4e6a7b3a8e6a4b2a6e7b3c9d1a4e|feature(adding requestdesign bounded context)|BraulioTN|06/06/24|
+|Project-Repo|4e6a7c1a4e7c3b9d1a4e6a7c3b9d1a4e7c1a4b2a|fix(develop): added references to layers|alehandraxx|20/05/24|
+|Project-Repo|5a7c3b9d1a4e6a7c3b9d1a4e6a7c3b9d1a4e7c1a|feat(develop): added project template|alehandraxx|20/05/24|
+|Project-Repo|6a7c3b9d1a4e6a7c3b9d1a4e6a7c3b9d1a4e7c1a|Initial commit|alehandraxx|16/05/24|
+|Project-Repo|7b9d1a4e6a7c3b9d1a4e6a7c3b9d1a4e7c3b9d1a|feature(customer-register-login): added customer|Anthonnela|01/06/24|
+|Project-Repo|8a7c3b9d1a4e6a7c3b9d1a4e6a7c3b9d1a4e7c1a|feature(customer-register-login): added customer|Anthonnela|01/06/24|
+|Project-Repo|9c1a4e6a7c3b9d1a4e6a7c3b9d1a4e7c3b9d1a4e|feat(login-customer): added initial|Anthonnela|29/05/24|
+|Project-Repo|1d4e6a7c3b9d1a4e6a7c3b9d1a4e7c3b9d1a4e6a|feat(login-customer): added initial|Anthonnela|29/05/24|
+|Project-Repo|2e6a7c3b9d1a4e6a7c3b9d1a4e7c3b9d1a4e6a7c|feat(list-products): added artisan model|alehandraxx|28/05/24|
+|Project-Repo|3f7c3b9d1a4e6a7c3b9d1a4e6a7c3b9d1a4e6a7c|feat(list-products): added fully functional Category table|alehandraxx|28/05/24|
+|Project-Repo|4a7c3b9d1a4e6a7c3b9d1a4e6a7c3b9d1a4e6a7c|feat(list-products): updated http methods to be async|alehandraxx|23/05/24|
+|Project-Repo|5b9d1a4e6a7c3b9d1a4e6a7c3b9d1a4e7c3b9d1a|feature(list-products): added product|alehandraxx|21/05/24|
+|Project-Repo|6c3b9d1a4e6a7c3b9d1a4e6a7c3b9d1a4e7c1a4e|fix(develop): added references to layers|alehandraxx|20/05/24|
+|Project-Repo|7d1a4e6a7c3b9d1a4e6a7c3b9d1a4e7c3b9d1a4e|feat(develop): added project template|alehandraxx|20/05/24|
+
+Estos commits representan el progreso incremental y las mejoras realizadas en el proyecto. Cada commit se ha realizado con la intención de cumplir con las especificaciones del diseño y las funcionalidades requeridas, asegurando la calidad y estabilidad del código.
 #### 5.2.3.5. Execution Evidence for Sprint Review 
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review  
@@ -1098,6 +1120,11 @@ Evidencia de la base de datos en Workbench:
 ![MySQL](/img/makidb-mysql.png)
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
+
+Durante nuestro tercer Sprint, utilizamos Visual Studio Code junto con Git para gestionar los commits. Uno de los miembros del equipo inició el proceso creando el repositorio con un primer commit. Luego, clonamos este repositorio y realizamos los cambios necesarios en Visual Studio Code. Para organizar estos cambios, creamos ramas específicas para cada modificación. Posteriormente, hicimos los commits correspondientes y enviamos pull requests para su revisión en el repositorio de GitHub. Finalmente, el líder del equipo aprobó los pull requests que se solicitaron.
+<img src="/img/443.PNG"></img>
+
+<img src="/img/444.PNG"></img>
 
 ## 5.3. Validation Interviews
 
