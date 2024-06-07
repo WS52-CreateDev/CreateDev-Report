@@ -269,7 +269,7 @@
     </tr>
      <tr> 
         <td></td>
-        <td> **Braulio Rodrigo Torrejon Navarro** Colaboré con el desarrollo del capitulo 1, hacer en figma los Mock-ups y Wiframe del web application segun lo investigado. TP Se realizó una parte de aplicativo web, solicitar diseño y visualizar los diseños SO</td>
+        <td> Braulio Rodrigo Torrejon Navarro Colaboré con el desarrollo del capitulo 1, hacer en figma los Mock-ups y Wiframe del web application segun lo investigado. TP Se realizó una parte de aplicativo web, solicitar diseño y visualizar los diseños SO</td>
          <td>Con el desarrollo del mockup de la web application, se pudo ver como es que funcionaria nuestra aplicación junto a lo que los usuarios querian.</td>
     </tr>
 <tr> 
@@ -307,7 +307,7 @@
     </tr>
      <tr> 
         <td></td>
-        <td> <b>Braulio Torrejon Navarro TB1</b> Los puntos que desarrollé fueron necesario para poder tener un esqueleto con el Wireframe de como se veria, los wireflow diagram para entender como se usaria para finalizar con el Mock-up y tenerlo listo para cuando se quiera programar. TP, tuve que estudiar el lenguaje de vue para poder realizar la implementación, tanto como los componentes, como la los db y los services. </td>
+        <td> <b>Braulio Torrejon Navarro TB1</b> Los puntos que desarrollé fueron necesario para poder tener un esqueleto con el Wireframe de como se veria, los wireflow diagram para entender como se usaria para finalizar con el Mock-up y tenerlo listo para cuando se quiera programar. TP, tuve que estudiar el lenguaje de vue para poder realizar la implementación, tanto como los componentes, como la los db y los services. TB2 se hizo correciónes y cambios en este sprint 3 ademas de realizar un boundedcontext en la db  </td>
          <td></td>
     </tr>
 <tr> 
