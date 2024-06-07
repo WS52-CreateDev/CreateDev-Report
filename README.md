@@ -253,6 +253,7 @@
         <td></td>
         <td> <b>Jair Andreé, Coraje Bayona TB1</b> Colaboré en la investigación sobre empresas que esten dedicadas al mismo rubro que nuestra solución. Gracias a la información recolectada se pudo lograr hacer un análisis competitivo y verificar las estrategias que debamos usar. 
          <b> TP: </b> Colabore en la elaboración del Front end de la app web, desarrollando los componentes necesarios para la visualizacion del profile.
+         <b> TB2: </b> Colabore con la elaboración del back end de nuestra app web, logrando aplicar lo aprendido en Entiry Framework, enfocandome en el sector de los Artesanos
         </td>
         <td>Al investigar sobre nuestros competidores pudimos lograr cambiar las ideas de nuestro negocio, para poder tener una mejor aceptación en el mercado, buscando lograr sobresalir.</td>
     </tr>
@@ -286,8 +287,9 @@
     </tr>
       <tr> 
         <td></td>
-        <td> <b>Jair Andreé, Coraje Bayona TB1</b> Presenté información necesaria para el desarrollo del software, llegando a las UserPersonas y los Journing maps, diagramas necesarios para poder desarrollar la aplicación web y en el informe  
+        <td> <b>Jair Andreé, Coraje Bayona TB1</b> Presenté información necesaria para el desarrollo del software, llegando a las UserPersonas y los Journing maps, diagramas necesarios para poder desarrollar la aplicación web y en el informe   
          <b>TP: </b> Se realizo parte de la app web, investigando sobre como usar VUE para el desarrollo de componentes, logrando con exito el desarrollo de la App
+         <b>TB2: </b> Se realizo la integración de la web service, utilizando C# como lenguaje de programación utilizando .net como framework
         </td>
          <td></td>
     </tr>
