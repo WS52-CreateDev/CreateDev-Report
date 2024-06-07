@@ -46,12 +46,13 @@
 | 2.0     | 24/04/2024 | Alejandra Díaz    | Se comenzo las correciones de la TB1 y la redaccion de los capitulos para el TP                                  |
 | 2.0     | 1/05/2024 | Antonella Gonzales | Se realizo una parte del capitulo 5 y el backend api customer                                   |
 | 3.0     | 06/06/2024 | Antonella Gonzales | Se realizo una parte del capitulo 5 y el backend api customer                                    |
-
+| 3.1     | 07/06/2024 | Alejandra Díaz | Se actualizo una parte del capitulo 5                                    |
 
 
 ### Project Report Collaboration Insights
 
 ![CollabInsights](/assets/img/collabs.png)
+![CollabInsightsTB2](/assets/img/collabs-tb2.png)
 
 <br>
 
@@ -245,7 +246,7 @@
     <tr>
       <td>Participa en equipos multidiciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</td>
       <td> <b>Díaz Villacrez, María Alejandra TB1</b> Colaboré en la recolección de requisitos para satisfacer la entrega del trabajo. Recolecté la información necesaria para la elaboración del diseño de base de datos y sus diagramas. Utilicé gráficos y herramientas para representar la información de manera visual y comprensible. <br>
-      <b>TP</b> Colaboré en la elaboración e implementación del front end de nuestra aplicación web. Utilicé buenas prácticas del framework de Vue para su desarrollo. </td>
+      <b>TP</b> Colaboré en la elaboración e implementación del front end de nuestra aplicación web. Utilicé buenas prácticas del framework de Vue para su desarrollo. <b>TB2</b>Colaboré en la elaboración e implementación del back end de nuestra aplicación web. Utilicé buenas prácticas de Entity Framework y mejore mis conocimientos de C#. </td>
       <td> Al aplicar una organización correcta pudimos comunicar nuestras ideas de negocio y resultados de manera objetiva y efectiva a una audiencia diversa en el contexto de un proyecto de ingeniería de software.</td>
     </tr>
     <tr> 
@@ -280,7 +281,7 @@
     <tr>
       <td>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</td>
       <td> <b>Díaz Villacrez, María Alejandra TB1</b> Presenté información necesaria para respaldar las estadísiticas y citas proporcionadas en la primera entrega del trabajo. Definí términos técnicos importantes utilizados en el informe.<br>
-      <b>TP</b> Investigué sobre los componentes y las buenas prácticas para su desarrollo en el lenguaje de javascript en Vue. </td>
+      <b>TP</b> Investigué sobre los componentes y las buenas prácticas para su desarrollo en el lenguaje de javascript en Vue.<b>TB2</b>Investigué sobre las buenas prácticas de Domain Driven Design y las implemente en el lenguaje de C# en .Net. </td>
       <td> </td>
     </tr>
       <tr> 
