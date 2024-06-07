@@ -1112,6 +1112,11 @@ Este endpoint elimina la categoría con el id especificado.
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
+Durante nuestro segundo Sprint, utilizamos Visual Studio Code junto con Git para gestionar los commits. Uno de los miembros del equipo inició el proceso creando el repositorio con un primer commit. Luego, clonamos este repositorio y realizamos los cambios necesarios en Visual Studio Code. Para organizar estos cambios, creamos ramas específicas para cada modificación. Posteriormente, hicimos los commits correspondientes y enviamos pull requests para su revisión en el repositorio de GitHub. Finalmente, el líder del equipo aprobó los pull requests que se solicitaron.
+<img src="/img/443.PNG"></img>
+
+<img src="/img/444.PNG"></img>
+
 ## 5.3. Validation Interviews
 
 ### 5.3.1. Diseño de Entrevistas
