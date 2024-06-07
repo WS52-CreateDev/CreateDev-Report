@@ -1113,183 +1113,216 @@ Explicación del flujo → El usuario deberá acceder a la vista de gestión de 
 Entrevistas a Clientes
 
 <table>
-        <thead>
-            <tr>
-                <th>Entrevistado 1</th>
-                <th>Carla Samanez</th>
-            </tr>
-            <tr>
-                <th>Entrevistador </th>
-                <th>Alejandra Diaz</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Edad</td>
-                <td>35</td>
-            </tr>
-            <tr>
-                <td>Distrito</td>
-                <td>San Martin de Porres</td>
-            </tr>
-            <tr>
-                <td><img src="" alt="agregar foto"></td>
-                <td><strong>Resumen:</strong><br>
-                  Resumen
-                </td>
-            </tr>
-            <tr>
-                <td>Timing de la entrevista</td>
-                <td>---</td>
-            </tr>
-            <tr>
-                <td>URL de la entrevista</td>
-                <td>---</td>
-            </tr>
-            <tr>
-                <th>Entrevistado 2</th>
-                <th></th>
-            <tr>
-                <th>Entrevistador </th>
-                <th> </th>
-            </tr>
-            <tr>
-                <td>Edad</td>
-                <td></td>
-            </tr>
-            <tr>
-                <td>Distrito</td>
-                <td></td>
-            </tr>
-            <tr>
-            <td><img src="" alt="Foto de entrevista"></td>
-                <td><strong>Resumen:</strong><br>resumen</td>
-            </tr>
-            <tr>
-                <td>Timing de la entrevista</td>
-                <td>!</td>
-            </tr>
-            <tr>
-                <td>URL de la entrevista</td>
-                <td>!</td>
-            </tr>
-            <tr>
-                <th>Entrevistado 3</th>
-                <th>Nombre</th>
-            <tr>
-                <th>Entrevistador </th>
-                <th>Nombre </th>
-            </tr>
-            <tr>
-                <td>Edad</td>
-                <td>---</td>
-            </tr>
-            <tr>
-                <td>Distrito</td>
-                <td>--</td>
-            </tr>
-            <tr>
-            <td><img src="" alt="Foto de entrevista"></td>
-                <td><strong>Resumen:</strong><br>--</td>
-            </tr>
-            <tr>
-                <td>Timing de la entrevista</td>
-                <td>--</td>
-            </tr>
-            <tr>
-                <td>URL de la entrevista</td>
-                <td>--</td>
-            </tr>
-        </tbody>
+    <thead>
+        <tr>
+            <th>Entrevistado 1</th>
+            <th>Christian Barzola</th>
+        </tr>
+        <tr>
+            <th>Entrevistador</th>
+            <th>Antonella Gonzales</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Edad</td>
+            <td>21</td>
+        </tr>
+        <tr>
+            <td>Distrito</td>
+            <td>San Martin de Porres</td>
+        </tr>
+        <tr>
+            <td>
+                <img src="https://cdn.discordapp.com/attachments/1231761393368174644/1248426274121318551/image.png?ex=66639f12&is=66624d92&hm=7c013cbbfb5e6a3de8f34e2e1e4487cd35a39f5686536c027d4bc0a3c4162162" alt="Imagen">
+            </td>
+            <td>
+                <strong>Resumen:</strong><br>
+                Durante la conversación, Christian compartió sus impresiones sobre la aplicación desde la perspectiva del usuario. Destacó que encuentra la aplicación satisfactoria y que cumple con las expectativas de un usuario exigente. Le pareció interesante y elogió su interfaz intuitiva. Sin embargo, también señaló algunas áreas de mejora potencial en la aplicación. En particular, mencionó la necesidad de reducir la redundancia en la interfaz, ya que considera que esto puede generar confusión entre los usuarios. Sus comentarios ofrecen valiosas sugerencias para perfeccionar aún más la experiencia del usuario en la aplicación.
+            </td>
+        </tr>
+        <tr>
+            <td>Timing de la entrevista</td>
+            <td>10</td>
+        </tr>
+        <tr>
+            <td>URL de la entrevista</td>
+            <td>---</td>
+        </tr>
+        <tr>
+            <th>Entrevistado 2</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>Entrevistador</th>
+            <th></th>
+        </tr>
+        <tr>
+            <td>Edad</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Distrito</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>
+                <img src="" alt="Foto de entrevista">
+            </td>
+            <td>
+                <strong>Resumen:</strong><br>
+                resumen
+            </td>
+        </tr>
+        <tr>
+            <td>Timing de la entrevista</td>
+            <td>!</td>
+        </tr>
+        <tr>
+            <td>URL de la entrevista</td>
+            <td>!</td>
+        </tr>
+        <tr>
+            <th>Entrevistado 3</th>
+            <th>Nombre</th>
+        </tr>
+        <tr>
+            <th>Entrevistador</th>
+            <th>Nombre</th>
+        </tr>
+        <tr>
+            <td>Edad</td>
+            <td>---</td>
+        </tr>
+        <tr>
+            <td>Distrito</td>
+            <td>--</td>
+        </tr>
+        <tr>
+            <td>
+                <img src="" alt="Foto de entrevista">
+            </td>
+            <td>
+                <strong>Resumen:</strong><br>
+                --
+            </td>
+        </tr>
+        <tr>
+            <td>Timing de la entrevista</td>
+            <td>--</td>
+        </tr>
+        <tr>
+            <td>URL de la entrevista</td>
+            <td>--</td>
+        </tr>
+    </tbody>
 </table>
 
-Entrevista a Artesanos
+<h2>Entrevista a Artesanos</h2>
 
 <table>
-        <thead>
-            <tr>
-                <th>Entrevistado 1</th>
-                <th>Olga Samanez</th>
-            <tr>
-                <th>Entrevistador </th>
-                <th>Alejandra Diaz</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Edad</td>
-                <td>52</td>
-            </tr>
-            <tr>
-                <td>Distrito</td>
-                <td>Pueblo Libre</td>
-            </tr>
-            <tr>
-                <td><img src="" alt="Foto de entrevista"></td>
-                <td><strong>Resumen:</strong><br></td>
-            </tr>
-            <tr>
-                <td>Timing de la entrevista</td>
-                <td>--</td>
-            </tr>
-            <tr>
-                <td>URL de la entrevista</td>
-                <td>--</td>
-            </tr>
-            <tr>
-                <th>Entrevistado 2</th>
-                <th>Nombre</th>
-            <tr>
-                <th>Entrevistador </th>
-                <th>Nombre </th>
-            </tr>
-            <tr>
-                <td>Edad</td>
-                <td>---</td>
-            </tr>
-            <tr>
-                <td>Distrito</td>
-                <td>--</td>
-            </tr>
-            <tr>
-            <td><img src="" alt="Foto de entrevista"></td>
-                <td><strong>Resumen:</strong><br>resumen aqui</td>
-            </tr>
-            <tr>
-                <td>Timing de la entrevista</td>
-                <td>--</td>
-            </tr>
-            <tr>
-                <td>URL de la entrevista</td>
-                <td>--</td>
-            </tr>
-            <tr>
-                <th>Entrevistado 3</th>
-                <th>Nombre</th>
-            <tr>
-                <th>Entrevistador </th>
-                <th>Nombre </th>
-            </tr>
-            <tr>
-                <td>Edad</td>
-                <td>---</td>
-            </tr>
-            <tr>
-                <td>Distrito</td>
-                <td>--</td>
-            </tr>
-            <tr>
-            <td><img src="" alt="Foto de entrevista"></td>
-                <td><strong>Resumen:</strong><br>resumen aqui</td>
-            </tr>
-            <tr>
-                <td>Timing de la entrevista</td>
-                <td>--</td>
-            </tr>
-            <tr>
-                <td>URL de la entrevista</td>
-                <td>--</td>
-            </tr>
+    <thead>
+        <tr>
+            <th>Entrevistado 1</th>
+            <th>Olga Samanez</th>
+        </tr>
+        <tr>
+            <th>Entrevistador</th>
+            <th>Alejandra Diaz</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Edad</td>
+            <td>52</td>
+        </tr>
+        <tr>
+            <td>Distrito</td>
+            <td>Pueblo Libre</td>
+        </tr>
+        <tr>
+            <td>
+                <img src="" alt="Foto de entrevista">
+            </td>
+            <td>
+                <strong>Resumen:</strong><br>
+            </td>
+        </tr>
+        <tr>
+            <td>Timing de la entrevista</td>
+            <td>--</td>
+        </tr>
+        <tr>
+            <td>URL de la entrevista</td>
+            <td>--</td>
+        </tr>
+        <tr>
+            <th>Entrevistado 2</th>
+            <th>Nombre</th>
+        </tr>
+        <tr>
+            <th>Entrevistador</th>
+            <th>Nombre</th>
+        </tr>
+        <tr>
+            <td>Edad</td>
+            <td>---</td>
+        </tr>
+        <tr>
+            <td>Distrito</td>
+            <td>--</td>
+        </tr>
+        <tr>
+            <td>
+                <img src="" alt="Foto de entrevista">
+            </td>
+            <td>
+                <strong>Resumen:</strong><br>
+                resumen aqui
+            </td>
+        </tr>
+        <tr>
+            <td>Timing de la entrevista</td>
+            <td>--</td>
+        </tr>
+        <tr>
+            <td>URL de la entrevista</td>
+            <td>--</td>
+        </tr>
+        <tr>
+            <th>Entrevistado 3</th>
+            <th>Nombre</th>
+        </tr>
+        <tr>
+            <th>Entrevistador</th>
+            <th>Nombre</th>
+        </tr>
+        <tr>
+            <td>Edad</td>
+            <td>---</td>
+        </tr>
+        <tr>
+            <td>Distrito</td>
+            <td>--</td>
+        </tr>
+        <tr>
+            <td>
+                <img src="" alt="Foto de entrevista">
+            </td>
+            <td>
+                <strong>Resumen:</strong><br>
+                resumen aqui
+            </td>
+        </tr>
+        <tr>
+            <td>Timing de la entrevista</td>
+            <td>--</td>
+        </tr>
+        <tr>
+            <td>URL de la entrevista</td>
+            <td>--</td>
+        </tr>
+    </tbody>
 </table>
 
 ### 5.3.3. Evaluaciones según heurísticas
