@@ -1,4 +1,3 @@
-# Capítulo V: Product Implementation, Validation & Deployment.
 
 ## 5.1. Software Configuration Management. 
 
@@ -798,26 +797,16 @@ En el Sprint Planning 3, se llevó a cabo una sesión de planificación para la 
             </tr>
             <tr>
                 <th>Sprint 3 Velocity</th>
-                <td> Los Story Points que el equipo acepto para este Sprint fueron alrededor de 80 puntos</td>
+                <td> Los Story Points que el equipo acepto para este Sprint fueron alrededor de 12 puntos</td>
             </tr>
             <tr>
                 <th>Sum of Story Points</th>
                 <td> 
-                    HU-1: 5 puntos<br>
-                    HU-2: 3 puntos<br>
-                    HU-3: 3 puntos<br>
-                    HU-4: 5 puntos<br>
-                    HU-5: 8 puntos<br>
-                    HU-6: 8 puntos<br>
-                    HU-7: 8 puntos<br>
-                    HU-8: 8 puntos<br>
-                    HU-9: 5 puntos<br>
-                    HU-10: 5 puntos<br>
-                    HU-11: 8 puntos<br>
-                    HU-12: 3 puntos<br>
-                    HU-13: 5 puntos<br>
-                    HU-14: 5 puntos<br>
-                    Suma total: 80 Story points
+                    TS001: 3 puntos<br>
+                    TS002: 3 puntos<br>
+                    TS003: 3 puntos<br>
+                    TS004: 3 puntos<br>
+                    Suma total: 12 Story points
                 </td>
         </tr>
     </tbody>
@@ -825,31 +814,757 @@ En el Sprint Planning 3, se llevó a cabo una sesión de planificación para la 
 
 #### 5.2.3.2. Sprint Backlog 3
 
+En el tercer sprint backlog, el equipo completó parcialmente tanto el frontend como el backend de la aplicación web. Para organizar y gestionar al equipo, se utilizó la herramienta Trello. Esta herramienta permitió dividir todas las historias de usuario en tareas manejables y asignarlas a los distintos miembros del equipo.
+
+![backlog-trello](/img/sprint-backlog-3-maki.png)
+
+Link de Trello: https://trello.com/b/7LbQIFjQ
+
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td colspan="7"> <strong>Sprint 3</strong> </td>
+  </tr>
+
+  <tr>
+    <td colspan="2"> <strong>Technical Story</strong></td>
+    <td colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td> <strong>ID</strong> </td>
+    <td> <strong>Title</strong></td>
+    <td> <strong>ID</strong> </td>
+    <td> <strong>Title</strong></td>
+    <td> <strong>Description</strong></td>
+    <td> <strong>Estimation (Hours)</strong></td>
+    <td> <strong>Assigned To</strong></td>
+    <td> <strong> Status (To-do/In-Process/To-Review/Done) </strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="3">TS001</td>
+    <td rowspan="3">Obtener Usuarios</td>
+    <td>TA1</td>
+    <td>Get Profiles</td>
+    <td>Endpoint que retorna los perfiles registrados</td>
+    <td rowspan="3">3</td>
+    <td rowspan="3">Antonella Frida Gonzales, Jair Andreé Coraje </td>
+    <td rowspan="3">Done</td>
+  </tr>
+  <tr>
+    <td>TA2</td>
+    <td>Get Profile by Id</td>
+    <td>Endpoint que retorna un perfil dado un Id</td>
+  </tr>
+  <tr>
+    <td>TA3</td>
+    <td>Post Profile</td>
+    <td>Endpoint que permite le registro de un nuevo perfil</td>
+  </tr>
+  <!------------------------------------------------------------------------>
+  <tr>
+    <td rowspan="3">TS002</td>
+    <td rowspan="3">Obtener Productos</td>
+    <td>TA4</td>
+    <td>Get Products</td>
+    <td>Endpoint que retorna los productos del sistema</td>
+    <td rowspan="3">3</td>
+    <td rowspan="3">Maria Alejandra Díaz </td>
+    <td rowspan="3">Done</td>
+  </tr>
+  <tr>
+    <td>TA5</td>
+    <td>Get Product by Id</td>
+    <td>Endpoint que retorna un producto dado un Id</td>
+  </tr>
+  <tr>
+    <td>TA6</td>
+    <td>Post Product</td>
+    <td>Endpoint que permite el registro de un nuevo producto</td>
+  </tr>
+  <!------------------------------------------------------------------------>
+  <tr>
+    <td rowspan="2">TS003</td>
+    <td rowspan="2">Obtener Categorias</td>
+    <td>TA7</td>
+    <td>Get category by Id</td>
+    <td>Endpoint que retorna una categoria dado un Id</td>
+    <td rowspan="2">3</td>
+    <td rowspan="2">Maria Alejandra Díaz</td>
+    <td rowspan="2">Done</td>
+  </tr>
+  <tr>
+    <td>TA8</td>
+    <td>Post Category</td>
+    <td>Endpoint que permite el registro de una nueva categoria</td>
+  </tr>
+  <!------------------------------------------------------------------------>
+  <tr>
+    <td rowspan="2">TS004</td>
+    <td rowspan="2">Obtener Diseños</td>
+    <td>TA9</td>
+    <td>Get Designs by Id</td>
+    <td>Endpoint que retorna la solicitud de diseño de un producto dado un Id</td>
+    <td rowspan="2">3</td>
+    <td rowspan="2">Braulio Rodrigo Torrejon</td>
+    <td rowspan="2">Done</td>
+  </tr>
+  <tr>
+    <td>TA10</td>
+    <td>Post Design</td>
+    <td>Endpoint que permite el registro de la solicitud de diseño de un producto</td>
+  </tr>
+</table>
+
 #### 5.2.3.3. Development Evidence for Sprint Review 
 
-#### 5.2.3.4. Testing Suite Evidence for Sprint Review 
+|Repository|Branch|Commit id|Commit Mesage|Commit Mesage Body|Commited on (Date)|
+| :- | :- | :- | :- | :- | :- |
+|maki-backend|feature/develop|d449279|Initial commit|-|16/05/2024|
+|maki-backend|feature/develop|0c787a4|feat(develop): added project template|-|16/05/2024|
+|maki-backend|feature/develop|5bc5ce4|fix(develop): added references to layers|-|16/05/2024|
+|maki-backend|feature/TS-001|5bf8e16|feat(login-customer): added initial|-|29/05/2024|
+|maki-backend|feature/TS-001|6c284d4|feat(login-customer): added initial|-|29/05/2024|
+|maki-backend|feature/TS-001|a7cbc7f|feature(customer-register-login): added customer|-|02/06/2024|
+|maki-backend|feature/TS-001|5670fe4|feature(customer-register-login): added customer|-|02/06/2024|
+|maki-backend|feature/request-desing|e599ad9|feature(adding requestdesign bounded context)|-|06/06/2024|
+|maki-backend|feature/request-desing|8534131|feature(fixing somehting)|-|07/06/2024|
+|maki-backend|feature/list-products|4ed88e7|feature(list-products): added product|-|21/05/2024|
+|maki-backend|feature/list-products|eebb413|feat(list-products): updated http methods to be async|-|23/05/2024|
+|maki-backend|feature/list-products|ca910b5|feat(list-products): added fully functional Category table|-|28/05/2024|
+|maki-backend|feature/list-products|441e7c7|feat(list-products): added artisan model|-|28/05/2024|
+|maki-backend|feature/list-products|ffd8ef9|feat(TS-003): added unit tests for products|-|31/05/2024|
+|maki-backend|feature/list-products|f5c4ab7|Merge pull request #1 from WS52-CreateDev/feature/list-products|feat(TS-003): added unit tests for products|31/05/2024|
+|maki-backend|feature/list-products|3da399a|feat(TS-003): added new dependencies|-|31/05/2024|
+|maki-backend|feature/list-products|792c05f|feat(ts-003): added unit test for presentation layer|-|31/05/2024|
+|maki-backend|feature/list-products|c22441a|feat(ts-003): added unit test for category controller|-|31/05/2024|
+|maki-backend|feature/list-products|974425e|feat(list-products): added middleware handler and updated database connection|-|05/06/2024|
+|maki-backend|feature/artisan-data|6445b09|feature(artisan-data): added artisan|-|07/06/2024|
 
+
+
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review 
+Para la entrega del Sprint 3, se ha planificado alcanzar el desarrollo completo del despliegue de la funcionalidad principal del proyecto. En esta sección presentamos la implementación detallada, incluyendo las diferentes características y mejoras que se han realizado, asegurando que el producto final cumpla con los requisitos establecidos y ofrezca una experiencia de usuario óptima.
+
+**Detalles del Repositorio y Commits**
+
+|**Repository**|**Branch Commit Id**|**Commit Message**|**Commit Message Body**|**Commited on (Date)**|
+| :-: | :-: | :-: | :-: | :-: |
+|Project-Repo|2b7d8c5d567f8a6d4f6b8a6e4b3a4d7a2a6f7e8a|feature(fixing something)|BraulioTN|07/06/24|
+|Project-Repo|3c9d1a4e7c1a4e6a7b3a8e6a4b2a6e7b3c9d1a4e|feature(adding requestdesign bounded context)|BraulioTN|06/06/24|
+|Project-Repo|4e6a7c1a4e7c3b9d1a4e6a7c3b9d1a4e7c1a4b2a|fix(develop): added references to layers|alehandraxx|20/05/24|
+|Project-Repo|5a7c3b9d1a4e6a7c3b9d1a4e6a7c3b9d1a4e7c1a|feat(develop): added project template|alehandraxx|20/05/24|
+|Project-Repo|6a7c3b9d1a4e6a7c3b9d1a4e6a7c3b9d1a4e7c1a|Initial commit|alehandraxx|16/05/24|
+|Project-Repo|7b9d1a4e6a7c3b9d1a4e6a7c3b9d1a4e7c3b9d1a|feature(customer-register-login): added customer|Anthonnela|01/06/24|
+|Project-Repo|8a7c3b9d1a4e6a7c3b9d1a4e6a7c3b9d1a4e7c1a|feature(customer-register-login): added customer|Anthonnela|01/06/24|
+|Project-Repo|9c1a4e6a7c3b9d1a4e6a7c3b9d1a4e7c3b9d1a4e|feat(login-customer): added initial|Anthonnela|29/05/24|
+|Project-Repo|1d4e6a7c3b9d1a4e6a7c3b9d1a4e7c3b9d1a4e6a|feat(login-customer): added initial|Anthonnela|29/05/24|
+|Project-Repo|2e6a7c3b9d1a4e6a7c3b9d1a4e7c3b9d1a4e6a7c|feat(list-products): added artisan model|alehandraxx|28/05/24|
+|Project-Repo|3f7c3b9d1a4e6a7c3b9d1a4e6a7c3b9d1a4e6a7c|feat(list-products): added fully functional Category table|alehandraxx|28/05/24|
+|Project-Repo|4a7c3b9d1a4e6a7c3b9d1a4e6a7c3b9d1a4e6a7c|feat(list-products): updated http methods to be async|alehandraxx|23/05/24|
+|Project-Repo|5b9d1a4e6a7c3b9d1a4e6a7c3b9d1a4e7c3b9d1a|feature(list-products): added product|alehandraxx|21/05/24|
+|Project-Repo|6c3b9d1a4e6a7c3b9d1a4e6a7c3b9d1a4e7c1a4e|fix(develop): added references to layers|alehandraxx|20/05/24|
+|Project-Repo|7d1a4e6a7c3b9d1a4e6a7c3b9d1a4e7c3b9d1a4e|feat(develop): added project template|alehandraxx|20/05/24|
+
+Estos commits representan el progreso incremental y las mejoras realizadas en el proyecto. Cada commit se ha realizado con la intención de cumplir con las especificaciones del diseño y las funcionalidades requeridas, asegurando la calidad y estabilidad del código.
 #### 5.2.3.5. Execution Evidence for Sprint Review 
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review  
 
+Hemos desarrollado una serie de endpoints para la gestión de roles y usuarios en nuestra aplicación. A continuación, se detallan estos endpoints y cómo interactuar con ellos:
+
+<h3>Customer</h3>
+<h4>GET</h4>
+<strong>Path: </strong>/Customer</br>
+<strong>Parámetros: Ninguno</strong></br>
+Este endpoint recupera todas los clientes disponibles en la aplicación.
+
+
+![Imagen](https://cdn.discordapp.com/attachments/1231761393368174644/1248407462705500241/image.png?ex=66638d8d&is=66623c0d&hm=e96c6fe9dd9cbfb6381d4ef36a46a84ef8f303b5157195f610bb6c1535157bdc&)
+
+
+<h4>POST</h4>
+<strong>Path: </strong>/Customer</br>
+<strong>Parámetros: {nombre, email, password}</strong></br>
+Este endpoint crea un nuevo cliente en la aplicación.
+
+![Imagen](https://cdn.discordapp.com/attachments/1231761393368174644/1248408241361260634/image.png?ex=66638e47&is=66623cc7&hm=b91162b289765da010ac850b00bab3dcf03adfd5f493fa8b7faf809764bc627e&)
+
+
+<h4>GET</h4>
+<strong>Path: </strong>/Customer</br>
+<strong>Parámetros: {id}</strong></br>
+Este endpoint recupera el cliente con el id especificado.
+
+![Imagen](https://cdn.discordapp.com/attachments/1231761393368174644/1248408929013334081/image.png?ex=66638eea&is=66623d6a&hm=73b3e82f3c542fe5b67a36b697ed68dbda334a6a1bf7007b6bb8cbee1396c058& )
+
+
+<h4>PUT</h4>
+<strong>Path: </strong>/Customer</br>
+<strong>Parámetros:  {nombre, email, password}</strong></br>
+Este endpoint actualiza el cliente con el id especificado.
+
+![Imagen](https://cdn.discordapp.com/attachments/1231761393368174644/1248410985748762705/image.png?ex=666390d5&is=66623f55&hm=d49c20cd40fa4575f45db9ba0d63534c02a60a42907ac8c217207b84e4137b0e&)
+
+
+<h4>POST</h4>
+<strong>Path: </strong>/Customer</br>
+<strong>Parámetros:  {email, password}</strong></br>
+Este endpoint autentica al cliente y devuelve un token de acceso.
+
+![Imagen](https://cdn.discordapp.com/attachments/1231761393368174644/1248412143955611648/image.png?ex=666391e9&is=66624069&hm=6338370cc8a207c14e137ea2a21755443cd35fe5ee8516ea584e463f8ca3f8c1&)
+
+
+
+<h4>DELETE</h4>
+<strong>Path: </strong>/Customer</br>
+<strong>Parámetros:  {id}</strong></br>
+Este endpoint elimina el cliente con el id especificado.
+
+![Imagen](https://cdn.discordapp.com/attachments/1231761393368174644/1248412440635641916/image.png?ex=66639230&is=666240b0&hm=d49786de36677bb4cfacb5c9c612b0c75007edf4949ebd77e40d90ec3e05ada4&)
+
+
+<h3>Product</h3>
+<h4>GET</h4>
+<strong>Path: </strong>/Product</br>
+<strong>Parámetros: Ninguno</strong></br>
+Este endpoint recupera todas los productos disponibles en la aplicación.
+
+![Imagen]( https://cdn.discordapp.com/attachments/1231761393368174644/1248414550152187956/image.png?ex=66639427&is=666242a7&hm=828a9b279707db995d5f1e9ae51797164c022ba310ce58447da26bfc7e5d2ce2&)
+
+
+<h4>POST</h4>
+<strong>Path: </strong>/Product</br>
+<strong>Parámetros:  {nombre, precio, descripcion}</strong></br>
+Este endpoint crea un nuevo producto en la aplicación.
+
+![Imagen]( https://cdn.discordapp.com/attachments/1231761393368174644/1248414828473749654/image.png?ex=66639469&is=666242e9&hm=4d6778db48b5541a30318c21753e70d2a8cb03320d989ac6b324991c937fffcd&)
+
+
+<h4>GET</h4>
+<strong>Path: </strong>/Product</br>
+<strong>Parámetros:  {id}</strong></br>
+Este endpoint recupera el producto con el id especificado.
+
+![Imagen](https://cdn.discordapp.com/attachments/1231761393368174644/1248415289708777532/image.png?ex=666394d7&is=66624357&hm=d58f270c303e35fc28598ed941931618824a04f78816e9f9283dba98d770dc5d& )
+
+
+<h4>PUT</h4>
+<strong>Path: </strong>/Product</br>
+<strong>Parámetros: {nombre, precio, descripcion}</strong></br>
+Este endpoint actualiza el producto con el id especificado.
+
+![Imagen]( https://cdn.discordapp.com/attachments/1231761393368174644/1248415503819473056/image.png?ex=6663950a&is=6662438a&hm=a2df0b544b346340a5918b6012c6097501a8739ff7f98bcc33df03868ec9c0b3&)
+
+
+<h4>DELETE</h4>
+<strong>Path: </strong>/Product</br>
+<strong>Parámetros: {id}</strong></br>
+ste endpoint elimina el producto con el id especificado.
+
+![Imagen](https://cdn.discordapp.com/attachments/1231761393368174644/1248415779859206144/image.png?ex=6663954c&is=666243cc&hm=9dd96b97eae66a8928aa880f7a8a313eb0dd4b72ff0a79cb84ffdaa39cb61101& )
+
+
+<h3>Category</h3>
+<h4>GET</h4>
+<strong>Path: </strong>/Category</br>
+<strong>Parámetros: Ninguno</strong></br>
+Este endpoint recupera todos las categorías disponibles en la aplicación.
+
+![Imagen](https://cdn.discordapp.com/attachments/1231761393368174644/1248417007775387700/image.png?ex=66639671&is=666244f1&hm=fd64cd2792ff8f067f5a48e8c4f7f02483b46e30bab74a35f18261e7e178b19b&)
+
+
+
+<h4>POST</h4>
+<strong>Path: </strong>/Category</br>
+<strong>Parámetros:  {nombre, descripcion}</strong></br>
+Este endpoint crea una nueva categoría en la aplicación.
+
+![Imagen](https://cdn.discordapp.com/attachments/1231761393368174644/1248417372654800907/image.png?ex=666396c8&is=66624548&hm=c0be1f73c1e84b61a41fa01cd517d93bc9f068b8372d306580aec6aa7abd4241&)
+
+
+<h4>GET</h4>
+<strong>Path: </strong>/Category</br>
+<strong>Parámetros: {id}</strong></br>
+Este endpoint recupera la categoría con el id especificado.
+
+![Imagen](https://cdn.discordapp.com/attachments/1231761393368174644/1248417580335497287/image.png?ex=666396f9&is=66624579&hm=bf00f3054249c4f928cd83d0e60e1305314b0767815d4f665428fbcd5ad20fda&)
+
+
+<h4>PUT</h4>
+<strong>Path: </strong>/Category</br>
+<strong>Parámetros: {nombre, descripcion}</strong></br>
+Este endpoint actualiza la categoría con el id especificado.
+
+![Imagen](https://cdn.discordapp.com/attachments/1231761393368174644/1248417869461459015/image.png?ex=6663973e&is=666245be&hm=34f842433d3ebf2455080717c26cd0abb1ab99c547a2be1a084880069af9296a&)
+
+
+<h4>DELETE</h4>
+<strong>Path: </strong>/Category</br>
+<strong>Parámetros: {id}</strong></br>
+Este endpoint elimina la categoría con el id especificado.
+
+![Imagen](https://cdn.discordapp.com/attachments/1231761393368174644/1248418019181596782/image.png?ex=66639762&is=666245e2&hm=c706f3334cbe2fd057afd293c85324a2d6daf56ea210c2be89528651492584da&)
+
+
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
+Para el despliegue de la base de datos MySQL se utilizo la herramienta de Railway app. Esta nos permite construir y monitorerar aplicaciones o contenedores en la nube.
+
+![Railway](/img/railway-mysql.png)
+
+Evidencia de la base de datos en Workbench:
+
+![Credentials](/img/credentials-mysql.png)
+![MySQL](/img/makidb-mysql.png)
+
 #### 5.2.3.8. Team Collaboration Insights during Sprint
+
+Durante nuestro tercer Sprint, utilizamos Visual Studio Code junto con Git para gestionar los commits. Uno de los miembros del equipo inició el proceso creando el repositorio con un primer commit. Luego, clonamos este repositorio y realizamos los cambios necesarios en Visual Studio Code. Para organizar estos cambios, creamos ramas específicas para cada modificación. Posteriormente, hicimos los commits correspondientes y enviamos pull requests para su revisión en el repositorio de GitHub. Finalmente, el líder del equipo aprobó los pull requests que se solicitaron.
+![Collab](/img/443.png)
+![Collab](/img/444.png)
 
 ## 5.3. Validation Interviews
 
 ### 5.3.1. Diseño de Entrevistas
 
+- User Goal: Navegar por la landing page
+User persona → Artesanos y clientes
+Explicación del flujo → El usuario deberá ingresar a la landing page de la aplicación web. En esta, podrá desplazarse y visualizar información general sobre los servicios ofrecidos, así como los beneficios de utilizar la aplicación. Además, podrá cambiar el idioma a inglés o español a través de un botón. También, tendrá acceso directo a la aplicación web a través de un Call To Action situado en la vista principal de la landing page.
+
+- User Goal: Iniciar sesión
+User persona → Artesanos y clientes
+Explicación del flujo → Primero, el usuario deberá ingresar a la aplicación desplegada. A continuación, verá en la pantalla un formulario que le pedirá sus datos de inicio de sesión, específicamente su correo electrónico y contraseña. Una vez validadas las credenciales, el sistema le permitirá ingresar a la aplicación. En caso el usuario no tenga una cuenta, puede registrarse completando otro formulario con sus datos personales.
+
+- User Goal: Ver perfil
+User persona → Artesanos y clientes
+Explicación del flujo → El usuario tiene dos formas de acceder a su perfil. La primera opción es a través de un panel lateral ubicado a la izquierda de la aplicación; al hacer clic en el ícono de la persona, podrá acceder a su perfil, donde verá sus datos personales y detalles de la cuenta. La segunda opción es desde la barra de navegación en la parte superior de la aplicación; al hacer clic en "Mi perfil", accederá a la misma vista mencionada.
+
+- User Goal: Buscar productos
+User persona → Clientes
+Explicación del flujo → Primero el usuario puede acceder a la vista de búsqueda de productos desde el sidebar lateral, donde podrá buscar productos por nombre, categoría o artesano. Además, podrá filtrar los resultados de la búsqueda. Una vez seleccionado un producto, podrá ver sus detalles, añadirlo al carrito, y proceder a la compra.
+
+- User Goal: Administrar productos
+User persona → Artesanos
+Explicación del flujo → El usuario deberá acceder a la vista de gestión de productos. En esta, podrá ver los productos que ha subido a la plataforma, así como añadir nuevos productos, editar detalles de los existentes, y eliminar aquellos que ya no desea vender. Además, podrá revisar las peticiones de patrones personalizadas realizadas por los usuarios.
+
+- User Goal: Comprar un producto
+User persona → Clientes
+Explicación del flujo → El usuario deberá buscar y seleccionar el producto que desea comprar. Una vez en la página del producto, puede añadirlo al carrito de compras. Desde el carrito, el usuario podrá proceder al checkout, donde ingresará sus datos de envío y pago para completar la compra. Tras finalizar la compra, recibirá una confirmación y detalles del pedido.
+
+- User Goal: Subir un producto
+User persona → Artesanos
+Explicación del flujo → El usuario deberá acceder a la vista de gestión de productos. En esta, podrá seleccionar la opción para añadir un nuevo producto, completando un formulario con los detalles del producto, incluyendo imágenes, descripción, precio, y categoría. Una vez completados todos los campos, podrá subir el producto a la plataforma, donde estará disponible para que los clientes lo vean y compren.
+
+- User Goal: Revisar peticiones de patrones
+User persona → Artesanos
+Explicación del flujo → El usuario podrá acceder a las peticiones de patrones desde su panel de administración. Aquí, podrá ver una lista de solicitudes realizadas por los clientes, con detalles específicos de cada petición. El artesano puede aceptar, rechazar o solicitar más información sobre la petición, y mantener comunicación directa con el cliente si es necesario.
+
+- User Goal: Solicitar un diseño personalizado
+User persona → Clientes
+Explicación del flujo → El usuario podrá seleccionar la opción de "Solicitar diseño personalizado" desde la página principal o desde la vista de un producto. Al hacer clic, será dirigido a un formulario donde podrá describir el diseño deseado, adjuntar referencias y especificar detalles adicionales. Una vez enviada la solicitud, el artesano correspondiente podrá revisarla y comunicarse con el cliente para afinar detalles.
+
+- User Goal: Administrar pedidos
+User persona → Artesanos
+Explicación del flujo → El usuario deberá acceder a la vista de gestión de pedidos. Aquí, podrá ver todos los pedidos realizados por los clientes, con detalles como el estado del pedido, fecha de realización, y productos incluidos. El artesano podrá actualizar el estado del pedido (por ejemplo, en preparación, enviado, completado) y añadir comentarios si es necesario.
+
 ### 5.3.2. Registro de Entrevistas
 
-### 5.3.3. Evaluaciones según heurísticas
+Entrevistas a Clientes
+
+<table>
+    <thead>
+        <tr>
+            <th>Entrevistado 1</th>
+            <th>Christian Barzola</th>
+        </tr>
+        <tr>
+            <th>Entrevistador</th>
+            <th>Antonella Gonzales</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Edad</td>
+            <td>21</td>
+        </tr>
+        <tr>
+            <td>Distrito</td>
+            <td>San Martin de Porres</td>
+        </tr>
+        <tr>
+            <td>
+                <img src="https://cdn.discordapp.com/attachments/1231761393368174644/1248426274121318551/image.png?ex=66639f12&is=66624d92&hm=7c013cbbfb5e6a3de8f34e2e1e4487cd35a39f5686536c027d4bc0a3c4162162" alt="Imagen">
+            </td>
+            <td>
+                <strong>Resumen:</strong><br>
+                Durante la conversación, Christian compartió sus impresiones sobre la aplicación desde la perspectiva del usuario. Destacó que encuentra la aplicación satisfactoria y que cumple con las expectativas de un usuario exigente. Le pareció interesante y elogió su interfaz intuitiva. Sin embargo, también señaló algunas áreas de mejora potencial en la aplicación. En particular, mencionó la necesidad de reducir la redundancia en la interfaz, ya que considera que esto puede generar confusión entre los usuarios. Sus comentarios ofrecen valiosas sugerencias para perfeccionar aún más la experiencia del usuario en la aplicación.
+            </td>
+        </tr>
+        <tr>
+            <td>Timing de la entrevista</td>
+            <td>10</td>
+        </tr>
+        <tr>
+            <td>URL de la entrevista</td>
+            <td>https://shorturl.at/bJqzI</td>
+        </tr>
+        <tr>
+            <th>Entrevistado 2</th>
+            <th>Carla Jaimes</th>
+        </tr>
+        <tr>
+            <th>Entrevistador</th>
+            <th>Alejandra Diaz</th>
+        </tr>
+        <tr>
+            <td>Edad</td>
+            <td>36</td>
+        </tr>
+        <tr>
+            <td>Distrito</td>
+            <td>San Martin de Porres</td>
+        </tr>
+        <tr>
+            <td>
+                <img src="/img/client1-interview.png" alt="Foto de entrevista">
+            </td>
+            <td>
+                <strong>Resumen:</strong><br>
+                La entrevistada logra completar todos los user Goals, destaca que la aplicacion y Landing Page tienen potencial y es facil de utilizar. Desea poder encontrar mas caracteristicas que puedan destacar a la plataforma dentro de la competencia ya existente en el mercado.
+            </td>
+        </tr>
+        <tr>
+            <td>Timing de la entrevista</td>
+            <td>0:00 min</td>
+        </tr>
+        <tr>
+            <td>URL de la entrevista</td>
+            <td>https://shorturl.at/bJqzI</td>
+        </tr>
+    </tbody>
+</table>
+
+<h2>Entrevista a Artesanos</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Entrevistado 1</th>
+            <th>Olga Samanez</th>
+        </tr>
+        <tr>
+            <th>Entrevistador</th>
+            <th>Alejandra Diaz</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Edad</td>
+            <td>52</td>
+        </tr>
+        <tr>
+            <td>Distrito</td>
+            <td>Pueblo Libre</td>
+        </tr>
+        <tr>
+            <td>
+                <img src="/img/artisan1-interview.png" alt="Foto de entrevista">
+            </td>
+            <td>
+                <strong>Resumen:</strong><br>
+                La entrevistada logra completar todos los user Goals, destaca que la aplicacion y Landing Page tienen potencial y es facil de utilizar. Desea poder encontrar mas caracteristicas que puedan destacar a la plataforma dentro de la competencia ya existente en el mercado.
+            </td>
+        </tr>
+        <tr>
+            <td>Timing de la entrevista</td>
+            <td>11:06 min</td>
+        </tr>
+        <tr>
+            <td>URL de la entrevista</td>
+            <td>https://shorturl.at/bJqzI</td>
+        </tr>
+        <tr>
+    </tbody>
+</table>
+
+### 5.3.3. Sprint 4
+El objetivo de este sprint es desplgar la versión final de los servicios backend y frontend de la aplicación Maki.
+Para lograr este objetivo se culminarán las historias de usuario restantes.
+
+##### 5.3.3.1. Sprint Planning 4
+
+Para lograr el objetivo de este sprint, primero se realizó una reunión de planificación. En esta reunión,
+se establecieron fechas y tareas especificas para cada uno de los integrantes del equipo.
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center">Sprint #</th>
+      <th style="text-align:center">Sprint 4</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2"><strong>Sprint Planning Background</strong></td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Date</td>
+      <td style="text-align:center">17/06/2024</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Time</td>
+      <td style="text-align:center">9:00 pm</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Location</td>
+      <td style="text-align:center">Discord</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Prepared By</td>
+      <td style="text-align:center">Alejandra Diaz</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Attendees</td>
+      <td style="text-align:center">
+      Todos los integrantes del equipo
+      </td>
+    </tr>
+    <tr>
+      <td>Sprint 4 Review Summary</td>
+      <td>
+        Durante esta reunión, se establecieron los objetivos, se asignaron las tareas específicas y se discutieron los posibles desafíos técnicos que podrían surgir durante la implementación.
+      </td>
+    </tr>
+    <tr>
+      <td>Sprint 4 Retrospective Summary</td>
+      <td>
+        En el sprint anterior logramos completar la entrega de un gran porcentaje de las historias de usuario. La opinión de los segmentos objetivo respecto al progreso alcanzado hasta el entregable anterior fue positiva.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Sprint 4 Goal</td>
+      <td style="text-align:center">Desplegar la versión final de los servicios bakcend y frotend de Maki</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Sprint 4 Velocity</td>
+      <td style="text-align:center"></td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Sum of Story Points</td>
+      <td style="text-align:center">  </td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.3.3.2. Sprint Backlog 4
+
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td colspan="7"> <strong>Sprint 4</strong> </td>
+  </tr>
+
+  <tr>
+    <td colspan="2"> <strong>Technical Story</strong></td>
+    <td colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td> <strong>ID</strong> </td>
+    <td> <strong>Title</strong></td>
+    <td> <strong>ID</strong> </td>
+    <td> <strong>Title</strong></td>
+    <td> <strong>Description</strong></td>
+    <td> <strong>Estimation (Hours)</strong></td>
+    <td> <strong>Assigned To</strong></td>
+    <td> <strong> Status (To-do/In-Process/To-Review/Done) </strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="5">TS001</td>
+    <td rowspan="5">Obtener User</td>
+    <td>TA1</td>
+    <td>Get Users</td>
+    <td>Endpoint que retorna los perfiles registrados del IAM</td>
+    <td rowspan="5">3</td>
+    <td rowspan="5">Alejandra Diaz</td>
+    <td rowspan="5">Done</td>
+  </tr>
+  <tr>
+    <td>TA2</td>
+    <td>Get User by Id</td>
+    <td>Endpoint que retorna un perfil dado un Id</td>
+  </tr>
+  <tr>
+    <td>TA3</td>
+    <td>Post User</td>
+    <td>Endpoint que permite el registro de un nuevo perfil</td>
+  </tr>
+  <tr>
+    <td>TA4</td>
+    <td>Update User</td>
+    <td>Endpoint que permite la edicion de un perfil</td>
+  </tr>
+  <tr>
+    <td>TA5</td>
+    <td>Delete User</td>
+    <td>Endpoint que permite la eliminacion de un perfil</td>
+  </tr>
+  <!------------------------------------------------------------------------>
+  <tr>
+    <td rowspan="5">TS002</td>
+    <td rowspan="5">Obtener Product</td>
+    <td>TA1</td>
+    <td>Get Products</td>
+    <td>Endpoint que retorna los productos registrados en la base de datos</td>
+    <td rowspan="5">4</td>
+    <td rowspan="5">Alejandra Diaz</td>
+    <td rowspan="5">Done</td>
+  </tr>
+  <tr>
+    <td>TA2</td>
+    <td>Get Product by Id</td>
+    <td>Endpoint que retorna un producto dado un Id</td>
+  </tr>
+  <tr>
+    <td>TA3</td>
+    <td>Post Product</td>
+    <td>Endpoint que permite el registro de un nuevo producto</td>
+  </tr>
+  <tr>
+    <td>TA4</td>
+    <td>Update Product</td>
+    <td>Endpoint que permite la edicion de un producto</td>
+  </tr>
+  <tr>
+    <td>TA5</td>
+    <td>Delete Product</td>
+    <td>Endpoint que permite la eliminacion de un producto</td>
+  </tr>
+    <!------------------------------------------------------------------------>
+  <tr>
+    <td rowspan="5">TS003</td>
+    <td rowspan="5">Obtener Category</td>
+    <td>TA1</td>
+    <td>Get Categories</td>
+    <td>Endpoint que retorna las categorias registradas en la base de datos</td>
+    <td rowspan="5">3</td>
+    <td rowspan="5">Alejandra Diaz</td>
+    <td rowspan="5">Done</td>
+  </tr>
+  <tr>
+    <td>TA2</td>
+    <td>Get Category by Id</td>
+    <td>Endpoint que retorna una categoria dado un Id</td>
+  </tr>
+  <tr>
+    <td>TA3</td>
+    <td>Post Category</td>
+    <td>Endpoint que permite el registro de una nueva categoria</td>
+  </tr>
+  <tr>
+    <td>TA4</td>
+    <td>Update Category</td>
+    <td>Endpoint que permite la edicion de una categoria</td>
+  </tr>
+  <tr>
+    <td>TA5</td>
+    <td>Delete Category</td>
+    <td>Endpoint que permite la eliminacion de una categoria</td>
+  </tr>
+  <!------------------------------------------------------------------------>
+</table>
+
+
+#### 5.3.3.3. Development Evidence for Sprint Review
+
+<table>
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id</th>
+    <th>Commit Message</th>
+    <th>Commit Message Body</th>
+    <th>Committed on (Date)</th>
+  </tr>
+  <tr>
+  <!-- rowspan="number of rows" -->
+    <td rowspan="50"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+#### 5.3.3.4. Testing Suite Evidence for Sprint Review
+
+#### 5.3.3.5. Execution Evidence for Sprint Review
+
+#### 5.3.3.6. Services Documentation Evidence for Sprint Review
+
+En este Sprint, se ha logrado documentar los siguientes Endpoints utilizando OpenAPI. La siguiente 
+tabla resume los Endpoints documentados, las acciones implementadas y ejemplos de su uso.
+
+OpenApi: 
+
+| Endpoint           | Acción  | Verbo HTTP | Parámetros / Request Body | Imagen |
+|--------------------|---------|------------|---------------------------|--------|
+| `/api/v1/user`                                                              | Obtener todos los users                                                 | GET        | `null`                                                                                                                                                                                                                                     | ![Get Users](/img/get-profiles.png)            |
+| `/api/v1/user`                                                              | Crear un user                                                            | POST       | `{"username": "string","password": "string","role": "string"}`                                                                                       | ![Post Profiles](/img/post-profiles.png)           |
+| `/api/user/{userId}`                                                     | Obtener un usuario por ID                                                  | GET        | `userId: Integer`                                                                                                                                                                                                                       | ![Get User by id](/img/get-profile-id.png)     |
+
+#### 5.3.3.7 Software Deployment Evidence for Sprint Review
+
+En esta sección se mostrará cómo se logró el despligue de los servicios creados para este sprint. Se describirá generalmente los pasos y plataformas utilizadas.
+
+- Despligue de la base de datos 
+
+Para el despliegue de la base de datos MySQL se utilizo la herramienta de Railway app. Esta nos permite construir y monitorerar aplicaciones o contenedores en la nube.
+
+![Railway](/img/railway-mysql.png)
+
+Evidencia de la base de datos en Workbench:
+
+![Credentials](/img/credentials-mysql.png)
+![MySQL](/img/makidb-mysql.png)
+
+- Despligue de los servicios
+
+Para el despliegue del servicio backend utilizamos Zeabur, la cual es una plataforma que nos ayuda a implementar los servicios de forma muy sencilla.
+
+![ServicesDeployment](/img/services-deployment.png)
+
+Enlace: 
+
+#### 5.3.3.8 Team Collaboration Insights during Sprint
+
+### 5.3.4. Evaluaciones según heurísticas
+
+No se logro completar en esta entrega
 
 ## 5.4. Video About-the-Product
+
+En esta sección presentamos el video about the product. Este consolida una orientación promocional, resumiendo el modelo de nuestro negocio de Maki, las características y beneficios del producto, incluyendo algunas escenas de interacción con el producto.
+
+<img src="/img/about-the-product-video.png"></img>
+
+Link de Microsoft Stream: https://shorturl.at/LTPJ0
+
+Link de Youtube: https://youtu.be/6G13QMLYB5A
 
 ## Avance de Conclusiones, Bibliografía y Anexos.
 
 ### **Conclusiones**
+
+En conclusión, el propósito de este informe consiste en elaborar un documento que incluya especificaciones que permitan documentar una solución de software. Para lograrlo, es necesario incluir información detallada sobre el proyecto a desarrollar, lo cual implica describir la idea de manera clara y concisa. Este análisis debe ser completo y exhaustivo, y debe proporcionar información detallada sobre los requisitos, las funcionalidades y los objetivos del software.
+
+Las user stories son una herramienta útil para describir requisitos de software de manera simple y centrada en el usuario. En conclusión, las user stories son una herramienta importante en el desarrollo de software ágil para garantizar que el equipo esté creando un producto centrado en el usuario y que se estén satisfaciendo las necesidades del cliente de manera efectiva.
   
 ### **Bibliografía**
 
@@ -912,15 +1627,15 @@ Recuperado de https://www.rcrperu.com/exportacion-de-artesania-se-agrava-por-pan
                 </td>
             </tr>
             <tr>
-                <td>Exposicion TB3</td>
+                <td>Exposicion TB2</td>
                 <td>Cantidad de videos: 1 <br>
-                  Nomenclatura: upc-pre-202401-si730-ws52-createDev-expo-tb3 <br>
+                  Nomenclatura: upc-pre-202401-si730-ws52-createDev-expo-tb2 <br>
                   Formato: .mp4 <br>
-                  Duración: min</td>
-                <td>Consolida las exposiciones del TP</td>
-                <td>Link: 
+                  Duración: 9:21 min</td>
+                <td>Consolida las exposiciones del TB2</td>
+                <td>Link: https://shorturl.at/GUbJG
                 Captura: <br> 
-                  <img src="" width="350"></img> </td>
+                  <img src="/img/keynote-tb2.png" width="350"></img> </td>
                 </td>
             </tr>
             <tr>
@@ -936,9 +1651,9 @@ Recuperado de https://www.rcrperu.com/exportacion-de-artesania-se-agrava-por-pan
                     interactúen con el landing
                     page y con los prototipos
                     de experiencias web.</td>
-                <td>Link: 
+                <td>Link: https://shorturl.at/bJqzI
                 Captura: <br>
-                  <img src="" width="350"></img> </td>
+                  <img src="/img/interview-picture.png" width="350"></img> </td>
                 </td>
             </tr>
             <tr>
@@ -946,19 +1661,16 @@ Recuperado de https://www.rcrperu.com/exportacion-de-artesania-se-agrava-por-pan
                 <td>Cantidad de videos: 1 <br>
                   Nomenclatura: upc-pre-202401-si730-ws52-createDev-about-the-product-sprint-3 <br>
                   Formato: .mp4 <br>
-                  Duración: min</td>
+                  Duración: 4:41 min</td>
                 <td>Consolida la orientación promocional,
                     resumiendo el modelo de
                     negocio, las características
                     y beneficios del producto,
                     incluyendo algunas escenas
-                    de interacción con el
-                    producto y al menos una
-                    opinión por cada segmento
-                    objetivo. </td>
-                <td>Link: 
+                    de interacción con el producto. </td>
+                <td>Link Streams: https://shorturl.at/LTPJ0 Link de Youtube: https://youtu.be/6G13QMLYB5A
                 Captura: <br> 
-                  <img src="" width="350"></img> </td>
+                  <img src="/img/about-the-product-video.png" width="350"></img> </td>
                 </td>
             </tr>
             <tr>
@@ -984,6 +1696,18 @@ Recuperado de https://www.rcrperu.com/exportacion-de-artesania-se-agrava-por-pan
                 <td>Link: 
                 Captura: <br> 
                   <img src="" width="350"></img> </td>
+                </td>
+            </tr>
+            <tr>
+                <td>Exposicion TF</td>
+                <td>Cantidad de videos: 1 <br>
+                  Nomenclatura: upc-pre-202401-si730-ws52-createDev-expo-tf <br>
+                  Formato: .mp4 <br>
+                  Duración: min</td>
+                <td>Consolida las exposiciones del TF</td>
+                <td>Link: 
+                Captura: <br> 
+                  <img src="/img/keynote-tf.png" width="350"></img> </td>
                 </td>
             </tr>
         </tbody>
