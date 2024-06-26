@@ -47,6 +47,7 @@
 | 2.0     | 1/05/2024 | Antonella Gonzales | Se realizo una parte del capitulo 5 y el backend api customer                                   |
 | 3.0     | 06/06/2024 | Antonella Gonzales | Se realizo una parte del capitulo 5 y el backend api customer                                    |
 | 3.1     | 07/06/2024 | Alejandra Díaz | Se actualizo una parte del capitulo 5                                    |
+| 4.0     | 26/06/2024 | Antonella Gonzales | Se realizo una parte del capitulo 5 y el backend api customer                                   |
 
 
 ### Project Report Collaboration Insights
